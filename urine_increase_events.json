@@ -334,5 +334,19 @@
       "area": "Russia",
       "region": "Europe/Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-03-30T12:22:20.117663+00:00",
+    "source_time_gmt": "89/12:17:29",
+    "previous_urine": 51.0,
+    "current_urine": 55.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 19.6159,
+      "longitude": 119.5118,
+      "timestamp": 1774873340,
+      "area": "China",
+      "region": "East Asia"
+    }
   }
 ]
