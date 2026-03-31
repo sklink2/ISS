@@ -824,5 +824,19 @@
       "area": "Algeria",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-03-31T11:23:35.449989+00:00",
+    "source_time_gmt": "90/11:19:24",
+    "previous_urine": 40.0,
+    "current_urine": 43.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 48.9232,
+      "longitude": 79.5621,
+      "timestamp": 1774956216,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
