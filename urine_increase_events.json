@@ -1132,5 +1132,19 @@
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-01T06:39:43.072153+00:00",
+    "source_time_gmt": "91/6:36:53",
+    "previous_urine": 12.0,
+    "current_urine": 14.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -51.349,
+      "longitude": -66.7626,
+      "timestamp": 1775025583,
+      "area": "Argentina",
+      "region": "South America"
+    }
   }
 ]
