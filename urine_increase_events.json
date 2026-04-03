@@ -2112,5 +2112,19 @@
       "area": "Algeria",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-03T09:37:56.349292+00:00",
+    "source_time_gmt": "93/9:34:47",
+    "previous_urine": 33.0,
+    "current_urine": 35.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -39.3074,
+      "longitude": -165.614,
+      "timestamp": 1775209080,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
   }
 ]
