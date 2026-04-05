@@ -2980,5 +2980,19 @@
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-05T08:52:23.140604+00:00",
+    "source_time_gmt": "95/8:50:48",
+    "previous_urine": 40.0,
+    "current_urine": 43.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 40.3683,
+      "longitude": 16.0077,
+      "timestamp": 1775379144,
+      "area": "Italy",
+      "region": "Europe"
+    }
   }
 ]
