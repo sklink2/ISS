@@ -2966,5 +2966,19 @@
       "area": "Japan",
       "region": "East Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-05T08:00:36.450355+00:00",
+    "source_time_gmt": "95/7:59:58",
+    "previous_urine": 49.0,
+    "current_urine": 50.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -26.8033,
+      "longitude": -169.5763,
+      "timestamp": 1775376037,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
   }
 ]
