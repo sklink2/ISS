@@ -2952,5 +2952,19 @@
       "area": "Argentina",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-05T07:39:50.045067+00:00",
+    "source_time_gmt": "95/7:38:6",
+    "previous_urine": 51.0,
+    "current_urine": 52.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 33.7984,
+      "longitude": 140.0727,
+      "timestamp": 1775374793,
+      "area": "Japan",
+      "region": "East Asia"
+    }
   }
 ]
