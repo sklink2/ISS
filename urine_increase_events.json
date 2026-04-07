@@ -2994,5 +2994,19 @@
       "area": "United Kingdom",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-07T15:06:22.228907+00:00",
+    "source_time_gmt": "97/15:5:37",
+    "previous_urine": 40.0,
+    "current_urine": 41.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 44.5581,
+      "longitude": -81.962,
+      "timestamp": 1775574384,
+      "area": "United States",
+      "region": "North America"
+    }
   }
 ]
