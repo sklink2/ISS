@@ -2952,5 +2952,19 @@
       "area": "Indian Ocean",
       "region": "Indian Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-08T20:13:10.448562+00:00",
+    "source_time_gmt": "98/20:9:52",
+    "previous_urine": 51.0,
+    "current_urine": 53.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -6.4592,
+      "longitude": 137.7249,
+      "timestamp": 1775679193,
+      "area": "Indonesia",
+      "region": "Southeast Asia"
+    }
   }
 ]
