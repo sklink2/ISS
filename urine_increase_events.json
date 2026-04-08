@@ -2966,5 +2966,19 @@
       "area": "Oceania",
       "region": "Oceania"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-08T14:29:44.063348+00:00",
+    "source_time_gmt": "98/14:28:3",
+    "previous_urine": 57.0,
+    "current_urine": 60.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 50.1952,
+      "longitude": -21.8115,
+      "timestamp": 1775658592,
+      "area": "Europe",
+      "region": "Europe"
+    }
   }
 ]
