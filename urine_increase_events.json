@@ -2896,5 +2896,19 @@
       "area": "France",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-09T14:07:27.949745+00:00",
+    "source_time_gmt": "99/13:58:4",
+    "previous_urine": 48.0,
+    "current_urine": 50.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -11.1409,
+      "longitude": 58.8511,
+      "timestamp": 1775743649,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean"
+    }
   }
 ]
