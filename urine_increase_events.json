@@ -2938,5 +2938,19 @@
       "area": "North America",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-09T04:19:50.505192+00:00",
+    "source_time_gmt": "99/4:17:31",
+    "previous_urine": 9.0,
+    "current_urine": 11.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 50.1475,
+      "longitude": 90.7778,
+      "timestamp": 1775708406,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
