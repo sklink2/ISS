@@ -2798,5 +2798,19 @@
       "area": "Canada",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-10T16:26:39.807128+00:00",
+    "source_time_gmt": "100/16:23:2",
+    "previous_urine": 34.0,
+    "current_urine": 36.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -10.3048,
+      "longitude": 16.8524,
+      "timestamp": 1775838401,
+      "area": "Africa",
+      "region": "Africa"
+    }
   }
 ]
