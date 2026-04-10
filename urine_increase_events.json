@@ -2798,5 +2798,19 @@
       "area": "Australia",
       "region": "Oceania"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-10T18:41:13.544925+00:00",
+    "source_time_gmt": "100/18:38:42",
+    "previous_urine": 44.0,
+    "current_urine": 46.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -4.2865,
+      "longitude": 150.9708,
+      "timestamp": 1775846475,
+      "area": "Oceania",
+      "region": "Oceania"
+    }
   }
 ]
