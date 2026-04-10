@@ -2924,5 +2924,19 @@
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-10T05:03:21.681129+00:00",
+    "source_time_gmt": "100/4:58:58",
+    "previous_urine": 9.0,
+    "current_urine": 11.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 45.5075,
+      "longitude": 55.9596,
+      "timestamp": 1775797402,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
