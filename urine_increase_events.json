@@ -2798,5 +2798,19 @@
       "area": "India",
       "region": "South Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-11T01:14:52.755753+00:00",
+    "source_time_gmt": "101/1:12:59",
+    "previous_urine": 69.0,
+    "current_urine": 70.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 50.4875,
+      "longitude": 128.2116,
+      "timestamp": 1775870093,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
