@@ -2770,5 +2770,19 @@
       "area": "China",
       "region": "East Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-11T00:23:08.448025+00:00",
+    "source_time_gmt": "101/0:21:52",
+    "previous_urine": 61.0,
+    "current_urine": 62.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -42.3747,
+      "longitude": -66.2242,
+      "timestamp": 1775866989,
+      "area": "Argentina",
+      "region": "South America"
+    }
   }
 ]
