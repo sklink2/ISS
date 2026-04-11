@@ -2728,5 +2728,19 @@
       "area": "Russia",
       "region": "Europe/Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-11T06:04:14.177157+00:00",
+    "source_time_gmt": "101/6:1:16",
+    "previous_urine": 17.0,
+    "current_urine": 18.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 42.1974,
+      "longitude": 114.8996,
+      "timestamp": 1775887455,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
