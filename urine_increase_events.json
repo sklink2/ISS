@@ -2770,5 +2770,19 @@
       "area": "Russia",
       "region": "Europe/Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-12T08:38:06.227340+00:00",
+    "source_time_gmt": "102/8:36:1",
+    "previous_urine": 15.0,
+    "current_urine": 20.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 2.4663,
+      "longitude": 113.8244,
+      "timestamp": 1775983087,
+      "area": "Indonesia",
+      "region": "Southeast Asia"
+    }
   }
 ]
