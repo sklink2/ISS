@@ -2756,5 +2756,19 @@
       "area": "South America",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-12T08:17:25.099209+00:00",
+    "source_time_gmt": "102/8:12:40",
+    "previous_urine": 13.0,
+    "current_urine": 15.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 51.1143,
+      "longitude": 41.822,
+      "timestamp": 1775981846,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
