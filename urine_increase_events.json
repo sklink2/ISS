@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-04-05T15:21:29.668874+00:00",
-    "source_time_gmt": "95/15:10:19",
-    "previous_urine": 16.0,
-    "current_urine": 17.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 40.6512,
-      "longitude": 11.9001,
-      "timestamp": 1775402497,
-      "area": "Italy",
-      "region": "Europe"
-    }
-  },
-  {
     "captured_at_utc": "2026-04-05T15:31:58.854435+00:00",
     "source_time_gmt": "95/15:29:43",
     "previous_urine": 17.0,
@@ -2781,6 +2767,20 @@
       "latitude": -49.7063,
       "longitude": 125.2242,
       "timestamp": 1776007035,
+      "area": "Oceania",
+      "region": "Oceania"
+    }
+  },
+  {
+    "captured_at_utc": "2026-04-12T15:28:18.232953+00:00",
+    "source_time_gmt": "102/15:18:11",
+    "previous_urine": 56.0,
+    "current_urine": 59.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -25.8563,
+      "longitude": 168.9611,
+      "timestamp": 1776007699,
       "area": "Oceania",
       "region": "Oceania"
     }
