@@ -2798,5 +2798,19 @@
       "area": "North America",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-12T20:13:09.801461+00:00",
+    "source_time_gmt": "102/20:11:44",
+    "previous_urine": 46.0,
+    "current_urine": 47.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -7.8464,
+      "longitude": 112.8839,
+      "timestamp": 1776024790,
+      "area": "Indonesia",
+      "region": "Southeast Asia"
+    }
   }
 ]
