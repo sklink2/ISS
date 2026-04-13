@@ -2812,5 +2812,19 @@
       "area": "North America",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-13T15:05:21.570986+00:00",
+    "source_time_gmt": "103/14:59:1",
+    "previous_urine": 62.0,
+    "current_urine": 63.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 41.1361,
+      "longitude": -124.7751,
+      "timestamp": 1776092722,
+      "area": "United States",
+      "region": "North America"
+    }
   }
 ]
