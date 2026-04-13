@@ -2770,5 +2770,19 @@
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-13T11:50:35.466193+00:00",
+    "source_time_gmt": "103/11:48:20",
+    "previous_urine": 39.0,
+    "current_urine": 41.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 17.4855,
+      "longitude": -104.6295,
+      "timestamp": 1776081039,
+      "area": "Mexico",
+      "region": "North America"
+    }
   }
 ]
