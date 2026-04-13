@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-04-06T07:51:09.488675+00:00",
-    "source_time_gmt": "96/7:46:23",
-    "previous_urine": 58.0,
-    "current_urine": 59.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -1.3999,
-      "longitude": -17.8367,
-      "timestamp": 1775461877,
-      "area": "Africa",
-      "region": "Africa"
-    }
-  },
-  {
     "captured_at_utc": "2026-04-06T08:17:07.308298+00:00",
     "source_time_gmt": "96/8:15:53",
     "previous_urine": 59.0,
@@ -2769,6 +2755,20 @@
       "timestamp": 1776066386,
       "area": "China",
       "region": "East Asia"
+    }
+  },
+  {
+    "captured_at_utc": "2026-04-13T07:51:36.165128+00:00",
+    "source_time_gmt": "103/7:48:38",
+    "previous_urine": 23.0,
+    "current_urine": 24.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 2.4908,
+      "longitude": 119.6585,
+      "timestamp": 1776066704,
+      "area": "Indonesia",
+      "region": "Southeast Asia"
     }
   }
 ]
