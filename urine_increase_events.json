@@ -2784,5 +2784,19 @@
       "area": "South America",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-14T09:30:04.338990+00:00",
+    "source_time_gmt": "104/9:28:54",
+    "previous_urine": 28.0,
+    "current_urine": 30.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 13.6784,
+      "longitude": -78.176,
+      "timestamp": 1776159005,
+      "area": "Colombia",
+      "region": "South America"
+    }
   }
 ]
