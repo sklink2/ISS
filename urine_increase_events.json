@@ -2798,5 +2798,19 @@
       "area": "Japan",
       "region": "East Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-14T03:57:18.747067+00:00",
+    "source_time_gmt": "104/3:56:49",
+    "previous_urine": 9.0,
+    "current_urine": 10.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 9.1652,
+      "longitude": 167.9228,
+      "timestamp": 1776139039,
+      "area": "Oceania",
+      "region": "Oceania"
+    }
   }
 ]
