@@ -2784,5 +2784,19 @@
       "area": "Indonesia",
       "region": "Southeast Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-14T07:20:17.553993+00:00",
+    "source_time_gmt": "104/7:18:46",
+    "previous_urine": 18.0,
+    "current_urine": 24.0,
+    "change_amount": 6.0,
+    "iss_location": {
+      "latitude": -40.0375,
+      "longitude": 165.3893,
+      "timestamp": 1776151225,
+      "area": "Oceania",
+      "region": "Oceania"
+    }
   }
 ]
