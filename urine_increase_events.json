@@ -2868,5 +2868,19 @@
       "area": "Brazil",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-15T19:54:04.739836+00:00",
+    "source_time_gmt": "105/19:53:26",
+    "previous_urine": 62.0,
+    "current_urine": 64.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 51.272,
+      "longitude": -154.8893,
+      "timestamp": 1776282848,
+      "area": "United States (Alaska)",
+      "region": "North America"
+    }
   }
 ]
