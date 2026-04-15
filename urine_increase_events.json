@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-04-08T15:37:17.527100+00:00",
-    "source_time_gmt": "98/15:37:12",
-    "previous_urine": 60.0,
-    "current_urine": 65.0,
-    "change_amount": 5.0,
-    "iss_location": {
-      "latitude": 2.2658,
-      "longitude": -145.2325,
-      "timestamp": 1775662641,
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean"
-    }
-  },
-  {
     "captured_at_utc": "2026-04-08T15:58:04.289656+00:00",
     "source_time_gmt": "98/15:57:43",
     "previous_urine": 64.0,
@@ -2867,6 +2853,20 @@
       "timestamp": 1776265374,
       "area": "North America",
       "region": "North America"
+    }
+  },
+  {
+    "captured_at_utc": "2026-04-15T15:39:11.827520+00:00",
+    "source_time_gmt": "105/15:37:20",
+    "previous_urine": 49.0,
+    "current_urine": 52.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -6.0474,
+      "longitude": -4.2166,
+      "timestamp": 1776267552,
+      "area": "Africa",
+      "region": "Africa"
     }
   }
 ]
