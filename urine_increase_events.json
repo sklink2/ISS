@@ -2910,5 +2910,19 @@
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-16T18:16:35.472869+00:00",
+    "source_time_gmt": "106/18:13:60",
+    "previous_urine": 66.0,
+    "current_urine": 69.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -49.9149,
+      "longitude": 15.3044,
+      "timestamp": 1776363397,
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean"
+    }
   }
 ]
