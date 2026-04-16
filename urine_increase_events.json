@@ -2910,5 +2910,19 @@
       "area": "Indian Ocean",
       "region": "Indian Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-16T17:18:53.359621+00:00",
+    "source_time_gmt": "106/17:9:14",
+    "previous_urine": 65.0,
+    "current_urine": 66.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 27.3103,
+      "longitude": 163.7152,
+      "timestamp": 1776359965,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
   }
 ]
