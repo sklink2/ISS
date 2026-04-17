@@ -3036,5 +3036,19 @@
       "area": "Indian Ocean",
       "region": "Indian Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-17T12:06:05.253097+00:00",
+    "source_time_gmt": "107/12:3:53",
+    "previous_urine": 42.0,
+    "current_urine": 43.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 50.8557,
+      "longitude": -70.0123,
+      "timestamp": 1776427566,
+      "area": "Canada",
+      "region": "North America"
+    }
   }
 ]
