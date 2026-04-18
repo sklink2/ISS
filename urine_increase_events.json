@@ -2994,5 +2994,19 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-18T11:23:27.440195+00:00",
+    "source_time_gmt": "108/11:23:25",
+    "previous_urine": 28.0,
+    "current_urine": 29.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 51.1349,
+      "longitude": -41.2998,
+      "timestamp": 1776511411,
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean"
+    }
   }
 ]
