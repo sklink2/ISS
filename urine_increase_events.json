@@ -2994,5 +2994,19 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-18T01:51:37.546774+00:00",
+    "source_time_gmt": "108/1:47:31",
+    "previous_urine": 7.0,
+    "current_urine": 8.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 31.2883,
+      "longitude": 32.1848,
+      "timestamp": 1776477113,
+      "area": "Egypt",
+      "region": "Africa"
+    }
   }
 ]
