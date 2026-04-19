@@ -3022,5 +3022,19 @@
       "area": "Indian Ocean",
       "region": "Indian Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-19T18:02:47.418497+00:00",
+    "source_time_gmt": "109/17:58:18",
+    "previous_urine": 68.0,
+    "current_urine": 71.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 18.3991,
+      "longitude": 126.0134,
+      "timestamp": 1776621769,
+      "area": "China",
+      "region": "East Asia"
+    }
   }
 ]
