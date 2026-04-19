@@ -3022,5 +3022,19 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-19T07:11:11.511193+00:00",
+    "source_time_gmt": "109/7:8:26",
+    "previous_urine": 6.0,
+    "current_urine": 9.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 14.5711,
+      "longitude": -71.7911,
+      "timestamp": 1776582672,
+      "area": "North America",
+      "region": "North America"
+    }
   }
 ]
