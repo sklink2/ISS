@@ -3050,5 +3050,19 @@
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-20T09:46:11.050509+00:00",
+    "source_time_gmt": "110/9:41:24",
+    "previous_urine": 28.0,
+    "current_urine": 29.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 50.3952,
+      "longitude": -55.7638,
+      "timestamp": 1776678371,
+      "area": "Canada",
+      "region": "North America"
+    }
   }
 ]
