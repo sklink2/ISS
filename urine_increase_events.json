@@ -3022,5 +3022,19 @@
       "area": "Australia",
       "region": "Oceania"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-20T12:53:38.062424+00:00",
+    "source_time_gmt": "110/12:51:57",
+    "previous_urine": 42.0,
+    "current_urine": 45.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 51.4239,
+      "longitude": -93.2872,
+      "timestamp": 1776689620,
+      "area": "Canada",
+      "region": "North America"
+    }
   }
 ]
