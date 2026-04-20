@@ -3050,5 +3050,19 @@
       "area": "Atlantic Ocean",
       "region": "Atlantic Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-20T20:36:40.017370+00:00",
+    "source_time_gmt": "110/20:35:21",
+    "previous_urine": 64.0,
+    "current_urine": 66.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 50.5467,
+      "longitude": 139.9904,
+      "timestamp": 1776717401,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
