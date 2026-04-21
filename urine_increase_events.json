@@ -2980,5 +2980,19 @@
       "area": "France",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-21T11:40:07.280586+00:00",
+    "source_time_gmt": "111/11:35:3",
+    "previous_urine": 21.0,
+    "current_urine": 23.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -14.9154,
+      "longitude": -176.0708,
+      "timestamp": 1776771608,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
   }
 ]
