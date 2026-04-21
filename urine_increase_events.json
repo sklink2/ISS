@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-04-14T14:06:23.845789+00:00",
-    "source_time_gmt": "104/14:1:27",
-    "previous_urine": 51.0,
-    "current_urine": 53.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 7.2715,
-      "longitude": -153.7787,
-      "timestamp": 1776175600,
-      "area": "North America",
-      "region": "North America"
-    }
-  },
-  {
     "captured_at_utc": "2026-04-14T15:14:08.991633+00:00",
     "source_time_gmt": "104/15:11:27",
     "previous_urine": 53.0,
@@ -2935,6 +2921,20 @@
       "latitude": 14.09,
       "longitude": -7.2213,
       "timestamp": 1776774409,
+      "area": "Africa",
+      "region": "Africa"
+    }
+  },
+  {
+    "captured_at_utc": "2026-04-21T14:10:30.545304+00:00",
+    "source_time_gmt": "111/14:7:31",
+    "previous_urine": 25.0,
+    "current_urine": 28.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -18.4261,
+      "longitude": -6.8049,
+      "timestamp": 1776780632,
       "area": "Africa",
       "region": "Africa"
     }
