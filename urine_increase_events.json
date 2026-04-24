@@ -1972,5 +1972,19 @@
       "area": "South Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-24T20:33:03.238307+00:00",
+    "source_time_gmt": "114/20:30:3",
+    "previous_urine": 69.0,
+    "current_urine": 74.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 46.0036,
+      "longitude": 98.0056,
+      "timestamp": 1777062785,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
