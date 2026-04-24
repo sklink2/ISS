@@ -1930,5 +1930,19 @@
       "area": "Atlantic Ocean",
       "region": "Atlantic Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-24T18:54:29.695971+00:00",
+    "source_time_gmt": "114/18:51:54",
+    "previous_urine": 40.0,
+    "current_urine": 43.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 33.4064,
+      "longitude": 99.4192,
+      "timestamp": 1777056871,
+      "area": "China",
+      "region": "East Asia"
+    }
   }
 ]
