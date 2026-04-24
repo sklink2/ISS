@@ -1874,5 +1874,19 @@
       "area": "South America",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-24T13:52:14.630884+00:00",
+    "source_time_gmt": "114/13:51:21",
+    "previous_urine": 20.0,
+    "current_urine": 23.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -34.7238,
+      "longitude": 111.415,
+      "timestamp": 1777038738,
+      "area": "Oceania",
+      "region": "Oceania"
+    }
   }
 ]
