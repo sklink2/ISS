@@ -1944,5 +1944,19 @@
       "area": "Australia",
       "region": "Oceania"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-25T05:31:39.170720+00:00",
+    "source_time_gmt": "115/5:26:53",
+    "previous_urine": 10.0,
+    "current_urine": 11.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -5.0431,
+      "longitude": -98.0029,
+      "timestamp": 1777095100,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
   }
 ]
