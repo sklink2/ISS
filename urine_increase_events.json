@@ -1944,5 +1944,19 @@
       "area": "Oceania",
       "region": "Oceania"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-25T03:32:32.260657+00:00",
+    "source_time_gmt": "115/3:28:29",
+    "previous_urine": 7.0,
+    "current_urine": 8.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -48.1982,
+      "longitude": 178.6546,
+      "timestamp": 1777087952,
+      "area": "Oceania",
+      "region": "Oceania"
+    }
   }
 ]
