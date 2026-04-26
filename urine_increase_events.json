@@ -1706,5 +1706,19 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-26T10:43:48.747910+00:00",
+    "source_time_gmt": "116/10:39:16",
+    "previous_urine": 32.0,
+    "current_urine": 33.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -40.7315,
+      "longitude": 137.7171,
+      "timestamp": 1777200232,
+      "area": "Australia",
+      "region": "Oceania"
+    }
   }
 ]
