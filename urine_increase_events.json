@@ -1706,5 +1706,19 @@
       "area": "Europe",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-26T05:12:04.700884+00:00",
+    "source_time_gmt": "116/5:9:6",
+    "previous_urine": 15.0,
+    "current_urine": 18.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 50.885,
+      "longitude": 8.0523,
+      "timestamp": 1777180326,
+      "area": "France",
+      "region": "Europe"
+    }
   }
 ]
