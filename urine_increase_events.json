@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-04-20T16:57:37.738066+00:00",
-    "source_time_gmt": "110/16:55:28",
-    "previous_urine": 63.0,
-    "current_urine": 66.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": -35.9108,
-      "longitude": 86.3234,
-      "timestamp": 1776704265,
-      "area": "Indian Ocean",
-      "region": "Indian Ocean"
-    }
-  },
-  {
     "captured_at_utc": "2026-04-20T17:39:13.862488+00:00",
     "source_time_gmt": "110/17:38:1",
     "previous_urine": 66.0,
@@ -1691,6 +1677,20 @@
       "timestamp": 1777307070,
       "area": "Indian Ocean",
       "region": "Indian Ocean"
+    }
+  },
+  {
+    "captured_at_utc": "2026-04-27T17:00:47.331117+00:00",
+    "source_time_gmt": "117/16:56:48",
+    "previous_urine": 63.0,
+    "current_urine": 64.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 26.0868,
+      "longitude": -123.8782,
+      "timestamp": 1777309263,
+      "area": "United States",
+      "region": "North America"
     }
   }
 ]
