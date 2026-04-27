@@ -1636,5 +1636,19 @@
       "area": "Mexico",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-27T07:45:30.701869+00:00",
+    "source_time_gmt": "117/7:32:2",
+    "previous_urine": 18.0,
+    "current_urine": 24.0,
+    "change_amount": 6.0,
+    "iss_location": {
+      "latitude": 20.8216,
+      "longitude": 22.5848,
+      "timestamp": 1777275931,
+      "area": "Africa",
+      "region": "Africa"
+    }
   }
 ]
