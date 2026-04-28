@@ -1622,5 +1622,19 @@
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-28T08:30:12.059353+00:00",
+    "source_time_gmt": "118/8:29:57",
+    "previous_urine": 17.0,
+    "current_urine": 20.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 25.5592,
+      "longitude": 0.5601,
+      "timestamp": 1777365013,
+      "area": "Algeria",
+      "region": "Africa"
+    }
   }
 ]
