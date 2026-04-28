@@ -1636,5 +1636,19 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-28T07:22:42.529096+00:00",
+    "source_time_gmt": "118/7:22:16",
+    "previous_urine": 13.0,
+    "current_urine": 15.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -45.2139,
+      "longitude": 92.934,
+      "timestamp": 1777360963,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean"
+    }
   }
 ]
