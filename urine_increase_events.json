@@ -1678,5 +1678,19 @@
       "area": "Atlantic Ocean",
       "region": "Atlantic Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-28T12:34:14.806722+00:00",
+    "source_time_gmt": "118/12:32:13",
+    "previous_urine": 38.0,
+    "current_urine": 42.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 9.8575,
+      "longitude": 148.6886,
+      "timestamp": 1777379663,
+      "area": "Oceania",
+      "region": "Oceania"
+    }
   }
 ]
