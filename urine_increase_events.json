@@ -1762,5 +1762,19 @@
       "area": "Indian Ocean",
       "region": "Indian Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-28T14:18:57.321724+00:00",
+    "source_time_gmt": "118/14:16:39",
+    "previous_urine": 55.0,
+    "current_urine": 60.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 41.6812,
+      "longitude": 159.0581,
+      "timestamp": 1777385939,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
