@@ -2294,5 +2294,19 @@
       "area": "Brazil",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-04-30T14:03:49.782090+00:00",
+    "source_time_gmt": "120/14:3:16",
+    "previous_urine": 48.0,
+    "current_urine": 52.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 0.1314,
+      "longitude": 106.2707,
+      "timestamp": 1777557832,
+      "area": "Indonesia",
+      "region": "Southeast Asia"
+    }
   }
 ]
