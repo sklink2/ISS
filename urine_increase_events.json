@@ -2350,5 +2350,19 @@
       "area": "Atlantic Ocean",
       "region": "Atlantic Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-02T06:38:56.772845+00:00",
+    "source_time_gmt": "122/6:38:37",
+    "previous_urine": 16.0,
+    "current_urine": 19.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 49.864,
+      "longitude": -82.6637,
+      "timestamp": 1777703939,
+      "area": "Canada",
+      "region": "North America"
+    }
   }
 ]
