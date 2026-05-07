@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-04-30T14:03:49.782090+00:00",
-    "source_time_gmt": "120/14:3:16",
-    "previous_urine": 48.0,
-    "current_urine": 52.0,
-    "change_amount": 4.0,
-    "iss_location": {
-      "latitude": 0.1314,
-      "longitude": 106.2707,
-      "timestamp": 1777557832,
-      "area": "Indonesia",
-      "region": "Southeast Asia"
-    }
-  },
-  {
     "captured_at_utc": "2026-04-30T14:45:28.953783+00:00",
     "source_time_gmt": "120/14:42:4",
     "previous_urine": 52.0,
@@ -2193,6 +2179,20 @@
       "latitude": 0.4333,
       "longitude": -115.3824,
       "timestamp": 1778162549,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
+  },
+  {
+    "captured_at_utc": "2026-05-07T14:07:39.502111+00:00",
+    "source_time_gmt": "127/14:6:37",
+    "previous_urine": 47.0,
+    "current_urine": 49.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -15.186,
+      "longitude": -103.9393,
+      "timestamp": 1778162860,
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
