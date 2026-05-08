@@ -2504,5 +2504,19 @@
       "area": "Japan",
       "region": "East Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-08T11:20:49.635060+00:00",
+    "source_time_gmt": "128/11:17:3",
+    "previous_urine": 39.0,
+    "current_urine": 41.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 51.4641,
+      "longitude": -163.9971,
+      "timestamp": 1778239250,
+      "area": "United States (Alaska)",
+      "region": "North America"
+    }
   }
 ]
