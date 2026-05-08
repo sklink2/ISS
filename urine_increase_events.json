@@ -2504,5 +2504,19 @@
       "area": "United States (Alaska)",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-08T12:02:17.368280+00:00",
+    "source_time_gmt": "128/11:58:9",
+    "previous_urine": 41.0,
+    "current_urine": 45.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": -49.0015,
+      "longitude": -24.7345,
+      "timestamp": 1778241738,
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean"
+    }
   }
 ]
