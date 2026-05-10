@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-05-03T10:27:24.811294+00:00",
-    "source_time_gmt": "123/10:24:48",
-    "previous_urine": 29.0,
-    "current_urine": 30.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 44.3508,
-      "longitude": -165.882,
-      "timestamp": 1777804045,
-      "area": "North America",
-      "region": "North America"
-    }
-  },
-  {
     "captured_at_utc": "2026-05-03T10:37:47.355933+00:00",
     "source_time_gmt": "123/10:37:42",
     "previous_urine": 30.0,
