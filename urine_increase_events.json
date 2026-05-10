@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-05-03T09:25:09.080691+00:00",
-    "source_time_gmt": "123/9:24:45",
-    "previous_urine": 24.0,
-    "current_urine": 25.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -1.4971,
-      "longitude": -19.6308,
-      "timestamp": 1777800309,
-      "area": "Africa",
-      "region": "Africa"
-    }
-  },
-  {
     "captured_at_utc": "2026-05-03T09:30:20.008127+00:00",
     "source_time_gmt": "123/9:29:57",
     "previous_urine": 25.0,
