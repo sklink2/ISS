@@ -768,5 +768,19 @@
       "area": "Europe",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-14T20:05:36.120831+00:00",
+    "source_time_gmt": "134/20:5:14",
+    "previous_urine": 36.0,
+    "current_urine": 37.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -20.8019,
+      "longitude": -86.3939,
+      "timestamp": 1778789137,
+      "area": "South America",
+      "region": "South America"
+    }
   }
 ]
