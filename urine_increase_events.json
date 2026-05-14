@@ -824,5 +824,19 @@
       "area": "South America",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-14T11:36:13.261353+00:00",
+    "source_time_gmt": "134/11:35:47",
+    "previous_urine": 32.0,
+    "current_urine": 36.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 16.1614,
+      "longitude": -132.7084,
+      "timestamp": 1778758575,
+      "area": "North America",
+      "region": "North America"
+    }
   }
 ]
