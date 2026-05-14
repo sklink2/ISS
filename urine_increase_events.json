@@ -824,5 +824,19 @@
       "area": "South America",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-14T07:42:19.337686+00:00",
+    "source_time_gmt": "134/7:38:32",
+    "previous_urine": 16.0,
+    "current_urine": 18.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -21.3432,
+      "longitude": 101.9707,
+      "timestamp": 1778744541,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean"
+    }
   }
 ]
