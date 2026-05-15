@@ -1,33 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-05-08T09:47:05.220569+00:00",
-    "source_time_gmt": "128/9:46:17",
-    "previous_urine": 32.0,
-    "current_urine": 35.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": 51.6039,
-      "longitude": -144.7074,
-      "timestamp": 1778233633,
-      "area": "United States (Alaska)",
-      "region": "North America"
-    }
-  },
-  {
-    "captured_at_utc": "2026-05-08T09:52:23.507926+00:00",
-    "source_time_gmt": "128/9:51:39",
-    "previous_urine": 35.0,
-    "current_urine": 36.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 47.019,
-      "longitude": -115.6541,
-      "timestamp": 1778233945,
-      "area": "United States",
-      "region": "North America"
-    }
-  },
-  {
     "captured_at_utc": "2026-05-08T10:28:41.130536+00:00",
     "source_time_gmt": "128/10:24:34",
     "previous_urine": 36.0,
@@ -725,6 +697,20 @@
       "timestamp": 1778836093,
       "area": "North America",
       "region": "North America"
+    }
+  },
+  {
+    "captured_at_utc": "2026-05-15T09:55:35.453308+00:00",
+    "source_time_gmt": "135/9:48:14",
+    "previous_urine": 32.0,
+    "current_urine": 33.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -36.8005,
+      "longitude": 43.8404,
+      "timestamp": 1778838939,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean"
     }
   }
 ]
