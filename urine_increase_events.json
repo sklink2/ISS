@@ -2168,5 +2168,19 @@
       "area": "North America",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-19T05:24:53.314074+00:00",
+    "source_time_gmt": "139/5:22:58",
+    "previous_urine": 22.0,
+    "current_urine": 24.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -11.1351,
+      "longitude": 116.26,
+      "timestamp": 1779168297,
+      "area": "Australia",
+      "region": "Oceania"
+    }
   }
 ]
