@@ -2546,5 +2546,19 @@
       "area": "Italy",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-19T16:41:23.785139+00:00",
+    "source_time_gmt": "139/16:40:5",
+    "previous_urine": 58.0,
+    "current_urine": 66.0,
+    "change_amount": 8.0,
+    "iss_location": {
+      "latitude": 51.5685,
+      "longitude": 40.1067,
+      "timestamp": 1779208888,
+      "area": "Ukraine",
+      "region": "Europe"
+    }
   }
 ]
