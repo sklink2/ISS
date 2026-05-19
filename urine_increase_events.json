@@ -2210,5 +2210,19 @@
       "area": "South America",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-19T07:03:34.963611+00:00",
+    "source_time_gmt": "139/6:58:58",
+    "previous_urine": 28.0,
+    "current_urine": 30.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 6.3831,
+      "longitude": 105.2428,
+      "timestamp": 1779174217,
+      "area": "Southeast Asia",
+      "region": "Southeast Asia"
+    }
   }
 ]
