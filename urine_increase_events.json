@@ -2686,5 +2686,19 @@
       "area": "Italy",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-20T21:16:12.525106+00:00",
+    "source_time_gmt": "140/21:15:10",
+    "previous_urine": 9.0,
+    "current_urine": 13.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": -49.0665,
+      "longitude": 123.534,
+      "timestamp": 1779311776,
+      "area": "Oceania",
+      "region": "Oceania"
+    }
   }
 ]
