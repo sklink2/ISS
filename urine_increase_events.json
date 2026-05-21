@@ -2672,5 +2672,19 @@
       "area": "Canada",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-21T05:08:11.679333+00:00",
+    "source_time_gmt": "141/5:6:43",
+    "previous_urine": 22.0,
+    "current_urine": 24.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -49.616,
+      "longitude": 48.9547,
+      "timestamp": 1779340092,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean"
+    }
   }
 ]
