@@ -2672,5 +2672,19 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-21T15:01:28.098880+00:00",
+    "source_time_gmt": "141/14:59:32",
+    "previous_urine": 13.0,
+    "current_urine": 16.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 44.3576,
+      "longitude": 17.6209,
+      "timestamp": 1779375689,
+      "area": "Italy",
+      "region": "Europe"
+    }
   }
 ]
