@@ -2686,5 +2686,19 @@
       "area": "China",
       "region": "East Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-22T06:52:13.103101+00:00",
+    "source_time_gmt": "142/6:51:5",
+    "previous_urine": 46.0,
+    "current_urine": 48.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 23.894,
+      "longitude": -115.3395,
+      "timestamp": 1779432741,
+      "area": "Mexico",
+      "region": "North America"
+    }
   }
 ]
