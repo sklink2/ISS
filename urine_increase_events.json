@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-05-15T19:07:01.943471+00:00",
-    "source_time_gmt": "135/19:5:47",
-    "previous_urine": 67.0,
-    "current_urine": 68.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -48.1114,
-      "longitude": -122.0414,
-      "timestamp": 1778872038,
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean"
-    }
-  },
-  {
     "captured_at_utc": "2026-05-15T20:25:02.844918+00:00",
     "source_time_gmt": "135/20:23:43",
     "previous_urine": 55.0,
@@ -2657,6 +2643,20 @@
       "timestamp": 1779474830,
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
+    }
+  },
+  {
+    "captured_at_utc": "2026-05-22T19:10:08.074141+00:00",
+    "source_time_gmt": "142/19:9:30",
+    "previous_urine": 22.0,
+    "current_urine": 24.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 36.5268,
+      "longitude": 41.6513,
+      "timestamp": 1779477040,
+      "area": "Turkey",
+      "region": "Middle East"
     }
   }
 ]
