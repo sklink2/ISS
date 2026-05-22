@@ -2672,5 +2672,19 @@
       "area": "United States",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-22T22:18:19.604816+00:00",
+    "source_time_gmt": "142/22:9:5",
+    "previous_urine": 15.0,
+    "current_urine": 20.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 31.3176,
+      "longitude": 1.0438,
+      "timestamp": 1779488307,
+      "area": "Algeria",
+      "region": "Africa"
+    }
   }
 ]
