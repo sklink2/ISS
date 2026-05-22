@@ -2672,5 +2672,19 @@
       "area": "Indonesia",
       "region": "Southeast Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-22T06:21:07.105266+00:00",
+    "source_time_gmt": "142/6:19:5",
+    "previous_urine": 44.0,
+    "current_urine": 46.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 21.2906,
+      "longitude": 111.1232,
+      "timestamp": 1779430868,
+      "area": "China",
+      "region": "East Asia"
+    }
   }
 ]
