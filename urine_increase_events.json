@@ -2644,5 +2644,19 @@
       "area": "Turkey",
       "region": "Middle East"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-22T20:38:48.675010+00:00",
+    "source_time_gmt": "142/20:37:51",
+    "previous_urine": 8.0,
+    "current_urine": 9.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 46.3236,
+      "longitude": -0.9189,
+      "timestamp": 1779482336,
+      "area": "France",
+      "region": "Europe"
+    }
   }
 ]
