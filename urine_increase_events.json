@@ -2714,5 +2714,19 @@
       "area": "South America",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-22T07:28:39.862375+00:00",
+    "source_time_gmt": "142/7:28:8",
+    "previous_urine": 51.0,
+    "current_urine": 53.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -47.2432,
+      "longitude": 16.9466,
+      "timestamp": 1779434936,
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean"
+    }
   }
 ]
