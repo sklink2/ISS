@@ -2644,5 +2644,19 @@
       "area": "South America",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-23T09:58:23.366841+00:00",
+    "source_time_gmt": "143/9:54:55",
+    "previous_urine": 40.0,
+    "current_urine": 44.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": -22.211,
+      "longitude": 13.1165,
+      "timestamp": 1779530304,
+      "area": "Africa",
+      "region": "Africa"
+    }
   }
 ]
