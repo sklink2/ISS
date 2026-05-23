@@ -2672,5 +2672,19 @@
       "area": "North America",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-05-23T19:04:01.797290+00:00",
+    "source_time_gmt": "143/19:3:2",
+    "previous_urine": 33.0,
+    "current_urine": 35.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -48.7562,
+      "longitude": -171.3161,
+      "timestamp": 1779563045,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
   }
 ]
