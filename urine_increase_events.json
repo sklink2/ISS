@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "captured_at_utc": "2026-06-01T18:40:49.439182+00:00",
+    "source_time_gmt": "152/18:39:22",
+    "previous_urine": 35.0,
+    "current_urine": 39.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 24.1258,
+      "longitude": -133.4391,
+      "timestamp": 1780339250,
+      "area": "North America",
+      "region": "North America"
+    }
+  }
+]
