@@ -390,5 +390,19 @@
       "area": "Canada",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-02T15:10:51.021031+00:00",
+    "source_time_gmt": "153/15:6:9",
+    "previous_urine": 61.0,
+    "current_urine": 63.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 42.9281,
+      "longitude": 25.7253,
+      "timestamp": 1780413052,
+      "area": "Turkey",
+      "region": "Middle East"
+    }
   }
 ]
