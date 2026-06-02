@@ -222,5 +222,19 @@
       "area": "South America",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-02T10:19:25.671524+00:00",
+    "source_time_gmt": "153/10:17:37",
+    "previous_urine": 26.0,
+    "current_urine": 30.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 47.3647,
+      "longitude": 26.6294,
+      "timestamp": 1780395566,
+      "area": "Ukraine",
+      "region": "Europe"
+    }
   }
 ]
