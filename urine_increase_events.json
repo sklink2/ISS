@@ -166,5 +166,19 @@
       "area": "South America",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-02T06:52:04.925157+00:00",
+    "source_time_gmt": "153/6:49:36",
+    "previous_urine": 17.0,
+    "current_urine": 20.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -10.1383,
+      "longitude": 11.7395,
+      "timestamp": 1780383141,
+      "area": "Africa",
+      "region": "Africa"
+    }
   }
 ]
