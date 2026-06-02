@@ -250,5 +250,19 @@
       "area": "New Zealand",
       "region": "Oceania"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-02T11:27:24.944757+00:00",
+    "source_time_gmt": "153/11:23:29",
+    "previous_urine": 34.0,
+    "current_urine": 38.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": -20.5433,
+      "longitude": -67.2953,
+      "timestamp": 1780399646,
+      "area": "Brazil",
+      "region": "South America"
+    }
   }
 ]
