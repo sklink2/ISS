@@ -278,5 +278,19 @@
       "area": "Brazil",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-02T11:43:01.416090+00:00",
+    "source_time_gmt": "153/11:41:53",
+    "previous_urine": 40.0,
+    "current_urine": 43.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 26.0017,
+      "longitude": -31.2669,
+      "timestamp": 1780400585,
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean"
+    }
   }
 ]
