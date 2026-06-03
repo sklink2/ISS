@@ -530,5 +530,19 @@
       "area": "Oceania",
       "region": "Oceania"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-03T00:40:49.737525+00:00",
+    "source_time_gmt": "154/0:39:40",
+    "previous_urine": 18.0,
+    "current_urine": 49.0,
+    "change_amount": 31.0,
+    "iss_location": {
+      "latitude": 8.4874,
+      "longitude": -78.4356,
+      "timestamp": 1780447250,
+      "area": "Colombia",
+      "region": "South America"
+    }
   }
 ]
