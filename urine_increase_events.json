@@ -908,5 +908,19 @@
       "area": "United States",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-03T15:53:39.174241+00:00",
+    "source_time_gmt": "154/15:52:43",
+    "previous_urine": 66.0,
+    "current_urine": 70.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 48.3705,
+      "longitude": -6.6718,
+      "timestamp": 1780502021,
+      "area": "Europe",
+      "region": "Europe"
+    }
   }
 ]
