@@ -866,5 +866,19 @@
       "area": "Atlantic Ocean",
       "region": "Atlantic Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-03T14:20:08.186614+00:00",
+    "source_time_gmt": "154/14:19:36",
+    "previous_urine": 57.0,
+    "current_urine": 60.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 49.2242,
+      "longitude": 13.4233,
+      "timestamp": 1780496409,
+      "area": "Germany",
+      "region": "Europe"
+    }
   }
 ]
