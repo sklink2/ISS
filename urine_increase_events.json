@@ -740,5 +740,19 @@
       "area": "Atlantic Ocean",
       "region": "Atlantic Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-03T11:44:19.585899+00:00",
+    "source_time_gmt": "154/11:41:41",
+    "previous_urine": 40.0,
+    "current_urine": 42.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -31.0833,
+      "longitude": 148.2663,
+      "timestamp": 1780487061,
+      "area": "Australia",
+      "region": "Oceania"
+    }
   }
 ]
