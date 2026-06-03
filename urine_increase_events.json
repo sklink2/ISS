@@ -544,5 +544,19 @@
       "area": "Colombia",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-03T04:18:09.089049+00:00",
+    "source_time_gmt": "154/4:18:4",
+    "previous_urine": 5.0,
+    "current_urine": 9.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": -46.6608,
+      "longitude": -3.9975,
+      "timestamp": 1780460297,
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean"
+    }
   }
 ]
