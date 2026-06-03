@@ -656,5 +656,19 @@
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-03T09:08:48.193374+00:00",
+    "source_time_gmt": "154/9:6:59",
+    "previous_urine": 21.0,
+    "current_urine": 24.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -17.0879,
+      "longitude": -34.8308,
+      "timestamp": 1780477729,
+      "area": "Brazil",
+      "region": "South America"
+    }
   }
 ]
