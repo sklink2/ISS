@@ -894,5 +894,19 @@
       "area": "Mexico",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-03T15:38:05.446721+00:00",
+    "source_time_gmt": "154/15:34:50",
+    "previous_urine": 63.0,
+    "current_urine": 66.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 34.9745,
+      "longitude": -86.0064,
+      "timestamp": 1780501086,
+      "area": "United States",
+      "region": "North America"
+    }
   }
 ]
