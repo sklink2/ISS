@@ -628,5 +628,19 @@
       "area": "Chile",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-03T08:27:14.136196+00:00",
+    "source_time_gmt": "154/8:23:41",
+    "previous_urine": 18.0,
+    "current_urine": 20.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 2.2579,
+      "longitude": 168.0385,
+      "timestamp": 1780475234,
+      "area": "Oceania",
+      "region": "Oceania"
+    }
   }
 ]
