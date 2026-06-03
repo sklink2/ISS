@@ -768,5 +768,19 @@
       "area": "New Zealand",
       "region": "Oceania"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-03T12:05:03.977221+00:00",
+    "source_time_gmt": "154/12:4:40",
+    "previous_urine": 45.0,
+    "current_urine": 46.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -42.03,
+      "longitude": -111.0966,
+      "timestamp": 1780488304,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
   }
 ]
