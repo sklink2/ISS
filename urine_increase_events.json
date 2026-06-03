@@ -1034,5 +1034,19 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-03T23:10:37.640378+00:00",
+    "source_time_gmt": "154/23:8:58",
+    "previous_urine": 5.0,
+    "current_urine": 9.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 0.9158,
+      "longitude": 126.0635,
+      "timestamp": 1780528238,
+      "area": "Indonesia",
+      "region": "Southeast Asia"
+    }
   }
 ]
