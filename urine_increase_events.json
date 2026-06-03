@@ -922,5 +922,19 @@
       "area": "Europe",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-03T16:45:31.692538+00:00",
+    "source_time_gmt": "154/16:44:59",
+    "previous_urine": 60.0,
+    "current_urine": 62.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -37.7296,
+      "longitude": -174.6168,
+      "timestamp": 1780505135,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
   }
 ]
