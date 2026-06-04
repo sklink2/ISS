@@ -1314,5 +1314,19 @@
       "area": "India",
       "region": "South Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-04T12:30:08.776862+00:00",
+    "source_time_gmt": "155/12:30:6",
+    "previous_urine": 52.0,
+    "current_urine": 53.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -30.9061,
+      "longitude": 130.4574,
+      "timestamp": 1780576212,
+      "area": "Australia",
+      "region": "Oceania"
+    }
   }
 ]
