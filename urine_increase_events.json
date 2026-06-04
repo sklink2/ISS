@@ -1384,5 +1384,19 @@
       "area": "Iran",
       "region": "Middle East"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-04T13:48:05.342921+00:00",
+    "source_time_gmt": "155/13:47:10",
+    "previous_urine": 66.0,
+    "current_urine": 68.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 13.3653,
+      "longitude": 71.5026,
+      "timestamp": 1780580886,
+      "area": "India",
+      "region": "South Asia"
+    }
   }
 ]
