@@ -1272,5 +1272,19 @@
       "area": "Ukraine",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-04T10:46:30.076369+00:00",
+    "source_time_gmt": "155/10:45:21",
+    "previous_urine": 44.0,
+    "current_urine": 46.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 0.8041,
+      "longitude": 127.8604,
+      "timestamp": 1780569991,
+      "area": "Indonesia",
+      "region": "Southeast Asia"
+    }
   }
 ]
