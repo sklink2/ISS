@@ -1398,5 +1398,19 @@
       "area": "India",
       "region": "South Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-04T14:24:25.493934+00:00",
+    "source_time_gmt": "155/14:22:40",
+    "previous_urine": 68.0,
+    "current_urine": 70.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -40.7811,
+      "longitude": -149.9919,
+      "timestamp": 1780583066,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
   }
 ]
