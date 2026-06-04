@@ -1356,5 +1356,19 @@
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-04T13:37:41.131912+00:00",
+    "source_time_gmt": "155/13:34:12",
+    "previous_urine": 59.0,
+    "current_urine": 63.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 41.4062,
+      "longitude": 40.6786,
+      "timestamp": 1780580262,
+      "area": "Turkey",
+      "region": "Middle East"
+    }
   }
 ]
