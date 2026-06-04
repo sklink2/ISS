@@ -1258,5 +1258,19 @@
       "area": "Spain",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-04T10:20:35.289149+00:00",
+    "source_time_gmt": "155/10:15:58",
+    "previous_urine": 39.0,
+    "current_urine": 44.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 50.1271,
+      "longitude": 26.6017,
+      "timestamp": 1780568435,
+      "area": "Ukraine",
+      "region": "Europe"
+    }
   }
 ]
