@@ -1118,5 +1118,19 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-04T07:08:29.987194+00:00",
+    "source_time_gmt": "155/7:5:8",
+    "previous_urine": 22.0,
+    "current_urine": 27.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 39.1323,
+      "longitude": 44.0321,
+      "timestamp": 1780556910,
+      "area": "Turkey",
+      "region": "Middle East"
+    }
   }
 ]
