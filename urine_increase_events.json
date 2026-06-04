@@ -1482,5 +1482,19 @@
       "area": "Europe",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-04T20:42:57.403024+00:00",
+    "source_time_gmt": "155/20:42:5",
+    "previous_urine": 15.0,
+    "current_urine": 17.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -22.3232,
+      "longitude": 137.9278,
+      "timestamp": 1780605781,
+      "area": "Australia",
+      "region": "Oceania"
+    }
   }
 ]
