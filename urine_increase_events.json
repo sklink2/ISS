@@ -1412,5 +1412,19 @@
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-04T15:05:56.291146+00:00",
+    "source_time_gmt": "155/15:5:52",
+    "previous_urine": 64.0,
+    "current_urine": 67.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 49.3076,
+      "longitude": -4.5632,
+      "timestamp": 1780585560,
+      "area": "United Kingdom",
+      "region": "Europe"
+    }
   }
 ]
