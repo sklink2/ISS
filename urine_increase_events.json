@@ -1597,5 +1597,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-05T06:35:09.595641+00:00",
+    "source_time_gmt": "156/6:34:29",
+    "previous_urine": 23.0,
+    "current_urine": 25.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 48.71,
+      "longitude": 121.9937,
+      "timestamp": 1780641310,
+      "area": "China",
+      "region": "Country",
+      "country_id": "CHN",
+      "country_name": "China",
+      "country_topic": "country_CHN"
+    }
   }
 ]
