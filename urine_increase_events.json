@@ -1755,5 +1755,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-05T10:45:10.069550+00:00",
+    "source_time_gmt": "156/10:45:6",
+    "previous_urine": 42.0,
+    "current_urine": 47.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": -3.4841,
+      "longitude": -59.8672,
+      "timestamp": 1780656310,
+      "area": "Brazil",
+      "region": "Country",
+      "country_id": "BRA",
+      "country_name": "Brazil",
+      "country_topic": "country_BRA"
+    }
   }
 ]
