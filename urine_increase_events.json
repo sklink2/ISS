@@ -1932,5 +1932,22 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-05T18:40:09.390026+00:00",
+    "source_time_gmt": "156/18:36:20",
+    "previous_urine": 55.0,
+    "current_urine": 57.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 28.036,
+      "longitude": -152.8575,
+      "timestamp": 1780684810,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
