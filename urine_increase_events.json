@@ -1997,5 +1997,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-05T21:21:44.158876+00:00",
+    "source_time_gmt": "156/21:21:8",
+    "previous_urine": 33.0,
+    "current_urine": 36.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -40.9495,
+      "longitude": 97.7014,
+      "timestamp": 1780694504,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean"
+    }
   }
 ]
