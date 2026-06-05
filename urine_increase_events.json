@@ -2028,5 +2028,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-05T22:35:09.521170+00:00",
+    "source_time_gmt": "156/22:35:3",
+    "previous_urine": 26.0,
+    "current_urine": 27.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -35.6795,
+      "longitude": -22.8589,
+      "timestamp": 1780698910,
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
