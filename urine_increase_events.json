@@ -1786,5 +1786,19 @@
       "area": "Atlantic Ocean",
       "region": "Atlantic Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-05T11:09:38.390899+00:00",
+    "source_time_gmt": "156/11:8:48",
+    "previous_urine": 46.0,
+    "current_urine": 48.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 51.6094,
+      "longitude": 27.4928,
+      "timestamp": 1780657779,
+      "area": "Ukraine",
+      "region": "Europe"
+    }
   }
 ]
