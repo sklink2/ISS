@@ -1828,5 +1828,22 @@
       "area": "Iran",
       "region": "Middle East"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-05T13:00:09.935630+00:00",
+    "source_time_gmt": "156/12:58:40",
+    "previous_urine": 55.0,
+    "current_urine": 56.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 16.1681,
+      "longitude": 75.3074,
+      "timestamp": 1780664412,
+      "area": "India",
+      "region": "Country",
+      "country_id": "IND",
+      "country_name": "India",
+      "country_topic": "country_IND"
+    }
   }
 ]
