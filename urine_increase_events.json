@@ -1628,5 +1628,22 @@
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-05T07:50:10.398349+00:00",
+    "source_time_gmt": "156/7:47:1",
+    "previous_urine": 29.0,
+    "current_urine": 30.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 28.4213,
+      "longitude": 12.7431,
+      "timestamp": 1780645814,
+      "area": "Libya",
+      "region": "Country",
+      "country_id": "LBY",
+      "country_name": "Libya",
+      "country_topic": "country_LBY"
+    }
   }
 ]
