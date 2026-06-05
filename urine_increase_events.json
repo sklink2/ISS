@@ -1772,5 +1772,19 @@
       "country_name": "Brazil",
       "country_topic": "country_BRA"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-05T10:54:04.262724+00:00",
+    "source_time_gmt": "156/10:53:58",
+    "previous_urine": 46.0,
+    "current_urine": 47.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 23.1083,
+      "longitude": -39.606,
+      "timestamp": 1780656845,
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean"
+    }
   }
 ]
