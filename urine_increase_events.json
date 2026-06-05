@@ -1800,5 +1800,19 @@
       "area": "Ukraine",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-05T11:14:49.434133+00:00",
+    "source_time_gmt": "156/11:11:18",
+    "previous_urine": 48.0,
+    "current_urine": 52.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 47.1483,
+      "longitude": 56.7073,
+      "timestamp": 1780658091,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
