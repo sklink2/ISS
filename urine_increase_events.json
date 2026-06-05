@@ -1645,5 +1645,22 @@
       "country_name": "Libya",
       "country_topic": "country_LBY"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-05T07:55:10.026322+00:00",
+    "source_time_gmt": "156/7:52:22",
+    "previous_urine": 30.0,
+    "current_urine": 33.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 40.986,
+      "longitude": 29.5834,
+      "timestamp": 1780646114,
+      "area": "Turkey",
+      "region": "Country",
+      "country_id": "TUR",
+      "country_name": "Turkey",
+      "country_topic": "country_TUR"
+    }
   }
 ]
