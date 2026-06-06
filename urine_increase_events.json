@@ -2313,5 +2313,22 @@
       "country_name": "United Kingdom",
       "country_topic": "country_GBR"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-06T13:35:10.010415+00:00",
+    "source_time_gmt": "157/13:30:18",
+    "previous_urine": 36.0,
+    "current_urine": 38.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 44.407,
+      "longitude": 22.8604,
+      "timestamp": 1780752910,
+      "area": "Romania",
+      "region": "Country",
+      "country_id": "ROU",
+      "country_name": "Romania",
+      "country_topic": "country_ROU"
+    }
   }
 ]
