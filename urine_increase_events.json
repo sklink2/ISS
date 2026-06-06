@@ -2484,5 +2484,27 @@
       "country_name": "Mauritania",
       "country_topic": "country_MRT"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-06T18:30:09.837881+00:00",
+    "source_time_gmt": "157/18:3:42",
+    "tank": "waste",
+    "previous_waste": 71.12,
+    "current_waste": 71.19,
+    "change_amount": 0.07,
+    "previous_urine": 62.0,
+    "current_urine": 62.0,
+    "previous_clean": 34.76,
+    "current_clean": 34.75,
+    "iss_location": {
+      "latitude": -0.3576,
+      "longitude": -0.9252,
+      "timestamp": 1780770610,
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
