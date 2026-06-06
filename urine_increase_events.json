@@ -2550,5 +2550,19 @@
       "country_name": "South Africa",
       "country_topic": "country_ZAF"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-06T19:03:07.247918+00:00",
+    "source_time_gmt": "157/19:2:60",
+    "previous_urine": 63.0,
+    "current_urine": 64.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -38.1245,
+      "longitude": 131.9726,
+      "timestamp": 1780772588,
+      "area": "Australia",
+      "region": "Oceania"
+    }
   }
 ]
