@@ -2462,5 +2462,27 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-06T18:25:09.531127+00:00",
+    "source_time_gmt": "157/18:3:42",
+    "tank": "waste",
+    "previous_waste": 71.04,
+    "current_waste": 71.1,
+    "change_amount": 0.06,
+    "previous_urine": 62.0,
+    "current_urine": 62.0,
+    "previous_clean": 34.75,
+    "current_clean": 34.75,
+    "iss_location": {
+      "latitude": 14.7572,
+      "longitude": -11.9828,
+      "timestamp": 1780770310,
+      "area": "Mauritania",
+      "region": "Country",
+      "country_id": "MRT",
+      "country_name": "Mauritania",
+      "country_topic": "country_MRT"
+    }
   }
 ]
