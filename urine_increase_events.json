@@ -2528,5 +2528,27 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-06T18:40:42.913900+00:00",
+    "source_time_gmt": "157/18:3:42",
+    "tank": "waste",
+    "previous_waste": 71.27,
+    "current_waste": 71.35,
+    "change_amount": 0.08,
+    "previous_urine": 62.0,
+    "current_urine": 62.0,
+    "previous_clean": 34.76,
+    "current_clean": 34.75,
+    "iss_location": {
+      "latitude": -31.2526,
+      "longitude": 24.8423,
+      "timestamp": 1780771244,
+      "area": "South Africa",
+      "region": "Country",
+      "country_id": "ZAF",
+      "country_name": "South Africa",
+      "country_topic": "country_ZAF"
+    }
   }
 ]
