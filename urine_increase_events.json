@@ -2506,5 +2506,27 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-06T18:35:10.430059+00:00",
+    "source_time_gmt": "157/18:3:42",
+    "tank": "waste",
+    "previous_waste": 71.21,
+    "current_waste": 71.26,
+    "change_amount": 0.05,
+    "previous_urine": 62.0,
+    "current_urine": 62.0,
+    "previous_clean": 34.74,
+    "current_clean": 34.75,
+    "iss_location": {
+      "latitude": -15.4928,
+      "longitude": 10.2018,
+      "timestamp": 1780770911,
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
