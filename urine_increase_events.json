@@ -2135,5 +2135,22 @@
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-06T09:00:09.960113+00:00",
+    "source_time_gmt": "157/8:56:37",
+    "previous_urine": 12.0,
+    "current_urine": 17.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 36.1081,
+      "longitude": 108.3094,
+      "timestamp": 1780736418,
+      "area": "China",
+      "region": "Country",
+      "country_id": "CHN",
+      "country_name": "China",
+      "country_topic": "country_CHN"
+    }
   }
 ]
