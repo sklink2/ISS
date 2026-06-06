@@ -2279,5 +2279,22 @@
       "country_name": "Venezuela",
       "country_topic": "country_VEN"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-06T12:20:09.328731+00:00",
+    "source_time_gmt": "157/12:18:4",
+    "previous_urine": 34.0,
+    "current_urine": 35.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -4.8977,
+      "longitude": 96.7048,
+      "timestamp": 1780748411,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
