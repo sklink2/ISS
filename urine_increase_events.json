@@ -2296,5 +2296,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-06T13:30:10.501617+00:00",
+    "source_time_gmt": "157/13:30:4",
+    "previous_urine": 35.0,
+    "current_urine": 36.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 51.0179,
+      "longitude": -3.2004,
+      "timestamp": 1780752611,
+      "area": "United Kingdom",
+      "region": "Country",
+      "country_id": "GBR",
+      "country_name": "United Kingdom",
+      "country_topic": "country_GBR"
+    }
   }
 ]
