@@ -3475,5 +3475,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-08T21:34:17.703411+00:00",
+    "source_time_gmt": "159/21:34:15",
+    "previous_urine": 37.0,
+    "current_urine": 39.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 0.7066,
+      "longitude": -60.4743,
+      "timestamp": 1780954466,
+      "area": "Brazil",
+      "region": "South America"
+    }
   }
 ]
