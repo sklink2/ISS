@@ -3142,5 +3142,22 @@
       "area": "Brazil",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-08T08:55:09.637767+00:00",
+    "source_time_gmt": "159/8:55:4",
+    "previous_urine": 23.0,
+    "current_urine": 24.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 44.9256,
+      "longitude": 80.8263,
+      "timestamp": 1780908911,
+      "area": "China",
+      "region": "Country",
+      "country_id": "CHN",
+      "country_name": "China",
+      "country_topic": "country_CHN"
+    }
   }
 ]
