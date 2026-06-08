@@ -3458,5 +3458,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-08T19:08:53.909424+00:00",
+    "source_time_gmt": "159/19:7:44",
+    "previous_urine": 61.0,
+    "current_urine": 62.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -19.5063,
+      "longitude": 140.7655,
+      "timestamp": 1780945735,
+      "area": "Australia",
+      "region": "Oceania"
+    }
   }
 ]
