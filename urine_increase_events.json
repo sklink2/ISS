@@ -3114,5 +3114,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-08T08:02:04.045646+00:00",
+    "source_time_gmt": "159/8:1:36",
+    "previous_urine": 17.0,
+    "current_urine": 21.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": -51.5708,
+      "longitude": -120.4832,
+      "timestamp": 1780905756,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
   }
 ]
