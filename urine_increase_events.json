@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-03T05:04:49.853675+00:00",
-    "source_time_gmt": "154/5:2:30",
-    "previous_urine": 9.0,
-    "current_urine": 11.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 46.3574,
-      "longitude": 165.0802,
-      "timestamp": 1780463093,
-      "area": "Russia",
-      "region": "Europe/Asia"
-    }
-  },
-  {
     "captured_at_utc": "2026-06-03T05:51:27.391557+00:00",
     "source_time_gmt": "154/5:47:17",
     "previous_urine": 11.0,
@@ -3771,6 +3757,20 @@
       "country_id": "",
       "country_name": "",
       "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-06-10T05:06:12.575013+00:00",
+    "source_time_gmt": "161/5:4:2",
+    "previous_urine": 9.0,
+    "current_urine": 10.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -33.9482,
+      "longitude": -33.027,
+      "timestamp": 1781068004,
+      "area": "South America",
+      "region": "South America"
     }
   }
 ]
