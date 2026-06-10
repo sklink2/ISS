@@ -3808,5 +3808,22 @@
       "area": "Indian Ocean",
       "region": "Indian Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-10T18:05:09.977875+00:00",
+    "source_time_gmt": "161/18:4:36",
+    "previous_urine": 70.0,
+    "current_urine": 71.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 51.5567,
+      "longitude": -105.0018,
+      "timestamp": 1781114711,
+      "area": "Canada",
+      "region": "Country",
+      "country_id": "CAN",
+      "country_name": "Canada",
+      "country_topic": "country_CAN"
+    }
   }
 ]
