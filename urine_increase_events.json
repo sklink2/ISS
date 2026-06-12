@@ -4085,17 +4085,20 @@
     }
   },
   {
-    "captured_at_utc": "2026-06-12T21:15:17.117342+00:00",
+    "captured_at_utc": "2026-06-12T21:15:10.684085+00:00",
     "source_time_gmt": "163/21:14:60",
     "previous_urine": 69.0,
     "current_urine": 70.0,
     "change_amount": 1.0,
     "iss_location": {
-      "latitude": 45.7451,
-      "longitude": -133.2109,
-      "timestamp": 1781298918,
-      "area": "Canada",
-      "region": "North America"
+      "latitude": 45.7155,
+      "longitude": -133.1324,
+      "timestamp": 1781298919,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
