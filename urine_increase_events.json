@@ -4162,5 +4162,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-13T12:44:24.337899+00:00",
+    "source_time_gmt": "164/12:40:7",
+    "previous_urine": 50.0,
+    "current_urine": 51.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 44.8474,
+      "longitude": -6.9246,
+      "timestamp": 1781354665,
+      "area": "Europe",
+      "region": "Europe"
+    }
   }
 ]
