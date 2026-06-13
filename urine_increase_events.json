@@ -4218,5 +4218,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-13T17:20:09.692485+00:00",
+    "source_time_gmt": "164/17:19:58",
+    "previous_urine": 62.0,
+    "current_urine": 63.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 49.2265,
+      "longitude": -91.7376,
+      "timestamp": 1781371211,
+      "area": "Canada",
+      "region": "Country",
+      "country_id": "CAN",
+      "country_name": "Canada",
+      "country_topic": "country_CAN"
+    }
   }
 ]
