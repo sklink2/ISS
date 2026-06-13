@@ -4173,5 +4173,19 @@
       "country_name": "Canada",
       "country_topic": "country_CAN"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-13T14:43:44.012722+00:00",
+    "source_time_gmt": "164/14:43:17",
+    "previous_urine": 58.0,
+    "current_urine": 62.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": -29.3402,
+      "longitude": 41.1929,
+      "timestamp": 1781361826,
+      "area": "Africa",
+      "region": "Africa"
+    }
   }
 ]
