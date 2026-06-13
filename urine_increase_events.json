@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-06T11:20:09.392595+00:00",
-    "source_time_gmt": "157/11:19:6",
-    "previous_urine": 29.0,
-    "current_urine": 30.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -34.7424,
-      "longitude": -105.2624,
-      "timestamp": 1780744810,
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-06-06T11:25:09.602003+00:00",
     "source_time_gmt": "157/11:21:14",
     "previous_urine": 30.0,
@@ -4150,6 +4133,23 @@
       "timestamp": 1781349374,
       "area": "Africa",
       "region": "Africa"
+    }
+  },
+  {
+    "captured_at_utc": "2026-06-13T11:20:09.009767+00:00",
+    "source_time_gmt": "164/11:19:44",
+    "previous_urine": 36.0,
+    "current_urine": 38.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 23.5689,
+      "longitude": 46.2695,
+      "timestamp": 1781349610,
+      "area": "Saudi Arabia",
+      "region": "Country",
+      "country_id": "SAU",
+      "country_name": "Saudi Arabia",
+      "country_topic": "country_SAU"
     }
   }
 ]
