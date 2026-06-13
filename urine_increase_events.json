@@ -4176,5 +4176,22 @@
       "area": "Europe",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-13T13:20:10.196135+00:00",
+    "source_time_gmt": "164/13:19:24",
+    "previous_urine": 51.0,
+    "current_urine": 53.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -49.102,
+      "longitude": 102.1451,
+      "timestamp": 1781356811,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
