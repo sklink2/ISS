@@ -4325,5 +4325,22 @@
       "area": "Oceania",
       "region": "Oceania"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-14T12:15:09.529109+00:00",
+    "source_time_gmt": "165/12:11:25",
+    "previous_urine": 33.0,
+    "current_urine": 36.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -3.9764,
+      "longitude": 49.7269,
+      "timestamp": 1781439310,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
