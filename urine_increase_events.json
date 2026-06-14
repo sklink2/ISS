@@ -4260,5 +4260,22 @@
       "area": "United Kingdom",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-14T08:55:09.870251+00:00",
+    "source_time_gmt": "165/8:54:53",
+    "previous_urine": 22.0,
+    "current_urine": 23.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 37.131,
+      "longitude": 60.5359,
+      "timestamp": 1781427310,
+      "area": "Turkmenistan",
+      "region": "Country",
+      "country_id": "TKM",
+      "country_name": "Turkmenistan",
+      "country_topic": "country_TKM"
+    }
   }
 ]
