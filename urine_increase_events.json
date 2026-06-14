@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-07T16:00:10.616911+00:00",
-    "source_time_gmt": "158/16:0:8",
-    "previous_urine": 56.0,
-    "current_urine": 57.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 28.0156,
-      "longitude": 5.9005,
-      "timestamp": 1780848043,
-      "area": "Algeria",
-      "region": "Country",
-      "country_id": "DZA",
-      "country_name": "Algeria",
-      "country_topic": "country_DZA"
-    }
-  },
-  {
     "captured_at_utc": "2026-06-07T16:05:09.595225+00:00",
     "source_time_gmt": "158/16:5:7",
     "previous_urine": 56.0,
@@ -4296,6 +4279,23 @@
       "timestamp": 1781452454,
       "area": "Australia",
       "region": "Oceania"
+    }
+  },
+  {
+    "captured_at_utc": "2026-06-14T16:00:09.621352+00:00",
+    "source_time_gmt": "165/15:59:32",
+    "previous_urine": 52.0,
+    "current_urine": 54.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -17.6721,
+      "longitude": 154.7677,
+      "timestamp": 1781452811,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
