@@ -4229,5 +4229,19 @@
       "area": "Atlantic Ocean",
       "region": "Atlantic Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-14T20:45:18.692221+00:00",
+    "source_time_gmt": "165/20:45:15",
+    "previous_urine": 65.0,
+    "current_urine": 67.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 2.1836,
+      "longitude": 98.6448,
+      "timestamp": 1781469922,
+      "area": "Indonesia",
+      "region": "Southeast Asia"
+    }
   }
 ]
