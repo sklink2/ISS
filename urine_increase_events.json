@@ -4173,5 +4173,19 @@
       "country_name": "Brazil",
       "country_topic": "country_BRA"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-14T07:09:51.949025+00:00",
+    "source_time_gmt": "165/7:5:10",
+    "previous_urine": 10.0,
+    "current_urine": 11.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 50.8089,
+      "longitude": 20.4826,
+      "timestamp": 1781420994,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
