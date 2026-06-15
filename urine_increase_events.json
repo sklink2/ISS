@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-08T03:20:09.665640+00:00",
-    "source_time_gmt": "159/3:20:1",
-    "previous_urine": 5.0,
-    "current_urine": 8.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": -49.8259,
-      "longitude": -72.058,
-      "timestamp": 1780888810,
-      "area": "Argentina",
-      "region": "Country",
-      "country_id": "ARG",
-      "country_name": "Argentina",
-      "country_topic": "country_ARG"
-    }
-  },
-  {
     "captured_at_utc": "2026-06-08T03:25:10.216053+00:00",
     "source_time_gmt": "159/3:21:20",
     "previous_urine": 8.0,
