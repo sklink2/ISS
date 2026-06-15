@@ -4242,17 +4242,20 @@
     }
   },
   {
-    "captured_at_utc": "2026-06-15T19:10:06.305866+00:00",
+    "captured_at_utc": "2026-06-15T19:10:11.463398+00:00",
     "source_time_gmt": "166/19:9:27",
     "previous_urine": 53.0,
     "current_urine": 54.0,
     "change_amount": 1.0,
     "iss_location": {
-      "latitude": 2.8078,
-      "longitude": -67.0599,
-      "timestamp": 1781550610,
-      "area": "Brazil",
-      "region": "South America"
+      "latitude": 2.7062,
+      "longitude": -66.9877,
+      "timestamp": 1781550612,
+      "area": "Venezuela",
+      "region": "Country",
+      "country_id": "VEN",
+      "country_name": "Venezuela",
+      "country_topic": "country_VEN"
     }
   }
 ]
