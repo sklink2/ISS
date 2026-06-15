@@ -4262,5 +4262,19 @@
       "area": "United States",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-15T12:54:34.856633+00:00",
+    "source_time_gmt": "166/12:51:40",
+    "previous_urine": 49.0,
+    "current_urine": 52.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 15.1222,
+      "longitude": 18.2359,
+      "timestamp": 1781528079,
+      "area": "Africa",
+      "region": "Africa"
+    }
   }
 ]
