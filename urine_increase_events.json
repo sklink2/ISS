@@ -4263,5 +4263,22 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-16T00:35:10.182556+00:00",
+    "source_time_gmt": "167/0:33:53",
+    "previous_urine": 6.0,
+    "current_urine": 8.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -2.9753,
+      "longitude": 30.2146,
+      "timestamp": 1781570111,
+      "area": "Burundi",
+      "region": "Country",
+      "country_id": "BDI",
+      "country_name": "Burundi",
+      "country_topic": "country_BDI"
+    }
   }
 ]
