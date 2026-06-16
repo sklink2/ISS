@@ -4342,5 +4342,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-16T13:22:18.386775+00:00",
+    "source_time_gmt": "167/13:22:10",
+    "previous_urine": 53.0,
+    "current_urine": 56.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 51.6105,
+      "longitude": -71.7477,
+      "timestamp": 1781616141,
+      "area": "Canada",
+      "region": "North America"
+    }
   }
 ]
