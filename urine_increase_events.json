@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-09T08:28:47.225078+00:00",
-    "source_time_gmt": "160/8:28:41",
-    "previous_urine": 24.0,
-    "current_urine": 26.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": -12.3393,
-      "longitude": 143.7734,
-      "timestamp": 1780993729,
-      "area": "Australia",
-      "region": "Oceania"
-    }
-  },
-  {
-    "captured_at_utc": "2026-06-09T08:30:10.238424+00:00",
-    "source_time_gmt": "160/8:28:47",
-    "previous_urine": 26.0,
-    "current_urine": 27.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -16.4642,
-      "longitude": 146.9816,
-      "timestamp": 1780993812,
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-06-09T09:25:10.164947+00:00",
     "source_time_gmt": "160/9:24:59",
     "previous_urine": 27.0,
@@ -4420,6 +4389,23 @@
       "timestamp": 1781596145,
       "area": "Australia",
       "region": "Oceania"
+    }
+  },
+  {
+    "captured_at_utc": "2026-06-16T08:30:10.532804+00:00",
+    "source_time_gmt": "167/8:26:41",
+    "previous_urine": 28.0,
+    "current_urine": 30.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 28.6385,
+      "longitude": -62.5034,
+      "timestamp": 1781598611,
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
