@@ -4367,5 +4367,22 @@
       "area": "Mexico",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-16T10:45:10.173106+00:00",
+    "source_time_gmt": "167/10:44:43",
+    "previous_urine": 41.0,
+    "current_urine": 44.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -16.6576,
+      "longitude": 71.2568,
+      "timestamp": 1781606714,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
