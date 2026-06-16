@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-09T11:20:10.385595+00:00",
-    "source_time_gmt": "160/11:16:55",
-    "previous_urine": 37.0,
-    "current_urine": 40.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": 29.8598,
-      "longitude": 63.157,
-      "timestamp": 1781004019,
-      "area": "Afghanistan",
-      "region": "Country",
-      "country_id": "AFG",
-      "country_name": "Afghanistan",
-      "country_topic": "country_AFG"
-    }
-  },
-  {
     "captured_at_utc": "2026-06-09T11:25:10.565324+00:00",
     "source_time_gmt": "160/11:20:30",
     "previous_urine": 40.0,
