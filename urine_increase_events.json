@@ -4390,5 +4390,19 @@
       "country_name": "Cameroon",
       "country_topic": "country_CMR"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-16T02:21:51.950591+00:00",
+    "source_time_gmt": "167/2:21:49",
+    "previous_urine": 8.0,
+    "current_urine": 9.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 36.7993,
+      "longitude": 41.8049,
+      "timestamp": 1781576513,
+      "area": "Turkey",
+      "region": "Middle East"
+    }
   }
 ]
