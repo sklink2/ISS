@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-09T11:25:10.565324+00:00",
-    "source_time_gmt": "160/11:20:30",
-    "previous_urine": 40.0,
-    "current_urine": 42.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 15.9232,
-      "longitude": 75.9081,
-      "timestamp": 1781004311,
-      "area": "India",
-      "region": "Country",
-      "country_id": "IND",
-      "country_name": "India",
-      "country_topic": "country_IND"
-    }
-  },
-  {
     "captured_at_utc": "2026-06-09T11:30:09.336732+00:00",
     "source_time_gmt": "160/11:29:1",
     "previous_urine": 42.0,
