@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-09T06:39:30.517458+00:00",
-    "source_time_gmt": "160/6:39:4",
-    "previous_urine": 15.0,
-    "current_urine": 18.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": 35.483,
-      "longitude": 127.1701,
-      "timestamp": 1780987174,
-      "area": "China",
-      "region": "East Asia"
-    }
-  },
-  {
     "captured_at_utc": "2026-06-09T07:05:10.471160+00:00",
     "source_time_gmt": "160/7:1:14",
     "previous_urine": 18.0,
@@ -4398,6 +4384,23 @@
       "latitude": -46.366,
       "longitude": -113.8364,
       "timestamp": 1781591411,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-06-16T06:40:09.422948+00:00",
+    "source_time_gmt": "167/6:36:50",
+    "previous_urine": 17.0,
+    "current_urine": 18.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -22.1272,
+      "longitude": -78.9743,
+      "timestamp": 1781592011,
       "area": "Pacific Ocean",
       "region": "Pacific Ocean",
       "country_id": "",
