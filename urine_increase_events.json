@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-10T08:50:10.315288+00:00",
-    "source_time_gmt": "161/8:50:5",
-    "previous_urine": 25.0,
-    "current_urine": 26.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 50.251,
-      "longitude": 50.103,
-      "timestamp": 1781081418,
-      "area": "Kazakhstan",
-      "region": "Country",
-      "country_id": "KAZ",
-      "country_name": "Kazakhstan",
-      "country_topic": "country_KAZ"
-    }
-  },
-  {
     "captured_at_utc": "2026-06-10T09:05:10.173921+00:00",
     "source_time_gmt": "161/9:5:7",
     "previous_urine": 26.0,
