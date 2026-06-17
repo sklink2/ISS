@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-10T16:30:10.127217+00:00",
-    "source_time_gmt": "161/16:26:40",
-    "previous_urine": 60.0,
-    "current_urine": 65.0,
-    "change_amount": 5.0,
-    "iss_location": {
-      "latitude": 51.2374,
-      "longitude": -93.8552,
-      "timestamp": 1781109014,
-      "area": "Canada",
-      "region": "Country",
-      "country_id": "CAN",
-      "country_name": "Canada",
-      "country_topic": "country_CAN"
-    }
-  },
-  {
     "captured_at_utc": "2026-06-10T16:41:17.390974+00:00",
     "source_time_gmt": "161/16:40:47",
     "previous_urine": 65.0,
