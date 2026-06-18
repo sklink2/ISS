@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-11T22:07:24.626580+00:00",
-    "source_time_gmt": "162/22:7:21",
-    "previous_urine": 30.0,
-    "current_urine": 41.0,
-    "change_amount": 11.0,
-    "iss_location": {
-      "latitude": 34.5159,
-      "longitude": -119.127,
-      "timestamp": 1781215645,
-      "area": "United States",
-      "region": "North America"
-    }
-  },
-  {
-    "captured_at_utc": "2026-06-11T22:10:09.755277+00:00",
-    "source_time_gmt": "162/22:9:19",
-    "previous_urine": 41.0,
-    "current_urine": 68.0,
-    "change_amount": 27.0,
-    "iss_location": {
-      "latitude": 27.1393,
-      "longitude": -110.775,
-      "timestamp": 1781215810,
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-06-12T00:54:11.376768+00:00",
     "source_time_gmt": "163/0:52:27",
     "previous_urine": 39.0,
@@ -3161,6 +3130,23 @@
       "timestamp": 1781816349,
       "area": "Russia",
       "region": "Europe/Asia"
+    }
+  },
+  {
+    "captured_at_utc": "2026-06-18T22:10:10.411489+00:00",
+    "source_time_gmt": "169/22:10:6",
+    "previous_urine": 32.0,
+    "current_urine": 35.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -13.7244,
+      "longitude": 40.4143,
+      "timestamp": 1781820618,
+      "area": "Mozambique",
+      "region": "Country",
+      "country_id": "MOZ",
+      "country_name": "Mozambique",
+      "country_topic": "country_MOZ"
     }
   }
 ]
