@@ -3179,5 +3179,22 @@
       "country_name": "Russia",
       "country_topic": "country_RUS"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-18T23:15:10.273737+00:00",
+    "source_time_gmt": "169/23:14:23",
+    "previous_urine": 36.0,
+    "current_urine": 37.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -39.4372,
+      "longitude": -104.2571,
+      "timestamp": 1781824512,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
