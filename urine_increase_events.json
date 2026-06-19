@@ -3207,5 +3207,22 @@
       "area": "Oceania",
       "region": "Oceania"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-19T04:55:09.865078+00:00",
+    "source_time_gmt": "170/4:53:46",
+    "previous_urine": 10.0,
+    "current_urine": 13.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 46.5922,
+      "longitude": 71.7997,
+      "timestamp": 1781844910,
+      "area": "Kazakhstan",
+      "region": "Country",
+      "country_id": "KAZ",
+      "country_name": "Kazakhstan",
+      "country_topic": "country_KAZ"
+    }
   }
 ]
