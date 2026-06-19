@@ -3190,5 +3190,22 @@
       "country_name": "China",
       "country_topic": "country_CHN"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-19T06:40:09.680393+00:00",
+    "source_time_gmt": "170/6:36:10",
+    "previous_urine": 16.0,
+    "current_urine": 18.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 16.1491,
+      "longitude": 88.7356,
+      "timestamp": 1781851211,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
