@@ -3207,5 +3207,19 @@
       "area": "North America",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-19T07:58:39.286792+00:00",
+    "source_time_gmt": "170/7:55:60",
+    "previous_urine": 24.0,
+    "current_urine": 27.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 49.6674,
+      "longitude": 13.1244,
+      "timestamp": 1781855921,
+      "area": "Germany",
+      "region": "Europe"
+    }
   }
 ]
