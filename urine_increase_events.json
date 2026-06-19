@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-12T08:50:10.542932+00:00",
-    "source_time_gmt": "163/8:49:56",
-    "previous_urine": 26.0,
-    "current_urine": 28.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 48.9264,
-      "longitude": 45.1419,
-      "timestamp": 1781254218,
-      "area": "Russia",
-      "region": "Country",
-      "country_id": "RUS",
-      "country_name": "Russia",
-      "country_topic": "country_RUS"
-    }
-  },
-  {
     "captured_at_utc": "2026-06-12T08:51:52.224561+00:00",
     "source_time_gmt": "163/8:50:22",
     "previous_urine": 28.0,
@@ -3198,6 +3181,23 @@
       "latitude": -49.4812,
       "longitude": -177.7556,
       "timestamp": 1781858715,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-06-19T08:50:09.944747+00:00",
+    "source_time_gmt": "170/8:50:6",
+    "previous_urine": 29.0,
+    "current_urine": 32.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -41.0041,
+      "longitude": -154.5726,
+      "timestamp": 1781859011,
       "area": "Pacific Ocean",
       "region": "Pacific Ocean",
       "country_id": "",
