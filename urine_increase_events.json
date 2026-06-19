@@ -3207,5 +3207,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-19T06:55:10.405287+00:00",
+    "source_time_gmt": "170/6:54:49",
+    "previous_urine": 18.0,
+    "current_urine": 20.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -28.4692,
+      "longitude": 123.6265,
+      "timestamp": 1781852111,
+      "area": "Australia",
+      "region": "Country",
+      "country_id": "AUS",
+      "country_name": "Australia",
+      "country_topic": "country_AUS"
+    }
   }
 ]
