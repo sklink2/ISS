@@ -3187,5 +3187,22 @@
       "area": "Germany",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-19T08:45:11.483139+00:00",
+    "source_time_gmt": "170/8:44:19",
+    "previous_urine": 27.0,
+    "current_urine": 29.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -49.4812,
+      "longitude": -177.7556,
+      "timestamp": 1781858715,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
