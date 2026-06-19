@@ -3210,5 +3210,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-19T03:49:22.671663+00:00",
+    "source_time_gmt": "170/3:48:54",
+    "previous_urine": 18.0,
+    "current_urine": 22.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": -28.5729,
+      "longitude": 170.9302,
+      "timestamp": 1781840970,
+      "area": "Oceania",
+      "region": "Oceania"
+    }
   }
 ]
