@@ -3224,5 +3224,19 @@
       "country_name": "Kazakhstan",
       "country_topic": "country_KAZ"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-19T04:56:54.230174+00:00",
+    "source_time_gmt": "170/4:55:50",
+    "previous_urine": 13.0,
+    "current_urine": 14.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 43.1471,
+      "longitude": 80.2577,
+      "timestamp": 1781845022,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
