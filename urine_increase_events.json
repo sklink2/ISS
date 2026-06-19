@@ -3224,5 +3224,22 @@
       "country_name": "Australia",
       "country_topic": "country_AUS"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-19T07:10:10.056841+00:00",
+    "source_time_gmt": "170/7:8:34",
+    "previous_urine": 20.0,
+    "current_urine": 22.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -51.2426,
+      "longitude": -166.343,
+      "timestamp": 1781853015,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
