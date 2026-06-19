@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-12T07:15:09.914846+00:00",
-    "source_time_gmt": "163/7:13:32",
-    "previous_urine": 17.0,
-    "current_urine": 18.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 51.0652,
-      "longitude": 55.9865,
-      "timestamp": 1781248510,
-      "area": "Russia",
-      "region": "Country",
-      "country_id": "RUS",
-      "country_name": "Russia",
-      "country_topic": "country_RUS"
-    }
-  },
-  {
     "captured_at_utc": "2026-06-12T07:50:09.763609+00:00",
     "source_time_gmt": "163/7:50:4",
     "previous_urine": 18.0,
