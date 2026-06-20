@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-13T14:07:25.892859+00:00",
-    "source_time_gmt": "164/14:7:20",
-    "previous_urine": 56.0,
-    "current_urine": 57.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 49.9773,
-      "longitude": -85.392,
-      "timestamp": 1781359647,
-      "area": "Canada",
-      "region": "North America"
-    }
-  },
-  {
-    "captured_at_utc": "2026-06-13T14:10:09.916557+00:00",
-    "source_time_gmt": "164/14:7:26",
-    "previous_urine": 57.0,
-    "current_urine": 58.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 51.5957,
-      "longitude": -68.7244,
-      "timestamp": 1781359818,
-      "area": "Canada",
-      "region": "Country",
-      "country_id": "CAN",
-      "country_name": "Canada",
-      "country_topic": "country_CAN"
-    }
-  },
-  {
     "captured_at_utc": "2026-06-13T14:43:44.012722+00:00",
     "source_time_gmt": "164/14:43:17",
     "previous_urine": 58.0,
