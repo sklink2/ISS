@@ -3160,5 +3160,22 @@
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-22T09:45:09.866688+00:00",
+    "source_time_gmt": "173/9:43:15",
+    "previous_urine": 22.0,
+    "current_urine": 24.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -11.9556,
+      "longitude": -152.4991,
+      "timestamp": 1782121511,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
