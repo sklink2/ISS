@@ -3257,17 +3257,20 @@
     }
   },
   {
-    "captured_at_utc": "2026-06-22T20:29:54.500580+00:00",
+    "captured_at_utc": "2026-06-22T20:30:09.901545+00:00",
     "source_time_gmt": "173/20:28:59",
     "previous_urine": 66.0,
     "current_urine": 67.0,
     "change_amount": 1.0,
     "iss_location": {
-      "latitude": -26.5291,
-      "longitude": 29.9558,
-      "timestamp": 1782160210,
+      "latitude": -26.1796,
+      "longitude": 30.299,
+      "timestamp": 1782160218,
       "area": "South Africa",
-      "region": "Africa"
+      "region": "Country",
+      "country_id": "ZAF",
+      "country_name": "South Africa",
+      "country_topic": "country_ZAF"
     }
   }
 ]
