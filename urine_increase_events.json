@@ -3194,5 +3194,19 @@
       "country_name": "United States of America",
       "country_topic": "country_USA"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-22T10:11:39.872302+00:00",
+    "source_time_gmt": "173/10:11:30",
+    "previous_urine": 27.0,
+    "current_urine": 29.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 51.5327,
+      "longitude": -63.8942,
+      "timestamp": 1782123100,
+      "area": "Canada",
+      "region": "North America"
+    }
   }
 ]
