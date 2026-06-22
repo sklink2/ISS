@@ -3218,17 +3218,20 @@
     }
   },
   {
-    "captured_at_utc": "2026-06-22T07:15:10.250661+00:00",
+    "captured_at_utc": "2026-06-22T07:15:11.302573+00:00",
     "source_time_gmt": "173/7:12:36",
     "previous_urine": 13.0,
     "current_urine": 14.0,
     "change_amount": 1.0,
     "iss_location": {
-      "latitude": 41.0196,
-      "longitude": 31.7146,
-      "timestamp": 1782112511,
+      "latitude": 40.3873,
+      "longitude": 32.8337,
+      "timestamp": 1782112528,
       "area": "Turkey",
-      "region": "Middle East"
+      "region": "Country",
+      "country_id": "TUR",
+      "country_name": "Turkey",
+      "country_topic": "country_TUR"
     }
   }
 ]
