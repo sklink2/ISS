@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-15T08:02:47.441399+00:00",
-    "source_time_gmt": "166/8:1:37",
-    "previous_urine": 26.0,
-    "current_urine": 27.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 47.4146,
-      "longitude": 45.1553,
-      "timestamp": 1781510584,
-      "area": "Russia",
-      "region": "Europe/Asia"
-    }
-  },
-  {
     "captured_at_utc": "2026-06-15T08:44:37.502688+00:00",
     "source_time_gmt": "166/8:40:22",
     "previous_urine": 27.0,
@@ -3201,6 +3187,23 @@
       "country_id": "TUR",
       "country_name": "Turkey",
       "country_topic": "country_TUR"
+    }
+  },
+  {
+    "captured_at_utc": "2026-06-22T08:05:10.298914+00:00",
+    "source_time_gmt": "173/8:5:2",
+    "previous_urine": 14.0,
+    "current_urine": 19.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": -32.3344,
+      "longitude": -147.5253,
+      "timestamp": 1782115511,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
