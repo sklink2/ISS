@@ -3272,5 +3272,22 @@
       "country_name": "South Africa",
       "country_topic": "country_ZAF"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-22T20:45:10.757697+00:00",
+    "source_time_gmt": "173/20:45:6",
+    "previous_urine": 67.0,
+    "current_urine": 72.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 18.2625,
+      "longitude": 64.5824,
+      "timestamp": 1782161113,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
