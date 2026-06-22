@@ -3143,5 +3143,22 @@
       "area": "North America",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-22T12:45:09.928360+00:00",
+    "source_time_gmt": "173/12:45:6",
+    "previous_urine": 31.0,
+    "current_urine": 34.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -28.1545,
+      "longitude": 146.3011,
+      "timestamp": 1782132318,
+      "area": "Australia",
+      "region": "Country",
+      "country_id": "AUS",
+      "country_name": "Australia",
+      "country_topic": "country_AUS"
+    }
   }
 ]
