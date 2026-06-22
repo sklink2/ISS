@@ -3199,5 +3199,22 @@
       "area": "North America",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-22T16:50:09.516417+00:00",
+    "source_time_gmt": "173/16:50:6",
+    "previous_urine": 54.0,
+    "current_urine": 55.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -9.7186,
+      "longitude": -63.0415,
+      "timestamp": 1782147010,
+      "area": "Brazil",
+      "region": "Country",
+      "country_id": "BRA",
+      "country_name": "Brazil",
+      "country_topic": "country_BRA"
+    }
   }
 ]
