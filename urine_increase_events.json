@@ -3177,5 +3177,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-22T10:05:10.572259+00:00",
+    "source_time_gmt": "173/10:3:42",
+    "previous_urine": 24.0,
+    "current_urine": 27.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 43.9159,
+      "longitude": -98.2152,
+      "timestamp": 1782122712,
+      "area": "United States of America",
+      "region": "Country",
+      "country_id": "USA",
+      "country_name": "United States of America",
+      "country_topic": "country_USA"
+    }
   }
 ]
