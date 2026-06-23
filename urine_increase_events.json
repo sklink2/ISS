@@ -3142,5 +3142,19 @@
       "area": "United States",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-23T09:29:02.543939+00:00",
+    "source_time_gmt": "174/9:25:44",
+    "previous_urine": 30.0,
+    "current_urine": 33.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 49.1586,
+      "longitude": -31.112,
+      "timestamp": 1782206946,
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean"
+    }
   }
 ]
