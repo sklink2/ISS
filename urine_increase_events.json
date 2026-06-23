@@ -3083,5 +3083,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-23T18:14:14.284045+00:00",
+    "source_time_gmt": "174/18:14:1",
+    "previous_urine": 52.0,
+    "current_urine": 53.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -14.6751,
+      "longitude": 69.8788,
+      "timestamp": 1782238455,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean"
+    }
   }
 ]
