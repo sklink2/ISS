@@ -3148,5 +3148,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-06-23T06:25:09.402687+00:00",
+    "source_time_gmt": "174/6:22:48",
+    "previous_urine": 9.0,
+    "current_urine": 12.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 46.3952,
+      "longitude": 25.7344,
+      "timestamp": 1782195917,
+      "area": "Romania",
+      "region": "Country",
+      "country_id": "ROU",
+      "country_name": "Romania",
+      "country_topic": "country_ROU"
+    }
   }
 ]
