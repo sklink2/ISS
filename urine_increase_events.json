@@ -3066,5 +3066,22 @@
       "area": "Brazil",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-23T16:25:09.349448+00:00",
+    "source_time_gmt": "174/16:25:5",
+    "previous_urine": 65.0,
+    "current_urine": 67.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -50.8559,
+      "longitude": 32.8381,
+      "timestamp": 1782231910,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
