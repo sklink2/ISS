@@ -3114,5 +3114,19 @@
       "area": "Iran",
       "region": "Middle East"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-24T06:26:21.562436+00:00",
+    "source_time_gmt": "175/6:25:16",
+    "previous_urine": 13.0,
+    "current_urine": 15.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -42.8849,
+      "longitude": -151.5797,
+      "timestamp": 1782282384,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
   }
 ]
