@@ -3097,5 +3097,22 @@
       "country_name": "Algeria",
       "country_topic": "country_DZA"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-24T01:30:10.526944+00:00",
+    "source_time_gmt": "175/1:30:3",
+    "previous_urine": 9.0,
+    "current_urine": 11.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -37.792,
+      "longitude": -171.0261,
+      "timestamp": 1782264611,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
