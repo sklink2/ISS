@@ -3145,5 +3145,22 @@
       "country_name": "Saudi Arabia",
       "country_topic": "country_SAU"
     }
+  },
+  {
+    "captured_at_utc": "2026-06-24T08:20:09.918308+00:00",
+    "source_time_gmt": "175/8:18:35",
+    "previous_urine": 18.0,
+    "current_urine": 24.0,
+    "change_amount": 6.0,
+    "iss_location": {
+      "latitude": 16.1601,
+      "longitude": -119.8481,
+      "timestamp": 1782289211,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
