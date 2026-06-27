@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-20T03:57:46.312346+00:00",
-    "source_time_gmt": "171/3:57:40",
-    "previous_urine": 53.0,
-    "current_urine": 55.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 48.2755,
-      "longitude": 20.0013,
-      "timestamp": 1781927867,
-      "area": "Russia",
-      "region": "Europe/Asia"
-    }
-  },
-  {
-    "captured_at_utc": "2026-06-20T04:00:10.509654+00:00",
-    "source_time_gmt": "171/3:58:5",
-    "previous_urine": 55.0,
-    "current_urine": 56.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 50.9078,
-      "longitude": 33.8799,
-      "timestamp": 1781928018,
-      "area": "Ukraine",
-      "region": "Country",
-      "country_id": "UKR",
-      "country_name": "Ukraine",
-      "country_topic": "country_UKR"
-    }
-  },
-  {
     "captured_at_utc": "2026-06-20T06:23:35.200839+00:00",
     "source_time_gmt": "171/6:21:24",
     "previous_urine": 56.0,
