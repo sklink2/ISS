@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-06-22T05:41:30.626900+00:00",
-    "source_time_gmt": "173/5:40:19",
-    "previous_urine": 7.0,
-    "current_urine": 8.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 42.7013,
-      "longitude": 52.0969,
-      "timestamp": 1782106893,
-      "area": "Russia",
-      "region": "Europe/Asia"
-    }
-  },
-  {
-    "captured_at_utc": "2026-06-22T05:45:09.654952+00:00",
-    "source_time_gmt": "173/5:42:31",
-    "previous_urine": 8.0,
-    "current_urine": 9.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 34.2126,
-      "longitude": 65.5615,
-      "timestamp": 1782107110,
-      "area": "Afghanistan",
-      "region": "Country",
-      "country_id": "AFG",
-      "country_name": "Afghanistan",
-      "country_topic": "country_AFG"
-    }
-  },
-  {
     "captured_at_utc": "2026-06-22T06:23:04.372974+00:00",
     "source_time_gmt": "173/6:21:45",
     "previous_urine": 9.0,
