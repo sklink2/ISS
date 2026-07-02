@@ -1012,5 +1012,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-02T12:51:54.047966+00:00",
+    "source_time_gmt": "183/12:50:55",
+    "previous_urine": 50.0,
+    "current_urine": 52.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 15.6844,
+      "longitude": 123.0828,
+      "timestamp": 1782996730,
+      "area": "Philippines",
+      "region": "Southeast Asia"
+    }
   }
 ]
