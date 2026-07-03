@@ -1381,5 +1381,22 @@
       "area": "Ukraine",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-03T07:30:09.821341+00:00",
+    "source_time_gmt": "184/7:28:19",
+    "previous_urine": 21.0,
+    "current_urine": 22.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 51.6107,
+      "longitude": 29.9154,
+      "timestamp": 1783036801,
+      "area": "Belarus",
+      "region": "Country",
+      "country_id": "BLR",
+      "country_name": "Belarus",
+      "country_topic": "country_BLR"
+    }
   }
 ]
