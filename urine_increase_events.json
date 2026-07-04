@@ -2314,5 +2314,19 @@
       "country_name": "Mongolia",
       "country_topic": "country_MNG"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-04T21:19:48.669442+00:00",
+    "source_time_gmt": "185/21:19:12",
+    "previous_urine": 47.0,
+    "current_urine": 48.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -12.0793,
+      "longitude": 159.0846,
+      "timestamp": 1783199992,
+      "area": "Oceania",
+      "region": "Oceania"
+    }
   }
 ]
