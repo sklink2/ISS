@@ -2706,5 +2706,19 @@
       "country_name": "China",
       "country_topic": "country_CHN"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-05T15:38:57.578129+00:00",
+    "source_time_gmt": "186/15:38:53",
+    "previous_urine": 57.0,
+    "current_urine": 58.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 32.1536,
+      "longitude": -159.8664,
+      "timestamp": 1783265941,
+      "area": "North America",
+      "region": "North America"
+    }
   }
 ]
