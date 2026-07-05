@@ -2788,5 +2788,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-05T16:30:09.867333+00:00",
+    "source_time_gmt": "186/16:30:2",
+    "previous_urine": 58.0,
+    "current_urine": 60.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -18.9276,
+      "longitude": 21.2386,
+      "timestamp": 1783269010,
+      "area": "Botswana",
+      "region": "Country",
+      "country_id": "BWA",
+      "country_name": "Botswana",
+      "country_topic": "country_BWA"
+    }
   }
 ]
