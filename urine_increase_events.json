@@ -2980,5 +2980,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-05T23:05:03.429055+00:00",
+    "source_time_gmt": "186/23:3:55",
+    "previous_urine": 40.0,
+    "current_urine": 43.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 46.0546,
+      "longitude": -8.0705,
+      "timestamp": 1783292704,
+      "area": "Europe",
+      "region": "Europe"
+    }
   }
 ]
