@@ -2421,5 +2421,19 @@
       "area": "United States",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-05T06:24:05.693701+00:00",
+    "source_time_gmt": "186/6:23:42",
+    "previous_urine": 15.0,
+    "current_urine": 16.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 25.9258,
+      "longitude": -11.6623,
+      "timestamp": 1783232653,
+      "area": "Morocco",
+      "region": "Africa"
+    }
   }
 ]
