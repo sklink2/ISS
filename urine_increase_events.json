@@ -2994,5 +2994,19 @@
       "area": "Europe",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-05T23:20:38.261863+00:00",
+    "source_time_gmt": "186/23:20:31",
+    "previous_urine": 40.0,
+    "current_urine": 41.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 38.5386,
+      "longitude": 73.5483,
+      "timestamp": 1783293642,
+      "area": "China",
+      "region": "East Asia"
+    }
   }
 ]
