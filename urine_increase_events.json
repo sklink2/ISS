@@ -2689,5 +2689,22 @@
       "area": "India",
       "region": "South Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-05T15:15:09.907244+00:00",
+    "source_time_gmt": "186/15:14:10",
+    "previous_urine": 57.0,
+    "current_urine": 58.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 33.6204,
+      "longitude": 87.8361,
+      "timestamp": 1783264513,
+      "area": "China",
+      "region": "Country",
+      "country_id": "CHN",
+      "country_name": "China",
+      "country_topic": "country_CHN"
+    }
   }
 ]
