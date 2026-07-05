@@ -2805,5 +2805,22 @@
       "country_name": "Botswana",
       "country_topic": "country_BWA"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-05T16:35:09.917204+00:00",
+    "source_time_gmt": "186/16:32:23",
+    "previous_urine": 60.0,
+    "current_urine": 61.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -3.9401,
+      "longitude": 32.6013,
+      "timestamp": 1783269311,
+      "area": "United Republic of Tanzania",
+      "region": "Country",
+      "country_id": "TZA",
+      "country_name": "United Republic of Tanzania",
+      "country_topic": "country_TZA"
+    }
   }
 ]
