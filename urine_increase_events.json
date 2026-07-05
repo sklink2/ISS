@@ -2503,5 +2503,19 @@
       "country_name": "United States of America",
       "country_topic": "country_USA"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-05T10:07:05.617402+00:00",
+    "source_time_gmt": "186/10:6:52",
+    "previous_urine": 26.0,
+    "current_urine": 27.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -47.274,
+      "longitude": 75.2751,
+      "timestamp": 1783246028,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean"
+    }
   }
 ]
