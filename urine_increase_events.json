@@ -3132,5 +3132,19 @@
       "area": "Morocco",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-06T05:49:38.744547+00:00",
+    "source_time_gmt": "187/5:45:55",
+    "previous_urine": 32.0,
+    "current_urine": 33.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -12.1021,
+      "longitude": 23.6132,
+      "timestamp": 1783316979,
+      "area": "Africa",
+      "region": "Africa"
+    }
   }
 ]
