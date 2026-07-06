@@ -3580,5 +3580,22 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-06T20:45:09.906693+00:00",
+    "source_time_gmt": "187/20:44:30",
+    "previous_urine": 48.0,
+    "current_urine": 49.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 46.5177,
+      "longitude": 22.9102,
+      "timestamp": 1783370711,
+      "area": "Romania",
+      "region": "Country",
+      "country_id": "ROU",
+      "country_name": "Romania",
+      "country_topic": "country_ROU"
+    }
   }
 ]
