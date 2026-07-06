@@ -3101,5 +3101,22 @@
       "area": "United States",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-06T05:15:10.048054+00:00",
+    "source_time_gmt": "187/5:13:20",
+    "previous_urine": 29.0,
+    "current_urine": 30.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 43.7943,
+      "longitude": -107.9933,
+      "timestamp": 1783314914,
+      "area": "United States of America",
+      "region": "Country",
+      "country_id": "USA",
+      "country_name": "United States of America",
+      "country_topic": "country_USA"
+    }
   }
 ]
