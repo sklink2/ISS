@@ -3476,5 +3476,22 @@
       "area": "South America",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-06T15:45:10.340610+00:00",
+    "source_time_gmt": "187/15:44:54",
+    "previous_urine": 33.0,
+    "current_urine": 36.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -11.8909,
+      "longitude": 32.8772,
+      "timestamp": 1783352714,
+      "area": "Zambia",
+      "region": "Country",
+      "country_id": "ZMB",
+      "country_name": "Zambia",
+      "country_topic": "country_ZMB"
+    }
   }
 ]
