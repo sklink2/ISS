@@ -4133,5 +4133,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T23:20:10.576144+00:00",
+    "source_time_gmt": "188/23:20:7",
+    "previous_urine": 47.0,
+    "current_urine": 49.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 35.3473,
+      "longitude": 66.7278,
+      "timestamp": 1783466413,
+      "area": "Afghanistan",
+      "region": "Country",
+      "country_id": "AFG",
+      "country_name": "Afghanistan",
+      "country_topic": "country_AFG"
+    }
   }
 ]
