@@ -4017,5 +4017,22 @@
       "country_name": "French Guiana",
       "country_topic": "country_GUF"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T10:35:09.874922+00:00",
+    "source_time_gmt": "188/10:34:3",
+    "previous_urine": 22.0,
+    "current_urine": 25.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 34.345,
+      "longitude": 148.1063,
+      "timestamp": 1783420511,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
