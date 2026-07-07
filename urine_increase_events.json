@@ -4136,5 +4136,22 @@
       "country_name": "Iran",
       "country_topic": "country_IRN"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T16:50:09.453249+00:00",
+    "source_time_gmt": "188/16:46:55",
+    "previous_urine": 49.0,
+    "current_urine": 53.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 43.8295,
+      "longitude": 69.4133,
+      "timestamp": 1783443041,
+      "area": "Kazakhstan",
+      "region": "Country",
+      "country_id": "KAZ",
+      "country_name": "Kazakhstan",
+      "country_topic": "country_KAZ"
+    }
   }
 ]
