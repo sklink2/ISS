@@ -4119,5 +4119,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T16:45:10.461304+00:00",
+    "source_time_gmt": "188/16:43:18",
+    "previous_urine": 47.0,
+    "current_urine": 49.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 30.759,
+      "longitude": 49.4336,
+      "timestamp": 1783442711,
+      "area": "Iran",
+      "region": "Country",
+      "country_id": "IRN",
+      "country_name": "Iran",
+      "country_topic": "country_IRN"
+    }
   }
 ]
