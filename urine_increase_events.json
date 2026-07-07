@@ -4153,5 +4153,22 @@
       "country_name": "Kazakhstan",
       "country_topic": "country_KAZ"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T17:00:10.398106+00:00",
+    "source_time_gmt": "188/16:58:34",
+    "previous_urine": 53.0,
+    "current_urine": 54.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 50.7017,
+      "longitude": 122.01,
+      "timestamp": 1783443615,
+      "area": "China",
+      "region": "Country",
+      "country_id": "CHN",
+      "country_name": "China",
+      "country_topic": "country_CHN"
+    }
   }
 ]
