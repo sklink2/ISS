@@ -4000,5 +4000,22 @@
       "area": "North America",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T09:35:09.389668+00:00",
+    "source_time_gmt": "188/9:34:2",
+    "previous_urine": 21.0,
+    "current_urine": 22.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 4.7854,
+      "longitude": -53.2536,
+      "timestamp": 1783416918,
+      "area": "French Guiana",
+      "region": "Country",
+      "country_id": "GUF",
+      "country_name": "French Guiana",
+      "country_topic": "country_GUF"
+    }
   }
 ]
