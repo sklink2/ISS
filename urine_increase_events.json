@@ -3887,5 +3887,22 @@
       "country_name": "Canada",
       "country_topic": "country_CAN"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T07:50:10.615587+00:00",
+    "source_time_gmt": "188/7:46:28",
+    "previous_urine": 8.0,
+    "current_urine": 9.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 39.1199,
+      "longitude": -62.8579,
+      "timestamp": 1783410612,
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
