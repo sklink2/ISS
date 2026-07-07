@@ -4170,5 +4170,19 @@
       "country_name": "China",
       "country_topic": "country_CHN"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T17:32:59.227952+00:00",
+    "source_time_gmt": "188/17:30:53",
+    "previous_urine": 54.0,
+    "current_urine": 56.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -34.4275,
+      "longitude": -137.9584,
+      "timestamp": 1783445580,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
   }
 ]
