@@ -3777,5 +3777,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T06:25:10.245438+00:00",
+    "source_time_gmt": "188/6:25:7",
+    "previous_urine": 8.0,
+    "current_urine": 9.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 17.9768,
+      "longitude": -16.039,
+      "timestamp": 1783405512,
+      "area": "Mauritania",
+      "region": "Country",
+      "country_id": "MRT",
+      "country_name": "Mauritania",
+      "country_topic": "country_MRT"
+    }
   }
 ]
