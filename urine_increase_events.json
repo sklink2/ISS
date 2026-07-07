@@ -3794,5 +3794,22 @@
       "country_name": "Mauritania",
       "country_topic": "country_MRT"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T06:45:10.189128+00:00",
+    "source_time_gmt": "188/6:43:4",
+    "previous_urine": 6.0,
+    "current_urine": 9.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -39.5304,
+      "longitude": 34.6066,
+      "timestamp": 1783406711,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
