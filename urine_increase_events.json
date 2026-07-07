@@ -4161,5 +4161,22 @@
       "area": "Oceania",
       "region": "Oceania"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T21:20:09.688245+00:00",
+    "source_time_gmt": "188/21:19:1",
+    "previous_urine": 61.0,
+    "current_urine": 65.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 20.8078,
+      "longitude": -31.0564,
+      "timestamp": 1783459210,
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
