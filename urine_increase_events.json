@@ -3870,5 +3870,22 @@
       "area": "Canada",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T07:45:09.333674+00:00",
+    "source_time_gmt": "188/7:44:41",
+    "previous_urine": 7.0,
+    "current_urine": 8.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 48.5447,
+      "longitude": -85.2266,
+      "timestamp": 1783410313,
+      "area": "Canada",
+      "region": "Country",
+      "country_id": "CAN",
+      "country_name": "Canada",
+      "country_topic": "country_CAN"
+    }
   }
 ]
