@@ -4130,5 +4130,22 @@
       "area": "North America",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T16:05:09.470018+00:00",
+    "source_time_gmt": "188/16:4:46",
+    "previous_urine": 45.0,
+    "current_urine": 47.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -45.5962,
+      "longitude": -94.5462,
+      "timestamp": 1783440312,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
