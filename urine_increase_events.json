@@ -3856,5 +3856,19 @@
       "area": "North America",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T07:44:13.686088+00:00",
+    "source_time_gmt": "188/7:43:45",
+    "previous_urine": 5.0,
+    "current_urine": 7.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 49.6661,
+      "longitude": -90.1601,
+      "timestamp": 1783410258,
+      "area": "Canada",
+      "region": "North America"
+    }
   }
 ]
