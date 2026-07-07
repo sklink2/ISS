@@ -4164,5 +4164,19 @@
       "area": "Ukraine",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-07T20:34:52.539270+00:00",
+    "source_time_gmt": "188/20:33:57",
+    "previous_urine": 59.0,
+    "current_urine": 61.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -24.1803,
+      "longitude": 163.7619,
+      "timestamp": 1783456494,
+      "area": "Oceania",
+      "region": "Oceania"
+    }
   }
 ]
