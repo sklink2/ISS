@@ -4173,5 +4173,22 @@
       "country_name": "Burkina Faso",
       "country_topic": "country_BFA"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-08T06:05:09.823327+00:00",
+    "source_time_gmt": "189/6:5:3",
+    "previous_urine": 14.0,
+    "current_urine": 16.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -51.0256,
+      "longitude": 76.3068,
+      "timestamp": 1783490710,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
