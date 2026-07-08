@@ -4156,5 +4156,22 @@
       "country_name": "Algeria",
       "country_topic": "country_DZA"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-08T05:40:10.603823+00:00",
+    "source_time_gmt": "189/5:36:4",
+    "previous_urine": 11.0,
+    "current_urine": 14.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 11.0919,
+      "longitude": -4.5809,
+      "timestamp": 1783489211,
+      "area": "Burkina Faso",
+      "region": "Country",
+      "country_id": "BFA",
+      "country_name": "Burkina Faso",
+      "country_topic": "country_BFA"
+    }
   }
 ]
