@@ -4170,5 +4170,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-08T04:00:11.258367+00:00",
+    "source_time_gmt": "189/3:58:23",
+    "previous_urine": 9.0,
+    "current_urine": 11.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 31.5719,
+      "longitude": 0.6291,
+      "timestamp": 1783483212,
+      "area": "Algeria",
+      "region": "Country",
+      "country_id": "DZA",
+      "country_name": "Algeria",
+      "country_topic": "country_DZA"
+    }
   }
 ]
