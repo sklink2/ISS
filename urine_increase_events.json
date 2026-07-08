@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-01T13:00:10.287250+00:00",
-    "source_time_gmt": "182/12:57:48",
-    "previous_urine": 42.0,
-    "current_urine": 45.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": -35.8002,
-      "longitude": -31.0305,
-      "timestamp": 1782910814,
-      "area": "Atlantic Ocean",
-      "region": "Atlantic Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-07-01T13:32:03.669785+00:00",
     "source_time_gmt": "182/13:30:23",
     "previous_urine": 45.0,
