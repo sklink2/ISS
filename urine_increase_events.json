@@ -4286,5 +4286,19 @@
       "country_name": "Indonesia",
       "country_topic": "country_IDN"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-09T10:57:06.510232+00:00",
+    "source_time_gmt": "190/10:56:60",
+    "previous_urine": 48.0,
+    "current_urine": 50.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 31.4526,
+      "longitude": -111.115,
+      "timestamp": 1783594627,
+      "area": "United States",
+      "region": "North America"
+    }
   }
 ]
