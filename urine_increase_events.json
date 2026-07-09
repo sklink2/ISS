@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-02T01:20:10.198634+00:00",
-    "source_time_gmt": "183/1:19:59",
-    "previous_urine": 5.0,
-    "current_urine": 9.0,
-    "change_amount": 4.0,
-    "iss_location": {
-      "latitude": -28.3102,
-      "longitude": 131.3448,
-      "timestamp": 1782955210,
-      "area": "Australia",
-      "region": "Country",
-      "country_id": "AUS",
-      "country_name": "Australia",
-      "country_topic": "country_AUS"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-02T03:25:59.917843+00:00",
     "source_time_gmt": "183/3:21:35",
     "previous_urine": 9.0,
