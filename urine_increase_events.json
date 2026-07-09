@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-02T12:51:54.047966+00:00",
-    "source_time_gmt": "183/12:50:55",
-    "previous_urine": 50.0,
-    "current_urine": 52.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 15.6844,
-      "longitude": 123.0828,
-      "timestamp": 1782996730,
-      "area": "Philippines",
-      "region": "Southeast Asia"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-02T13:12:52.648035+00:00",
     "source_time_gmt": "183/13:10:60",
     "previous_urine": 52.0,
@@ -4257,6 +4243,23 @@
       "country_id": "CHN",
       "country_name": "China",
       "country_topic": "country_CHN"
+    }
+  },
+  {
+    "captured_at_utc": "2026-07-09T12:55:10.864626+00:00",
+    "source_time_gmt": "190/12:54:20",
+    "previous_urine": 59.0,
+    "current_urine": 60.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -40.5819,
+      "longitude": -69.4004,
+      "timestamp": 1783601711,
+      "area": "Argentina",
+      "region": "Country",
+      "country_id": "ARG",
+      "country_name": "Argentina",
+      "country_topic": "country_ARG"
     }
   }
 ]
