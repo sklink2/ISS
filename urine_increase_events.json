@@ -4269,5 +4269,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-09T08:47:01.142881+00:00",
+    "source_time_gmt": "190/8:45:55",
+    "previous_urine": 40.0,
+    "current_urine": 42.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -4.8473,
+      "longitude": 127.0766,
+      "timestamp": 1783586822,
+      "area": "Indonesia",
+      "region": "Southeast Asia"
+    }
   }
 ]
