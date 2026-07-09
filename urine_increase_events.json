@@ -4247,5 +4247,22 @@
       "country_name": "Argentina",
       "country_topic": "country_ARG"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-09T13:55:09.648236+00:00",
+    "source_time_gmt": "190/13:54:43",
+    "previous_urine": 60.0,
+    "current_urine": 63.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 47.5695,
+      "longitude": 172.4797,
+      "timestamp": 1783605326,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
