@@ -4193,5 +4193,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-10T09:43:26.620909+00:00",
+    "source_time_gmt": "191/9:41:17",
+    "previous_urine": 41.0,
+    "current_urine": 45.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 27.9924,
+      "longitude": 135.5156,
+      "timestamp": 1783676616,
+      "area": "East Asia",
+      "region": "East Asia"
+    }
   }
 ]
