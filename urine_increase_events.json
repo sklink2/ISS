@@ -4173,5 +4173,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-10T20:45:09.894720+00:00",
+    "source_time_gmt": "191/20:41:18",
+    "previous_urine": 13.0,
+    "current_urine": 14.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 50.9484,
+      "longitude": 20.0433,
+      "timestamp": 1783716312,
+      "area": "Poland",
+      "region": "Country",
+      "country_id": "POL",
+      "country_name": "Poland",
+      "country_topic": "country_POL"
+    }
   }
 ]
