@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-03T00:05:10.435724+00:00",
-    "source_time_gmt": "184/0:3:2",
-    "previous_urine": 7.0,
-    "current_urine": 9.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 51.6107,
-      "longitude": 29.9154,
-      "timestamp": 1783036801,
-      "area": "Belarus",
-      "region": "Country",
-      "country_id": "BLR",
-      "country_name": "Belarus",
-      "country_topic": "country_BLR"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-03T00:25:09.757327+00:00",
     "source_time_gmt": "184/0:24:39",
     "previous_urine": 5.0,
