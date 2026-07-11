@@ -4255,5 +4255,22 @@
       "area": "Spain",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-11T19:55:09.516145+00:00",
+    "source_time_gmt": "192/19:51:56",
+    "previous_urine": 8.0,
+    "current_urine": 9.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 48.1591,
+      "longitude": 11.4785,
+      "timestamp": 1783799711,
+      "area": "Germany",
+      "region": "Country",
+      "country_id": "DEU",
+      "country_name": "Germany",
+      "country_topic": "country_DEU"
+    }
   }
 ]
