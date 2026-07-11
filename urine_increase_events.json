@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-04T17:05:10.381107+00:00",
-    "source_time_gmt": "185/17:5:5",
-    "previous_urine": 65.0,
-    "current_urine": 68.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": -48.0598,
-      "longitude": -27.8331,
-      "timestamp": 1783184718,
-      "area": "Atlantic Ocean",
-      "region": "Atlantic Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-07-04T17:05:48.345571+00:00",
     "source_time_gmt": "185/17:5:24",
     "previous_urine": 68.0,
@@ -4254,6 +4237,23 @@
       "country_id": "",
       "country_name": "",
       "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-07-11T17:05:09.775865+00:00",
+    "source_time_gmt": "192/17:3:27",
+    "previous_urine": 27.0,
+    "current_urine": 29.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 34.8385,
+      "longitude": 138.9565,
+      "timestamp": 1783789518,
+      "area": "Japan",
+      "region": "Country",
+      "country_id": "JPN",
+      "country_name": "Japan",
+      "country_topic": "country_JPN"
     }
   }
 ]
