@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-05T06:24:05.693701+00:00",
-    "source_time_gmt": "186/6:23:42",
-    "previous_urine": 15.0,
-    "current_urine": 16.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 25.9258,
-      "longitude": -11.6623,
-      "timestamp": 1783232653,
-      "area": "Morocco",
-      "region": "Africa"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-05T06:50:11.337239+00:00",
     "source_time_gmt": "186/6:45:48",
     "previous_urine": 16.0,
@@ -4257,6 +4243,23 @@
       "timestamp": 1783836312,
       "area": "Indian Ocean",
       "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-07-12T06:25:09.922909+00:00",
+    "source_time_gmt": "193/6:24:50",
+    "previous_urine": 31.0,
+    "current_urine": 33.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -3.9191,
+      "longitude": 146.0229,
+      "timestamp": 1783837515,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
       "country_id": "",
       "country_name": "",
       "country_topic": ""
