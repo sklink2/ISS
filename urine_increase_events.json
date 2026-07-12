@@ -4097,5 +4097,19 @@
       "country_name": "Afghanistan",
       "country_topic": "country_AFG"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-12T21:42:58.494148+00:00",
+    "source_time_gmt": "193/21:42:24",
+    "previous_urine": 5.0,
+    "current_urine": 7.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -34.098,
+      "longitude": -116.5706,
+      "timestamp": 1783892590,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
   }
 ]
