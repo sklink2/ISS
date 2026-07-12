@@ -4258,5 +4258,19 @@
       "area": "Saudi Arabia",
       "region": "Middle East"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-12T14:54:37.066876+00:00",
+    "source_time_gmt": "193/14:53:52",
+    "previous_urine": 56.0,
+    "current_urine": 60.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 7.6223,
+      "longitude": -166.4012,
+      "timestamp": 1783868078,
+      "area": "North America",
+      "region": "North America"
+    }
   }
 ]
