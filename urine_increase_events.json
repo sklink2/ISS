@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-05T19:10:10.287400+00:00",
-    "source_time_gmt": "186/19:7:56",
-    "previous_urine": 64.0,
-    "current_urine": 67.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": -40.5873,
-      "longitude": -140.9207,
-      "timestamp": 1783278612,
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-07-05T19:53:10.568422+00:00",
     "source_time_gmt": "186/19:50:58",
     "previous_urine": 59.0,
@@ -4076,6 +4059,23 @@
       "timestamp": 1783872166,
       "area": "Russia",
       "region": "Europe/Asia"
+    }
+  },
+  {
+    "captured_at_utc": "2026-07-12T19:10:09.881584+00:00",
+    "source_time_gmt": "193/19:6:56",
+    "previous_urine": 16.0,
+    "current_urine": 17.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 50.8362,
+      "longitude": 31.2828,
+      "timestamp": 1783883417,
+      "area": "Ukraine",
+      "region": "Country",
+      "country_id": "UKR",
+      "country_name": "Ukraine",
+      "country_topic": "country_UKR"
     }
   }
 ]
