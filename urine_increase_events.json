@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-06T12:10:09.214900+00:00",
-    "source_time_gmt": "187/12:10:5",
-    "previous_urine": 5.0,
-    "current_urine": 9.0,
-    "change_amount": 4.0,
-    "iss_location": {
-      "latitude": -37.7544,
-      "longitude": -45.0507,
-      "timestamp": 1783339817,
-      "area": "Atlantic Ocean",
-      "region": "Atlantic Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-07-06T12:14:34.097955+00:00",
     "source_time_gmt": "187/12:12:59",
     "previous_urine": 9.0,
@@ -4082,6 +4065,23 @@
       "timestamp": 1783943528,
       "area": "Indian Ocean",
       "region": "Indian Ocean"
+    }
+  },
+  {
+    "captured_at_utc": "2026-07-13T12:10:10.004005+00:00",
+    "source_time_gmt": "194/12:8:29",
+    "previous_urine": 63.0,
+    "current_urine": 64.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 49.6312,
+      "longitude": 124.2623,
+      "timestamp": 1783944612,
+      "area": "China",
+      "region": "Country",
+      "country_id": "CHN",
+      "country_name": "China",
+      "country_topic": "country_CHN"
     }
   }
 ]
