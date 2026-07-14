@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-07T07:44:13.686088+00:00",
-    "source_time_gmt": "188/7:43:45",
-    "previous_urine": 5.0,
-    "current_urine": 7.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 49.6661,
-      "longitude": -90.1601,
-      "timestamp": 1783410258,
-      "area": "Canada",
-      "region": "North America"
-    }
-  },
-  {
-    "captured_at_utc": "2026-07-07T07:45:09.333674+00:00",
-    "source_time_gmt": "188/7:44:41",
-    "previous_urine": 7.0,
-    "current_urine": 8.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 48.5447,
-      "longitude": -85.2266,
-      "timestamp": 1783410313,
-      "area": "Canada",
-      "region": "Country",
-      "country_id": "CAN",
-      "country_name": "Canada",
-      "country_topic": "country_CAN"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-07T07:50:10.615587+00:00",
     "source_time_gmt": "188/7:46:28",
     "previous_urine": 8.0,
@@ -3951,6 +3920,23 @@
       "latitude": -45.917,
       "longitude": 63.2878,
       "timestamp": 1784014818,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-07-14T07:45:10.394527+00:00",
+    "source_time_gmt": "195/7:41:11",
+    "previous_urine": 27.0,
+    "current_urine": 29.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -35.2421,
+      "longitude": 82.891,
+      "timestamp": 1784015112,
       "area": "Indian Ocean",
       "region": "Indian Ocean",
       "country_id": "",
