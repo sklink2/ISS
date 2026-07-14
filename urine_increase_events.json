@@ -3926,5 +3926,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-14T08:22:01.191001+00:00",
+    "source_time_gmt": "195/8:21:47",
+    "previous_urine": 29.0,
+    "current_urine": 33.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 51.2281,
+      "longitude": -152.9802,
+      "timestamp": 1784017329,
+      "area": "United States (Alaska)",
+      "region": "North America"
+    }
   }
 ]
