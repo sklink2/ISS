@@ -3984,5 +3984,19 @@
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-14T22:16:00.480609+00:00",
+    "source_time_gmt": "195/22:15:49",
+    "previous_urine": 19.0,
+    "current_urine": 22.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 51.609,
+      "longitude": -15.2432,
+      "timestamp": 1784067362,
+      "area": "Europe",
+      "region": "Europe"
+    }
   }
 ]
