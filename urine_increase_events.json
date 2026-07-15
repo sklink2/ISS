@@ -4037,5 +4037,22 @@
       "area": "North America",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-15T05:10:10.057466+00:00",
+    "source_time_gmt": "196/5:9:28",
+    "previous_urine": 26.0,
+    "current_urine": 28.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -49.3136,
+      "longitude": 37.5288,
+      "timestamp": 1784092211,
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
