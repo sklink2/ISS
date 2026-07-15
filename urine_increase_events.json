@@ -3955,5 +3955,22 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-15T16:35:09.634084+00:00",
+    "source_time_gmt": "196/16:34:55",
+    "previous_urine": 40.0,
+    "current_urine": 70.0,
+    "change_amount": 30.0,
+    "iss_location": {
+      "latitude": 24.2025,
+      "longitude": -2.8342,
+      "timestamp": 1784133310,
+      "area": "Algeria",
+      "region": "Country",
+      "country_id": "DZA",
+      "country_name": "Algeria",
+      "country_topic": "country_DZA"
+    }
   }
 ]
