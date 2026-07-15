@@ -3859,5 +3859,19 @@
       "area": "China",
       "region": "East Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-15T23:13:21.889184+00:00",
+    "source_time_gmt": "196/23:12:27",
+    "previous_urine": 27.0,
+    "current_urine": 29.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 33.1458,
+      "longitude": 23.9513,
+      "timestamp": 1784157204,
+      "area": "Africa",
+      "region": "Africa"
+    }
   }
 ]
