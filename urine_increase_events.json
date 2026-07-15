@@ -3896,5 +3896,19 @@
       "country_name": "Kazakhstan",
       "country_topic": "country_KAZ"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-15T16:12:26.663850+00:00",
+    "source_time_gmt": "196/16:10:39",
+    "previous_urine": 5.0,
+    "current_urine": 8.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -40.5974,
+      "longitude": -60.7154,
+      "timestamp": 1784131955,
+      "area": "Argentina",
+      "region": "South America"
+    }
   }
 ]
