@@ -3986,5 +3986,22 @@
       "area": "China",
       "region": "East Asia"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-15T17:00:09.770047+00:00",
+    "source_time_gmt": "196/17:0:6",
+    "previous_urine": 17.0,
+    "current_urine": 32.0,
+    "change_amount": 15.0,
+    "iss_location": {
+      "latitude": 37.783,
+      "longitude": 112.0579,
+      "timestamp": 1784134811,
+      "area": "China",
+      "region": "Country",
+      "country_id": "CHN",
+      "country_name": "China",
+      "country_topic": "country_CHN"
+    }
   }
 ]
