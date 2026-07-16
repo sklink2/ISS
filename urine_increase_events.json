@@ -3887,5 +3887,22 @@
       "area": "Indian Ocean",
       "region": "Indian Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-16T06:55:10.176383+00:00",
+    "source_time_gmt": "197/6:53:53",
+    "previous_urine": 27.0,
+    "current_urine": 28.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 39.0933,
+      "longitude": -102.3126,
+      "timestamp": 1784184911,
+      "area": "United States of America",
+      "region": "Country",
+      "country_id": "USA",
+      "country_name": "United States of America",
+      "country_topic": "country_USA"
+    }
   }
 ]
