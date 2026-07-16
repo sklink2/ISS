@@ -3969,5 +3969,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-16T18:38:08.691148+00:00",
+    "source_time_gmt": "197/18:35:50",
+    "previous_urine": 36.0,
+    "current_urine": 38.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -21.3756,
+      "longitude": -78.9545,
+      "timestamp": 1784227089,
+      "area": "South America",
+      "region": "South America"
+    }
   }
 ]
