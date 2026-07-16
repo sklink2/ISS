@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-09T08:47:01.142881+00:00",
-    "source_time_gmt": "190/8:45:55",
-    "previous_urine": 40.0,
-    "current_urine": 42.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": -4.8473,
-      "longitude": 127.0766,
-      "timestamp": 1783586822,
-      "area": "Indonesia",
-      "region": "Southeast Asia"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-09T08:52:13.149085+00:00",
     "source_time_gmt": "190/8:51:47",
     "previous_urine": 42.0,
@@ -3844,6 +3830,23 @@
       "timestamp": 1784187162,
       "area": "Indian Ocean",
       "region": "Indian Ocean"
+    }
+  },
+  {
+    "captured_at_utc": "2026-07-16T08:50:10.022570+00:00",
+    "source_time_gmt": "197/8:48:54",
+    "previous_urine": 23.0,
+    "current_urine": 24.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -24.9368,
+      "longitude": -69.8675,
+      "timestamp": 1784191814,
+      "area": "Chile",
+      "region": "Country",
+      "country_id": "CHL",
+      "country_name": "Chile",
+      "country_topic": "country_CHL"
     }
   }
 ]
