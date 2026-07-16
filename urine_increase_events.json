@@ -3848,5 +3848,19 @@
       "country_name": "Chile",
       "country_topic": "country_CHL"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-16T08:50:36.495969+00:00",
+    "source_time_gmt": "197/8:50:31",
+    "previous_urine": 24.0,
+    "current_urine": 26.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -26.0875,
+      "longitude": -68.7624,
+      "timestamp": 1784191838,
+      "area": "Brazil",
+      "region": "South America"
+    }
   }
 ]
