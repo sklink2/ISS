@@ -3997,5 +3997,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-16T20:27:17.563013+00:00",
+    "source_time_gmt": "197/20:26:54",
+    "previous_urine": 42.0,
+    "current_urine": 47.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 27.1419,
+      "longitude": -64.6657,
+      "timestamp": 1784233638,
+      "area": "North America",
+      "region": "North America"
+    }
   }
 ]
