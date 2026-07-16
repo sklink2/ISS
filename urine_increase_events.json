@@ -3924,5 +3924,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-16T16:59:12.855173+00:00",
+    "source_time_gmt": "197/16:59:5",
+    "previous_urine": 28.0,
+    "current_urine": 30.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -37.4446,
+      "longitude": -73.1306,
+      "timestamp": 1784221161,
+      "area": "Chile",
+      "region": "South America"
+    }
   }
 ]
