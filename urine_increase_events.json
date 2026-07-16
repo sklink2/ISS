@@ -3873,5 +3873,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-16T14:12:45.163848+00:00",
+    "source_time_gmt": "197/14:12:18",
+    "previous_urine": 5.0,
+    "current_urine": 6.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 18.3605,
+      "longitude": 21.7654,
+      "timestamp": 1784211173,
+      "area": "Africa",
+      "region": "Africa"
+    }
   }
 ]
