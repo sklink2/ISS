@@ -3828,5 +3828,22 @@
       "country_name": "India",
       "country_topic": "country_IND"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-16T11:15:10.558308+00:00",
+    "source_time_gmt": "197/11:15:5",
+    "previous_urine": 31.0,
+    "current_urine": 32.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 39.7417,
+      "longitude": 92.8805,
+      "timestamp": 1784200511,
+      "area": "China",
+      "region": "Country",
+      "country_id": "CHN",
+      "country_name": "China",
+      "country_topic": "country_CHN"
+    }
   }
 ]
