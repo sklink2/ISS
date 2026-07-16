@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-09T10:57:06.510232+00:00",
-    "source_time_gmt": "190/10:56:60",
-    "previous_urine": 48.0,
-    "current_urine": 50.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 31.4526,
-      "longitude": -111.115,
-      "timestamp": 1783594627,
-      "area": "United States",
-      "region": "North America"
-    }
-  },
-  {
-    "captured_at_utc": "2026-07-09T11:00:10.525932+00:00",
-    "source_time_gmt": "190/10:59:30",
-    "previous_urine": 50.0,
-    "current_urine": 53.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": 22.9623,
-      "longitude": -102.5218,
-      "timestamp": 1783594811,
-      "area": "Mexico",
-      "region": "Country",
-      "country_id": "MEX",
-      "country_name": "Mexico",
-      "country_topic": "country_MEX"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-09T11:43:49.623160+00:00",
     "source_time_gmt": "190/11:41:3",
     "previous_urine": 53.0,
