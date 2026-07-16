@@ -3876,5 +3876,19 @@
       "country_name": "Kenya",
       "country_topic": "country_KEN"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-16T12:54:49.045702+00:00",
+    "source_time_gmt": "197/12:51:48",
+    "previous_urine": 20.0,
+    "current_urine": 21.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 50.7744,
+      "longitude": 102.3939,
+      "timestamp": 1784206493,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
