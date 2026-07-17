@@ -4110,5 +4110,19 @@
       "area": "Germany",
       "region": "Europe"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-17T18:28:39.174303+00:00",
+    "source_time_gmt": "198/18:27:46",
+    "previous_urine": 51.0,
+    "current_urine": 56.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 42.8828,
+      "longitude": 68.1934,
+      "timestamp": 1784312923,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
