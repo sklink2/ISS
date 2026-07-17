@@ -4020,5 +4020,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-17T16:12:48.834029+00:00",
+    "source_time_gmt": "198/16:12:24",
+    "previous_urine": 63.0,
+    "current_urine": 65.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -35.0339,
+      "longitude": -63.6563,
+      "timestamp": 1784304773,
+      "area": "Argentina",
+      "region": "South America"
+    }
   }
 ]
