@@ -3946,5 +3946,19 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-17T07:22:53.563132+00:00",
+    "source_time_gmt": "198/7:22:40",
+    "previous_urine": 5.0,
+    "current_urine": 7.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 41.692,
+      "longitude": 149.636,
+      "timestamp": 1784272977,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
