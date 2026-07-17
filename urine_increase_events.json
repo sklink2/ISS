@@ -4034,5 +4034,19 @@
       "area": "Argentina",
       "region": "South America"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-17T16:18:04.051811+00:00",
+    "source_time_gmt": "198/16:17:37",
+    "previous_urine": 65.0,
+    "current_urine": 69.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": -20.7977,
+      "longitude": -48.7483,
+      "timestamp": 1784305085,
+      "area": "Brazil",
+      "region": "South America"
+    }
   }
 ]
