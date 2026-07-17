@@ -4090,5 +4090,22 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-17T22:45:09.926214+00:00",
+    "source_time_gmt": "198/22:43:59",
+    "previous_urine": 41.0,
+    "current_urine": 42.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 26.2692,
+      "longitude": -106.603,
+      "timestamp": 1784328314,
+      "area": "Mexico",
+      "region": "Country",
+      "country_id": "MEX",
+      "country_name": "Mexico",
+      "country_topic": "country_MEX"
+    }
   }
 ]
