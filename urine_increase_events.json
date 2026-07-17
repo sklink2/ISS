@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-10T20:45:09.894720+00:00",
-    "source_time_gmt": "191/20:41:18",
-    "previous_urine": 13.0,
-    "current_urine": 14.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 50.9484,
-      "longitude": 20.0433,
-      "timestamp": 1783716312,
-      "area": "Poland",
-      "region": "Country",
-      "country_id": "POL",
-      "country_name": "Poland",
-      "country_topic": "country_POL"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-10T21:00:10.015003+00:00",
     "source_time_gmt": "191/20:59:52",
     "previous_urine": 14.0,
@@ -4132,6 +4115,23 @@
       "latitude": -47.4718,
       "longitude": 143.1644,
       "timestamp": 1784320511,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-07-17T20:45:10.095892+00:00",
+    "source_time_gmt": "198/20:44:6",
+    "previous_urine": 60.0,
+    "current_urine": 61.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -47.8688,
+      "longitude": -160.262,
+      "timestamp": 1784321112,
       "area": "Pacific Ocean",
       "region": "Pacific Ocean",
       "country_id": "",
