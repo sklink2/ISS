@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-10T14:35:11.190799+00:00",
-    "source_time_gmt": "191/14:35:5",
-    "previous_urine": 62.0,
-    "current_urine": 65.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": 51.5416,
-      "longitude": 122.4319,
-      "timestamp": 1783694112,
-      "area": "China",
-      "region": "Country",
-      "country_id": "CHN",
-      "country_name": "China",
-      "country_topic": "country_CHN"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-10T15:01:34.439900+00:00",
     "source_time_gmt": "191/15:0:59",
     "previous_urine": 60.0,
