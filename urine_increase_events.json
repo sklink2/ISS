@@ -4037,5 +4037,19 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-17T12:08:34.222000+00:00",
+    "source_time_gmt": "198/12:8:26",
+    "previous_urine": 42.0,
+    "current_urine": 46.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 51.4248,
+      "longitude": 115.5202,
+      "timestamp": 1784290118,
+      "area": "Russia",
+      "region": "Europe/Asia"
+    }
   }
 ]
