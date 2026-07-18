@@ -4147,5 +4147,19 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-18T12:45:00.189915+00:00",
+    "source_time_gmt": "199/12:41:36",
+    "previous_urine": 56.0,
+    "current_urine": 61.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 37.4912,
+      "longitude": 54.3881,
+      "timestamp": 1784378701,
+      "area": "Iran",
+      "region": "Middle East"
+    }
   }
 ]
