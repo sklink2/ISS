@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-11T19:04:09.860067+00:00",
-    "source_time_gmt": "192/19:2:32",
-    "previous_urine": 10.0,
-    "current_urine": 14.0,
-    "change_amount": 4.0,
-    "iss_location": {
-      "latitude": -39.4648,
-      "longitude": -177.079,
-      "timestamp": 1783796651,
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-11T19:50:09.810622+00:00",
     "source_time_gmt": "192/19:49:43",
     "previous_urine": 6.0,
@@ -4274,6 +4260,32 @@
       "position_time_utc": "2026-07-18T18:58:58+00:00",
       "altitude": 424.74364611559,
       "velocity": 27572.459799497,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-07-18T19:05:08.999932+00:00",
+    "source_time_gmt": "199/19:3:31",
+    "source_time_utc": "2026-07-18T19:03:31+00:00",
+    "telemetry_age_seconds": 98,
+    "previous_urine": 43.0,
+    "current_urine": 45.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -19.349075778473,
+      "longitude": -94.855001256889,
+      "timestamp": 1784401411,
+      "requested_timestamp": 1784401411,
+      "requested_time_utc": "2026-07-18T19:03:31+00:00",
+      "position_time_utc": "2026-07-18T19:03:31+00:00",
+      "altitude": 420.48453784283,
+      "velocity": 27581.565144588,
       "visibility": "daylight",
       "units": "kilometers",
       "area": "Pacific Ocean",
