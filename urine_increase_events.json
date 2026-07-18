@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-11T12:12:53.961463+00:00",
-    "source_time_gmt": "192/12:12:25",
-    "previous_urine": 63.0,
-    "current_urine": 64.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 50.4033,
-      "longitude": 140.0132,
-      "timestamp": 1783771975,
-      "area": "Russia",
-      "region": "Europe/Asia"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-11T12:23:17.552009+00:00",
     "source_time_gmt": "192/12:21:19",
     "previous_urine": 63.0,
@@ -4146,6 +4132,20 @@
       "timestamp": 1784375273,
       "area": "Pacific Ocean",
       "region": "Pacific Ocean"
+    }
+  },
+  {
+    "captured_at_utc": "2026-07-18T12:13:50.138350+00:00",
+    "source_time_gmt": "199/12:10:12",
+    "previous_urine": 52.0,
+    "current_urine": 53.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -47.4417,
+      "longitude": -34.7483,
+      "timestamp": 1784376831,
+      "area": "South America",
+      "region": "South America"
     }
   }
 ]
