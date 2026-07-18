@@ -4218,5 +4218,31 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-18T17:35:09.939403+00:00",
+    "source_time_gmt": "199/17:32:47",
+    "source_time_utc": "2026-07-18T17:32:47+00:00",
+    "telemetry_age_seconds": 143,
+    "previous_urine": 50.0,
+    "current_urine": 53.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -12.907834794314,
+      "longitude": -66.143144014193,
+      "timestamp": 1784395967,
+      "requested_timestamp": 1784395967,
+      "requested_time_utc": "2026-07-18T17:32:47+00:00",
+      "position_time_utc": "2026-07-18T17:32:47+00:00",
+      "altitude": 418.92980420376,
+      "velocity": 27585.052307932,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Bolivia",
+      "region": "Country",
+      "country_id": "BOL",
+      "country_name": "Bolivia",
+      "country_topic": "country_BOL"
+    }
   }
 ]
