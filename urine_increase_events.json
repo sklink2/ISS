@@ -4294,5 +4294,31 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-18T19:35:09.797827+00:00",
+    "source_time_gmt": "199/19:34:1",
+    "source_time_utc": "2026-07-18T19:34:01+00:00",
+    "telemetry_age_seconds": 69,
+    "previous_urine": 40.0,
+    "current_urine": 41.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 51.656219037071,
+      "longitude": 8.9911349089664,
+      "timestamp": 1784403241,
+      "requested_timestamp": 1784403241,
+      "requested_time_utc": "2026-07-18T19:34:01+00:00",
+      "position_time_utc": "2026-07-18T19:34:01+00:00",
+      "altitude": 429.17906633665,
+      "velocity": 27570.180390399,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Germany",
+      "region": "Country",
+      "country_id": "DEU",
+      "country_name": "Germany",
+      "country_topic": "country_DEU"
+    }
   }
 ]
