@@ -4121,17 +4121,20 @@
     }
   },
   {
-    "captured_at_utc": "2026-07-18T10:50:09.991785+00:00",
+    "captured_at_utc": "2026-07-18T10:50:11.139946+00:00",
     "source_time_gmt": "199/10:49:24",
     "previous_urine": 42.0,
     "current_urine": 43.0,
     "change_amount": 1.0,
     "iss_location": {
-      "latitude": -24.8516,
-      "longitude": 24.4884,
-      "timestamp": 1784371842,
-      "area": "South Africa",
-      "region": "Africa"
+      "latitude": -24.8043,
+      "longitude": 24.533,
+      "timestamp": 1784371843,
+      "area": "Botswana",
+      "region": "Country",
+      "country_id": "BWA",
+      "country_name": "Botswana",
+      "country_topic": "country_BWA"
     }
   }
 ]
