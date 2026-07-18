@@ -4144,5 +4144,31 @@
       "area": "Africa",
       "region": "Africa"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-18T14:45:12.780357+00:00",
+    "source_time_gmt": "199/14:43:19",
+    "source_time_utc": "2026-07-18T14:43:19+00:00",
+    "telemetry_age_seconds": 114,
+    "previous_urine": 59.0,
+    "current_urine": 61.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 35.082020300225,
+      "longitude": 20.885769986149,
+      "timestamp": 1784385799,
+      "requested_timestamp": 1784385799,
+      "requested_time_utc": "2026-07-18T14:43:19+00:00",
+      "position_time_utc": "2026-07-18T14:43:19+00:00",
+      "altitude": 422.45178336576,
+      "velocity": 27584.010711019,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
