@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-11T19:50:55.224185+00:00",
-    "source_time_gmt": "192/19:50:30",
-    "previous_urine": 7.0,
-    "current_urine": 8.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 40.3143,
-      "longitude": -7.4458,
-      "timestamp": 1783799459,
-      "area": "Spain",
-      "region": "Europe"
-    }
-  },
-  {
-    "captured_at_utc": "2026-07-11T19:55:09.516145+00:00",
-    "source_time_gmt": "192/19:51:56",
-    "previous_urine": 8.0,
-    "current_urine": 9.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 48.1591,
-      "longitude": 11.4785,
-      "timestamp": 1783799711,
-      "area": "Germany",
-      "region": "Country",
-      "country_id": "DEU",
-      "country_name": "Germany",
-      "country_topic": "country_DEU"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-11T21:09:30.804647+00:00",
     "source_time_gmt": "192/21:7:51",
     "previous_urine": 9.0,
