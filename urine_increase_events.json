@@ -4110,5 +4110,22 @@
       "area": "Atlantic Ocean",
       "region": "Atlantic Ocean"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-18T02:25:09.823446+00:00",
+    "source_time_gmt": "199/2:23:37",
+    "previous_urine": 9.0,
+    "current_urine": 10.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 9.9003,
+      "longitude": -13.4634,
+      "timestamp": 1784341510,
+      "area": "Guinea",
+      "region": "Country",
+      "country_id": "GIN",
+      "country_name": "Guinea",
+      "country_topic": "country_GIN"
+    }
   }
 ]
