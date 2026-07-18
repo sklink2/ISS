@@ -4192,5 +4192,31 @@
       "country_name": "Morocco",
       "country_topic": "country_MAR"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-18T17:25:10.141427+00:00",
+    "source_time_gmt": "199/17:24:15",
+    "source_time_utc": "2026-07-18T17:24:15+00:00",
+    "telemetry_age_seconds": 55,
+    "previous_urine": 50.0,
+    "current_urine": 51.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -36.782810942958,
+      "longitude": -89.63768384277,
+      "timestamp": 1784395455,
+      "requested_timestamp": 1784395455,
+      "requested_time_utc": "2026-07-18T17:24:15+00:00",
+      "position_time_utc": "2026-07-18T17:24:15+00:00",
+      "altitude": 426.58821368299,
+      "velocity": 27568.554291709,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
