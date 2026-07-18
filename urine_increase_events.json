@@ -4244,5 +4244,31 @@
       "country_name": "Bolivia",
       "country_topic": "country_BOL"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-18T18:35:09.672018+00:00",
+    "source_time_gmt": "199/18:33:23",
+    "source_time_utc": "2026-07-18T18:33:23+00:00",
+    "telemetry_age_seconds": 107,
+    "previous_urine": 43.0,
+    "current_urine": 45.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -29.315120841299,
+      "longitude": 135.08817925237,
+      "timestamp": 1784399603,
+      "requested_timestamp": 1784399603,
+      "requested_time_utc": "2026-07-18T18:33:23+00:00",
+      "position_time_utc": "2026-07-18T18:33:23+00:00",
+      "altitude": 428.47171825984,
+      "velocity": 27555.312146195,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Australia",
+      "region": "Country",
+      "country_id": "AUS",
+      "country_name": "Australia",
+      "country_topic": "country_AUS"
+    }
   }
 ]
