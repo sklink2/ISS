@@ -4079,5 +4079,19 @@
       "area": "Canada",
       "region": "North America"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-18T06:19:52.609617+00:00",
+    "source_time_gmt": "199/6:16:35",
+    "previous_urine": 12.0,
+    "current_urine": 14.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -1.2534,
+      "longitude": 113.7797,
+      "timestamp": 1784355608,
+      "area": "Indonesia",
+      "region": "Southeast Asia"
+    }
   }
 ]
