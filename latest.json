@@ -1,15 +1,15 @@
 {
-  "time": "199/21:36:22",
-  "source_time_gmt": "199/21:36:22",
-  "source_time_utc": "2026-07-18T21:36:22+00:00",
+  "time": "199/21:40:52",
+  "source_time_gmt": "199/21:40:52",
+  "source_time_utc": "2026-07-18T21:40:52+00:00",
   "source_times_gmt": {
-    "urine": "199/21:36:22",
-    "waste": "199/21:39:59",
-    "clean": "199/21:39:29"
+    "urine": "199/21:40:52",
+    "waste": "199/21:44:40",
+    "clean": "199/21:44:60"
   },
-  "urine": 45.0,
-  "waste": 35.91,
-  "clean": 54.95,
-  "captured_at_utc": "2026-07-18T21:40:09.677472+00:00",
-  "telemetry_age_seconds": 228
+  "urine": 44.0,
+  "waste": 36.24,
+  "clean": 54.97,
+  "captured_at_utc": "2026-07-18T21:45:09.796797+00:00",
+  "telemetry_age_seconds": 258
 }
