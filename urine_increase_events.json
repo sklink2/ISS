@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-11T06:49:36.231975+00:00",
-    "source_time_gmt": "192/6:47:20",
-    "previous_urine": 40.0,
-    "current_urine": 42.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": -51.4472,
-      "longitude": 52.6382,
-      "timestamp": 1783752582,
-      "area": "Indian Ocean",
-      "region": "Indian Ocean"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-11T08:00:09.486881+00:00",
     "source_time_gmt": "192/7:58:50",
     "previous_urine": 42.0,
@@ -4107,6 +4093,23 @@
       "latitude": 49.837,
       "longitude": 179.4541,
       "timestamp": 1784356826,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-07-18T06:50:09.658031+00:00",
+    "source_time_gmt": "199/6:49:59",
+    "previous_urine": 16.0,
+    "current_urine": 18.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 45.2599,
+      "longitude": -125.9426,
+      "timestamp": 1784357411,
       "area": "Pacific Ocean",
       "region": "Pacific Ocean",
       "country_id": "",
