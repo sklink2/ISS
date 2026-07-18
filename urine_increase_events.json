@@ -4122,5 +4122,19 @@
       "country_name": "Mozambique",
       "country_topic": "country_MOZ"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-18T11:32:12.244250+00:00",
+    "source_time_gmt": "199/11:31:50",
+    "previous_urine": 44.0,
+    "current_urine": 48.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 37.626,
+      "longitude": 177.8144,
+      "timestamp": 1784374336,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean"
+    }
   }
 ]
