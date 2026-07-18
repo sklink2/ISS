@@ -4098,17 +4098,20 @@
     }
   },
   {
-    "captured_at_utc": "2026-07-18T08:35:07.818599+00:00",
+    "captured_at_utc": "2026-07-18T08:35:10.564607+00:00",
     "source_time_gmt": "199/8:32:51",
     "previous_urine": 24.0,
     "current_urine": 26.0,
     "change_amount": 2.0,
     "iss_location": {
-      "latitude": 14.0282,
-      "longitude": -110.9512,
-      "timestamp": 1784363708,
-      "area": "Mexico",
-      "region": "North America"
+      "latitude": 13.9038,
+      "longitude": -110.855,
+      "timestamp": 1784363711,
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
