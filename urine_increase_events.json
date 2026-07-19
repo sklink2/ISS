@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-12T10:33:13.047060+00:00",
-    "source_time_gmt": "193/10:31:11",
-    "previous_urine": 54.0,
-    "current_urine": 56.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": -40.9069,
-      "longitude": -50.5399,
-      "timestamp": 1783852394,
-      "area": "South America",
-      "region": "South America"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-12T10:48:49.827263+00:00",
     "source_time_gmt": "193/10:47:58",
     "previous_urine": 56.0,
@@ -4681,6 +4667,32 @@
       "country_id": "",
       "country_name": "",
       "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-07-19T10:35:09.443248+00:00",
+    "source_time_gmt": "200/10:34:57",
+    "source_time_utc": "2026-07-19T10:34:57+00:00",
+    "telemetry_age_seconds": 12,
+    "previous_urine": 43.0,
+    "current_urine": 48.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": -12.076140157024,
+      "longitude": 34.801572366879,
+      "timestamp": 1784457297,
+      "requested_timestamp": 1784457297,
+      "requested_time_utc": "2026-07-19T10:34:57+00:00",
+      "position_time_utc": "2026-07-19T10:34:57+00:00",
+      "altitude": 418.60760286352,
+      "velocity": 27586.031610431,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Mozambique",
+      "region": "Country",
+      "country_id": "MOZ",
+      "country_name": "Mozambique",
+      "country_topic": "country_MOZ"
     }
   }
 ]
