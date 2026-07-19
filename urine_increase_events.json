@@ -1,22 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-12T20:45:09.639244+00:00",
-    "source_time_gmt": "193/20:42:51",
-    "previous_urine": 10.0,
-    "current_urine": 13.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": 51.6121,
-      "longitude": 20.7343,
-      "timestamp": 1783889120,
-      "area": "Poland",
-      "region": "Country",
-      "country_id": "POL",
-      "country_name": "Poland",
-      "country_topic": "country_POL"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-12T20:55:10.386552+00:00",
     "source_time_gmt": "193/20:53:52",
     "previous_urine": 13.0,
