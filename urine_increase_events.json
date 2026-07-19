@@ -4641,5 +4641,36 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-19T23:15:09.366115+00:00",
+    "source_time_gmt": "200/23:13:53",
+    "source_time_utc": "2026-07-19T23:13:53+00:00",
+    "telemetry_age_seconds": 76,
+    "previous_urine": 20.0,
+    "current_urine": 22.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 34.287877233054736,
+      "longitude": -115.89601272871914,
+      "timestamp": 1784502833,
+      "requested_timestamp": 1784502833,
+      "requested_time_utc": "2026-07-19T23:13:53+00:00",
+      "position_time_utc": "2026-07-19T23:13:53+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "CelesTrak live TLE propagated with Skyfield",
+      "used_backup": true,
+      "tle_epoch_utc": "2026-07-19T06:00:13.204529+00:00",
+      "tle_age_days": 0.717822,
+      "altitude": 421.73074845812,
+      "velocity": 27586.24407341625,
+      "visibility": null,
+      "units": "kilometers",
+      "area": "United States of America",
+      "region": "Country",
+      "country_id": "USA",
+      "country_name": "United States of America",
+      "country_topic": "country_USA"
+    }
   }
 ]
