@@ -4680,5 +4680,31 @@
       "country_name": "Mozambique",
       "country_topic": "country_MOZ"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-19T10:55:09.677794+00:00",
+    "source_time_gmt": "200/10:54:15",
+    "source_time_utc": "2026-07-19T10:54:15+00:00",
+    "telemetry_age_seconds": 55,
+    "previous_urine": 48.0,
+    "current_urine": 49.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 42.657936321479,
+      "longitude": 86.097179903724,
+      "timestamp": 1784458455,
+      "requested_timestamp": 1784458455,
+      "requested_time_utc": "2026-07-19T10:54:15+00:00",
+      "position_time_utc": "2026-07-19T10:54:15+00:00",
+      "altitude": 424.72379569115,
+      "velocity": 27580.837746507,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "China",
+      "region": "Country",
+      "country_id": "CHN",
+      "country_name": "China",
+      "country_topic": "country_CHN"
+    }
   }
 ]
