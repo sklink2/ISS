@@ -4346,5 +4346,31 @@
       "country_name": "Algeria",
       "country_topic": "country_DZA"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-19T02:15:09.923304+00:00",
+    "source_time_gmt": "200/2:12:48",
+    "source_time_utc": "2026-07-19T02:12:48+00:00",
+    "telemetry_age_seconds": 142,
+    "previous_urine": 8.0,
+    "current_urine": 11.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -14.702753777716,
+      "longitude": 4.0257424788143,
+      "timestamp": 1784427168,
+      "requested_timestamp": 1784427168,
+      "requested_time_utc": "2026-07-19T02:12:48+00:00",
+      "position_time_utc": "2026-07-19T02:12:48+00:00",
+      "altitude": 425.16509517198,
+      "velocity": 27560.435358701,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
