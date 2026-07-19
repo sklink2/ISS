@@ -4743,5 +4743,34 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-19T15:45:09.025307+00:00",
+    "source_time_gmt": "200/15:45:1",
+    "source_time_utc": "2026-07-19T15:45:01+00:00",
+    "telemetry_age_seconds": 8,
+    "previous_urine": 49.0,
+    "current_urine": 51.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -26.0164,
+      "longitude": 167.9578,
+      "timestamp": 1784475917,
+      "requested_timestamp": 1784475901,
+      "requested_time_utc": "2026-07-19T15:45:01+00:00",
+      "position_time_utc": "2026-07-19T15:45:17+00:00",
+      "position_time_difference_seconds": 16,
+      "location_source": "Open Notify current-position backup",
+      "used_backup": true,
+      "altitude": null,
+      "velocity": null,
+      "visibility": null,
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
