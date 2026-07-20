@@ -1,39 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-13T19:30:09.972718+00:00",
-    "source_time_gmt": "194/19:29:25",
-    "previous_urine": 31.0,
-    "current_urine": 33.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": -13.6203,
-      "longitude": -67.3545,
-      "timestamp": 1783971012,
-      "area": "Bolivia",
-      "region": "Country",
-      "country_id": "BOL",
-      "country_name": "Bolivia",
-      "country_topic": "country_BOL"
-    }
-  },
-  {
-    "captured_at_utc": "2026-07-13T19:35:10.847873+00:00",
-    "source_time_gmt": "194/19:33:38",
-    "previous_urine": 33.0,
-    "current_urine": 35.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 2.2483,
-      "longitude": -55.8383,
-      "timestamp": 1783971327,
-      "area": "Brazil",
-      "region": "Country",
-      "country_id": "BRA",
-      "country_name": "Brazil",
-      "country_topic": "country_BRA"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-13T20:33:46.658797+00:00",
     "source_time_gmt": "194/20:33:39",
     "previous_urine": 24.0,
