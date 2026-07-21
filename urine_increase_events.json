@@ -1,19 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-14T14:32:55.402394+00:00",
-    "source_time_gmt": "195/14:32:38",
-    "previous_urine": 68.0,
-    "current_urine": 70.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 51.4602,
-      "longitude": 109.2872,
-      "timestamp": 1784039576,
-      "area": "Russia",
-      "region": "Europe/Asia"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-14T15:14:31.823277+00:00",
     "source_time_gmt": "195/15:14:26",
     "previous_urine": 63.0,
@@ -3719,6 +3705,37 @@
       "tle_age_days": null,
       "altitude": 423.68002626607,
       "velocity": 27565.101754664,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-07-21T14:35:09.744296+00:00",
+    "source_time_gmt": "202/14:35:7",
+    "source_time_utc": "2026-07-21T14:35:07+00:00",
+    "telemetry_age_seconds": 3,
+    "previous_urine": 62.0,
+    "current_urine": 63.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -12.573384107392,
+      "longitude": 161.71310998815,
+      "timestamp": 1784644507,
+      "requested_timestamp": 1784644507,
+      "requested_time_utc": "2026-07-21T14:35:07+00:00",
+      "position_time_utc": "2026-07-21T14:35:07+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 425.39936017357,
+      "velocity": 27558.509865885,
       "visibility": "eclipsed",
       "units": "kilometers",
       "area": "Pacific Ocean",
