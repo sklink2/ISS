@@ -1424,5 +1424,36 @@
       "country_name": "South Sudan",
       "country_topic": "country_SSD"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-30T18:35:09.836554+00:00",
+    "source_time_gmt": "211/18:33:39",
+    "source_time_utc": "2026-07-30T18:33:39+00:00",
+    "telemetry_age_seconds": 91,
+    "previous_urine": 17.0,
+    "current_urine": 30.0,
+    "change_amount": 13.0,
+    "iss_location": {
+      "latitude": -35.106348112084,
+      "longitude": 71.176597282889,
+      "timestamp": 1785436419,
+      "requested_timestamp": 1785436419,
+      "requested_time_utc": "2026-07-30T18:33:39+00:00",
+      "position_time_utc": "2026-07-30T18:33:39+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 432.83267077641,
+      "velocity": 27540.588894564,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
