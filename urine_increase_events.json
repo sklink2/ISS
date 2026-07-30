@@ -1269,5 +1269,36 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-07-30T16:35:10.021270+00:00",
+    "source_time_gmt": "211/16:34:45",
+    "source_time_utc": "2026-07-30T16:34:45+00:00",
+    "telemetry_age_seconds": 25,
+    "previous_urine": 5.0,
+    "current_urine": 7.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 39.400518514233,
+      "longitude": 27.495909144363,
+      "timestamp": 1785429285,
+      "requested_timestamp": 1785429285,
+      "requested_time_utc": "2026-07-30T16:34:45+00:00",
+      "position_time_utc": "2026-07-30T16:34:45+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 425.32071654962,
+      "velocity": 27574.468344323,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Turkey",
+      "region": "Country",
+      "country_id": "TUR",
+      "country_name": "Turkey",
+      "country_topic": "country_TUR"
+    }
   }
 ]
