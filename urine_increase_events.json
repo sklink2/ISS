@@ -1858,5 +1858,36 @@
       "country_name": "China",
       "country_topic": "country_CHN"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-31T06:20:09.829894+00:00",
+    "source_time_gmt": "212/6:15:41",
+    "source_time_utc": "2026-07-31T06:15:41+00:00",
+    "telemetry_age_seconds": 269,
+    "previous_urine": 22.0,
+    "current_urine": 25.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 46.741472296143,
+      "longitude": 95.958050137549,
+      "timestamp": 1785478541,
+      "requested_timestamp": 1785478541,
+      "requested_time_utc": "2026-07-31T06:15:41+00:00",
+      "position_time_utc": "2026-07-31T06:15:41+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 422.16897393041,
+      "velocity": 27593.220786585,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Mongolia",
+      "region": "Country",
+      "country_id": "MNG",
+      "country_name": "Mongolia",
+      "country_topic": "country_MNG"
+    }
   }
 ]
