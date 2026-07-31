@@ -2230,5 +2230,36 @@
       "country_name": "Niger",
       "country_topic": "country_NER"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-31T10:30:09.833867+00:00",
+    "source_time_gmt": "212/10:26:29",
+    "source_time_utc": "2026-07-31T10:26:29+00:00",
+    "telemetry_age_seconds": 221,
+    "previous_urine": 49.0,
+    "current_urine": 50.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -30.584914543473,
+      "longitude": -52.293161893169,
+      "timestamp": 1785493589,
+      "requested_timestamp": 1785493589,
+      "requested_time_utc": "2026-07-31T10:26:29+00:00",
+      "position_time_utc": "2026-07-31T10:26:29+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 424.20531031588,
+      "velocity": 27572.085652786,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Brazil",
+      "region": "Country",
+      "country_id": "BRA",
+      "country_name": "Brazil",
+      "country_topic": "country_BRA"
+    }
   }
 ]
