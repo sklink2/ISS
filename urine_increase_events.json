@@ -2509,5 +2509,36 @@
       "country_name": "Canada",
       "country_topic": "country_CAN"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-31T17:30:10.214723+00:00",
+    "source_time_gmt": "212/17:26:10",
+    "source_time_utc": "2026-07-31T17:26:10+00:00",
+    "telemetry_age_seconds": 240,
+    "previous_urine": 29.0,
+    "current_urine": 30.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 25.702020483833,
+      "longitude": 26.51911810425,
+      "timestamp": 1785518770,
+      "requested_timestamp": 1785518770,
+      "requested_time_utc": "2026-07-31T17:26:10+00:00",
+      "position_time_utc": "2026-07-31T17:26:10+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 423.80066212818,
+      "velocity": 27570.369503935,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Egypt",
+      "region": "Country",
+      "country_id": "EGY",
+      "country_name": "Egypt",
+      "country_topic": "country_EGY"
+    }
   }
 ]
