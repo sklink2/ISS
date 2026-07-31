@@ -2044,5 +2044,36 @@
       "country_name": "Democratic Republic of the Congo",
       "country_topic": "country_COD"
     }
+  },
+  {
+    "captured_at_utc": "2026-07-31T08:00:09.091502+00:00",
+    "source_time_gmt": "212/7:59:23",
+    "source_time_utc": "2026-07-31T07:59:23+00:00",
+    "telemetry_age_seconds": 46,
+    "previous_urine": 37.0,
+    "current_urine": 39.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 47.675268105654,
+      "longitude": 132.99676700721,
+      "timestamp": 1785484763,
+      "requested_timestamp": 1785484763,
+      "requested_time_utc": "2026-07-31T07:59:23+00:00",
+      "position_time_utc": "2026-07-31T07:59:23+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 425.78556466941,
+      "velocity": 27579.308805565,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "China",
+      "region": "Country",
+      "country_id": "CHN",
+      "country_name": "China",
+      "country_topic": "country_CHN"
+    }
   }
 ]
