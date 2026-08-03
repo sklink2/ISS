@@ -4927,5 +4927,36 @@
       "country_name": "Morocco",
       "country_topic": "country_MAR"
     }
+  },
+  {
+    "captured_at_utc": "2026-08-03T10:20:10.266308+00:00",
+    "source_time_gmt": "215/10:18:22",
+    "source_time_utc": "2026-08-03T10:18:22+00:00",
+    "telemetry_age_seconds": 108,
+    "previous_urine": 25.0,
+    "current_urine": 29.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 46.755810140162,
+      "longitude": 82.859091144289,
+      "timestamp": 1785752302,
+      "requested_timestamp": 1785752302,
+      "requested_time_utc": "2026-08-03T10:18:22+00:00",
+      "position_time_utc": "2026-08-03T10:18:22+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 424.77497204544,
+      "velocity": 27582.385263079,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Kazakhstan",
+      "region": "Country",
+      "country_id": "KAZ",
+      "country_name": "Kazakhstan",
+      "country_topic": "country_KAZ"
+    }
   }
 ]
