@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-29T10:35:09.030665+00:00",
-    "source_time_gmt": "210/10:31:29",
-    "source_time_utc": "2026-07-29T10:31:29+00:00",
-    "telemetry_age_seconds": 220,
-    "previous_urine": 45.0,
-    "current_urine": 47.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": -17.889397100794,
-      "longitude": -28.683553853391,
-      "timestamp": 1785321089,
-      "requested_timestamp": 1785321089,
-      "requested_time_utc": "2026-07-29T10:31:29+00:00",
-      "position_time_utc": "2026-07-29T10:31:29+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 418.99634336839,
-      "velocity": 27585.674616257,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Atlantic Ocean",
-      "region": "Atlantic Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-07-29T11:35:09.439212+00:00",
     "source_time_gmt": "210/11:32:5",
     "source_time_utc": "2026-07-29T11:32:05+00:00",
@@ -6848,6 +6817,37 @@
       "country_id": "KAZ",
       "country_name": "Kazakhstan",
       "country_topic": "country_KAZ"
+    }
+  },
+  {
+    "captured_at_utc": "2026-08-05T10:35:09.254935+00:00",
+    "source_time_gmt": "217/10:32:47",
+    "source_time_utc": "2026-08-05T10:32:47+00:00",
+    "telemetry_age_seconds": 142,
+    "previous_urine": 46.0,
+    "current_urine": 48.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 7.3797925299452,
+      "longitude": 118.30300935,
+      "timestamp": 1785925967,
+      "requested_timestamp": 1785925967,
+      "requested_time_utc": "2026-08-05T10:32:47+00:00",
+      "position_time_utc": "2026-08-05T10:32:47+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 423.14210466111,
+      "velocity": 27564.53537236,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
