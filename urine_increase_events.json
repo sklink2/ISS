@@ -7531,5 +7531,36 @@
       "country_name": "Egypt",
       "country_topic": "country_EGY"
     }
+  },
+  {
+    "captured_at_utc": "2026-08-06T06:35:09.835506+00:00",
+    "source_time_gmt": "218/6:33:3",
+    "source_time_utc": "2026-08-06T06:33:03+00:00",
+    "telemetry_age_seconds": 127,
+    "previous_urine": 23.0,
+    "current_urine": 24.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 28.408728424301,
+      "longitude": 153.93558549519,
+      "timestamp": 1785997983,
+      "requested_timestamp": 1785997983,
+      "requested_time_utc": "2026-08-06T06:33:03+00:00",
+      "position_time_utc": "2026-08-06T06:33:03+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 422.62194131562,
+      "velocity": 27576.467531326,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
