@@ -7500,5 +7500,36 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-08-06T06:05:09.342034+00:00",
+    "source_time_gmt": "218/6:4:1",
+    "source_time_utc": "2026-08-06T06:04:01+00:00",
+    "telemetry_age_seconds": 68,
+    "previous_urine": 20.0,
+    "current_urine": 23.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 23.278843160297,
+      "longitude": 26.315743612827,
+      "timestamp": 1785996241,
+      "requested_timestamp": 1785996241,
+      "requested_time_utc": "2026-08-06T06:04:01+00:00",
+      "position_time_utc": "2026-08-06T06:04:01+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 414.38399463742,
+      "velocity": 27606.586044608,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Egypt",
+      "region": "Country",
+      "country_id": "EGY",
+      "country_name": "Egypt",
+      "country_topic": "country_EGY"
+    }
   }
 ]
