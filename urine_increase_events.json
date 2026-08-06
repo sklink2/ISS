@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-30T18:20:09.608601+00:00",
-    "source_time_gmt": "211/18:18:3",
-    "source_time_utc": "2026-07-30T18:18:03+00:00",
-    "telemetry_age_seconds": 127,
-    "previous_urine": 15.0,
-    "current_urine": 17.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 10.550044541681,
-      "longitude": 33.106062332455,
-      "timestamp": 1785435483,
-      "requested_timestamp": 1785435483,
-      "requested_time_utc": "2026-07-30T18:18:03+00:00",
-      "position_time_utc": "2026-07-30T18:18:03+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 423.58747553873,
-      "velocity": 27564.056917316,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "South Sudan",
-      "region": "Country",
-      "country_id": "SSD",
-      "country_name": "South Sudan",
-      "country_topic": "country_SSD"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-30T18:35:09.836554+00:00",
     "source_time_gmt": "211/18:33:39",
     "source_time_utc": "2026-07-30T18:33:39+00:00",
@@ -7871,6 +7840,37 @@
       "country_id": "NGA",
       "country_name": "Nigeria",
       "country_topic": "country_NGA"
+    }
+  },
+  {
+    "captured_at_utc": "2026-08-06T18:20:10.667940+00:00",
+    "source_time_gmt": "218/18:19:22",
+    "source_time_utc": "2026-08-06T18:19:22+00:00",
+    "telemetry_age_seconds": 49,
+    "previous_urine": 43.0,
+    "current_urine": 46.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 0.16964664356098,
+      "longitude": 179.78487119058,
+      "timestamp": 1786040362,
+      "requested_timestamp": 1786040362,
+      "requested_time_utc": "2026-08-06T18:19:22+00:00",
+      "position_time_utc": "2026-08-06T18:19:22+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 414.62942068944,
+      "velocity": 27598.225798547,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
