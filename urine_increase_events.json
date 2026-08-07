@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-31T19:50:09.900858+00:00",
-    "source_time_gmt": "212/19:48:19",
-    "source_time_utc": "2026-07-31T19:48:19+00:00",
-    "telemetry_age_seconds": 111,
-    "previous_urine": 8.0,
-    "current_urine": 9.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -17.713094195849,
-      "longitude": 178.09946011603,
-      "timestamp": 1785527299,
-      "requested_timestamp": 1785527299,
-      "requested_time_utc": "2026-07-31T19:48:19+00:00",
-      "position_time_utc": "2026-07-31T19:48:19+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 418.98704609747,
-      "velocity": 27585.36418628,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Fiji",
-      "region": "Country",
-      "country_id": "FJI",
-      "country_name": "Fiji",
-      "country_topic": "country_FJI"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-31T19:55:10.116878+00:00",
     "source_time_gmt": "212/19:53:56",
     "source_time_utc": "2026-07-31T19:53:56+00:00",
