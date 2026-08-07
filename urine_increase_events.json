@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-07-31T00:40:09.396145+00:00",
-    "source_time_gmt": "212/0:38:59",
-    "source_time_utc": "2026-07-31T00:38:59+00:00",
-    "telemetry_age_seconds": 70,
-    "previous_urine": 5.0,
-    "current_urine": 8.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": -17.882796137618,
-      "longitude": -40.550843373861,
-      "timestamp": 1785458339,
-      "requested_timestamp": 1785458339,
-      "requested_time_utc": "2026-07-31T00:38:59+00:00",
-      "position_time_utc": "2026-07-31T00:38:59+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 427.85629299165,
-      "velocity": 27549.581980347,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Brazil",
-      "region": "Country",
-      "country_id": "BRA",
-      "country_name": "Brazil",
-      "country_topic": "country_BRA"
-    }
-  },
-  {
     "captured_at_utc": "2026-07-31T03:45:09.699047+00:00",
     "source_time_gmt": "212/3:44:16",
     "source_time_utc": "2026-07-31T03:44:16+00:00",
