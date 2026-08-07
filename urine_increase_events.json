@@ -7810,5 +7810,36 @@
       "country_name": "French Guiana",
       "country_topic": "country_GUF"
     }
+  },
+  {
+    "captured_at_utc": "2026-08-07T10:10:09.657262+00:00",
+    "source_time_gmt": "219/10:10:3",
+    "source_time_utc": "2026-08-07T10:10:03+00:00",
+    "telemetry_age_seconds": 7,
+    "previous_urine": 39.0,
+    "current_urine": 40.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 51.539846483332,
+      "longitude": 20.424349276056,
+      "timestamp": 1786097403,
+      "requested_timestamp": 1786097403,
+      "requested_time_utc": "2026-08-07T10:10:03+00:00",
+      "position_time_utc": "2026-08-07T10:10:03+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 422.30606839035,
+      "velocity": 27596.031791111,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Poland",
+      "region": "Country",
+      "country_id": "POL",
+      "country_name": "Poland",
+      "country_topic": "country_POL"
+    }
   }
 ]
