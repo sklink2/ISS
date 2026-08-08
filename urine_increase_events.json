@@ -8089,5 +8089,36 @@
       "country_name": "Bolivia",
       "country_topic": "country_BOL"
     }
+  },
+  {
+    "captured_at_utc": "2026-08-08T10:55:09.002552+00:00",
+    "source_time_gmt": "220/10:55:6",
+    "source_time_utc": "2026-08-08T10:55:06+00:00",
+    "telemetry_age_seconds": 3,
+    "previous_urine": 30.0,
+    "current_urine": 34.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 50.965340252875,
+      "longitude": -3.1581764005231,
+      "timestamp": 1786186506,
+      "requested_timestamp": 1786186506,
+      "requested_time_utc": "2026-08-08T10:55:06+00:00",
+      "position_time_utc": "2026-08-08T10:55:06+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 421.56964563386,
+      "velocity": 27598.4726581,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "United Kingdom",
+      "region": "Country",
+      "country_id": "GBR",
+      "country_name": "United Kingdom",
+      "country_topic": "country_GBR"
+    }
   }
 ]
