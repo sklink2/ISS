@@ -8430,5 +8430,36 @@
       "country_name": "Indonesia",
       "country_topic": "country_IDN"
     }
+  },
+  {
+    "captured_at_utc": "2026-08-09T10:45:09.436172+00:00",
+    "source_time_gmt": "221/10:45:2",
+    "source_time_utc": "2026-08-09T10:45:02+00:00",
+    "telemetry_age_seconds": 7,
+    "previous_urine": 31.0,
+    "current_urine": 33.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -32.996565617314,
+      "longitude": 128.04371960186,
+      "timestamp": 1786272302,
+      "requested_timestamp": 1786272302,
+      "requested_time_utc": "2026-08-09T10:45:02+00:00",
+      "position_time_utc": "2026-08-09T10:45:02+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 433.487595448,
+      "velocity": 27535.587933003,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
