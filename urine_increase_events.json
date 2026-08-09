@@ -8399,5 +8399,36 @@
       "country_name": "Brazil",
       "country_topic": "country_BRA"
     }
+  },
+  {
+    "captured_at_utc": "2026-08-09T10:35:10.751132+00:00",
+    "source_time_gmt": "221/10:35:5",
+    "source_time_utc": "2026-08-09T10:35:05+00:00",
+    "telemetry_age_seconds": 6,
+    "previous_urine": 29.0,
+    "current_urine": 30.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -4.1606599802489,
+      "longitude": 103.11210004948,
+      "timestamp": 1786271705,
+      "requested_timestamp": 1786271705,
+      "requested_time_utc": "2026-08-09T10:35:05+00:00",
+      "position_time_utc": "2026-08-09T10:35:05+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 424.44580859611,
+      "velocity": 27558.508514449,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indonesia",
+      "region": "Country",
+      "country_id": "IDN",
+      "country_name": "Indonesia",
+      "country_topic": "country_IDN"
+    }
   }
 ]
