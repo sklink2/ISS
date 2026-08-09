@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-02T15:45:10.673864+00:00",
-    "source_time_gmt": "214/15:44:52",
-    "source_time_utc": "2026-08-02T15:44:52+00:00",
-    "telemetry_age_seconds": 19,
-    "previous_urine": 52.0,
-    "current_urine": 55.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": 44.809528467204,
-      "longitude": 11.206648424725,
-      "timestamp": 1785685492,
-      "requested_timestamp": 1785685492,
-      "requested_time_utc": "2026-08-02T15:44:52+00:00",
-      "position_time_utc": "2026-08-02T15:44:52+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 424.91539272943,
-      "velocity": 27580.255500593,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Italy",
-      "region": "Country",
-      "country_id": "ITA",
-      "country_name": "Italy",
-      "country_topic": "country_ITA"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-02T15:50:09.874182+00:00",
     "source_time_gmt": "214/15:48:14",
     "source_time_utc": "2026-08-02T15:48:14+00:00",
