@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-02T11:00:09.397610+00:00",
-    "source_time_gmt": "214/10:57:36",
-    "source_time_utc": "2026-08-02T10:57:36+00:00",
-    "telemetry_age_seconds": 153,
-    "previous_urine": 33.0,
-    "current_urine": 35.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 51.232898742195,
-      "longitude": 34.279892947077,
-      "timestamp": 1785668256,
-      "requested_timestamp": 1785668256,
-      "requested_time_utc": "2026-08-02T10:57:36+00:00",
-      "position_time_utc": "2026-08-02T10:57:36+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 423.66176475621,
-      "velocity": 27590.623650926,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Ukraine",
-      "region": "Country",
-      "country_id": "UKR",
-      "country_name": "Ukraine",
-      "country_topic": "country_UKR"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-02T11:35:09.816077+00:00",
     "source_time_gmt": "214/11:35:2",
     "source_time_utc": "2026-08-02T11:35:02+00:00",
