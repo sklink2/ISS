@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-03T08:45:09.615797+00:00",
-    "source_time_gmt": "215/8:44:30",
-    "source_time_utc": "2026-08-03T08:44:30+00:00",
-    "telemetry_age_seconds": 40,
-    "previous_urine": 18.0,
-    "current_urine": 19.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 48.278949715518,
-      "longitude": 101.54217011586,
-      "timestamp": 1785746670,
-      "requested_timestamp": 1785746670,
-      "requested_time_utc": "2026-08-03T08:44:30+00:00",
-      "position_time_utc": "2026-08-03T08:44:30+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 424.8263159913,
-      "velocity": 27583.434815292,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Mongolia",
-      "region": "Country",
-      "country_id": "MNG",
-      "country_name": "Mongolia",
-      "country_topic": "country_MNG"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-03T09:05:10.025752+00:00",
     "source_time_gmt": "215/9:5:5",
     "source_time_utc": "2026-08-03T09:05:05+00:00",
