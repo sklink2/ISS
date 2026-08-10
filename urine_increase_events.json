@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-03T13:25:10.286803+00:00",
-    "source_time_gmt": "215/13:20:12",
-    "source_time_utc": "2026-08-03T13:20:12+00:00",
-    "telemetry_age_seconds": 298,
-    "previous_urine": 39.0,
-    "current_urine": 40.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 51.277070969458,
-      "longitude": 14.404808713451,
-      "timestamp": 1785763212,
-      "requested_timestamp": 1785763212,
-      "requested_time_utc": "2026-08-03T13:20:12+00:00",
-      "position_time_utc": "2026-08-03T13:20:12+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 424.47559398302,
-      "velocity": 27587.283213158,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Germany",
-      "region": "Country",
-      "country_id": "DEU",
-      "country_name": "Germany",
-      "country_topic": "country_DEU"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-03T13:40:09.205205+00:00",
     "source_time_gmt": "215/13:39:40",
     "source_time_utc": "2026-08-03T13:39:40+00:00",
