@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-04T17:55:09.722432+00:00",
-    "source_time_gmt": "216/17:51:31",
-    "source_time_utc": "2026-08-04T17:51:31+00:00",
-    "telemetry_age_seconds": 219,
-    "previous_urine": 65.0,
-    "current_urine": 67.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": -47.462330218968,
-      "longitude": 77.699215077409,
-      "timestamp": 1785865891,
-      "requested_timestamp": 1785865891,
-      "requested_time_utc": "2026-08-04T17:51:31+00:00",
-      "position_time_utc": "2026-08-04T17:51:31+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 437.37351850442,
-      "velocity": 27531.745280845,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Indian Ocean",
-      "region": "Indian Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-08-04T18:25:09.217689+00:00",
     "source_time_gmt": "216/18:22:59",
     "source_time_utc": "2026-08-04T18:22:59+00:00",
@@ -7459,6 +7428,39 @@
       "country_id": "ZAF",
       "country_name": "South Africa",
       "country_topic": "country_ZAF"
+    }
+  },
+  {
+    "captured_at_utc": "2026-08-11T17:55:09.352315+00:00",
+    "source_time_gmt": "223/17:54:34",
+    "source_time_utc": "2026-08-11T17:54:34+00:00",
+    "telemetry_age_seconds": 35,
+    "sample_gap_seconds": 3598,
+    "location_uncertain": true,
+    "previous_urine": 55.0,
+    "current_urine": 57.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 51.753820346048,
+      "longitude": -110.87516236313,
+      "timestamp": 1786470874,
+      "requested_timestamp": 1786470874,
+      "requested_time_utc": "2026-08-11T17:54:34+00:00",
+      "position_time_utc": "2026-08-11T17:54:34+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 421.56120869325,
+      "velocity": 27598.983847586,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Canada",
+      "region": "Country",
+      "country_id": "CAN",
+      "country_name": "Canada",
+      "country_topic": "country_CAN"
     }
   }
 ]
