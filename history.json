@@ -1,20 +1,5 @@
 [
   {
-    "time": "216/2:14:54",
-    "source_time_gmt": "216/2:14:54",
-    "source_time_utc": "2026-08-04T02:14:54+00:00",
-    "source_times_gmt": {
-      "urine": "216/2:14:54",
-      "waste": "216/2:14:59",
-      "clean": "216/2:14:49"
-    },
-    "urine": 54.0,
-    "waste": 71.08,
-    "clean": 35.96,
-    "captured_at_utc": "2026-08-04T02:15:10.091060+00:00",
-    "telemetry_age_seconds": 16
-  },
-  {
     "time": "216/2:19:23",
     "source_time_gmt": "216/2:19:23",
     "source_time_utc": "2026-08-04T02:19:23+00:00",
