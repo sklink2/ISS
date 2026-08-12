@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-05T16:50:10.192790+00:00",
-    "source_time_gmt": "217/16:45:54",
-    "source_time_utc": "2026-08-05T16:45:54+00:00",
-    "telemetry_age_seconds": 256,
-    "previous_urine": 70.0,
-    "current_urine": 71.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 2.5169080336131,
-      "longitude": 27.354549446654,
-      "timestamp": 1785948354,
-      "requested_timestamp": 1785948354,
-      "requested_time_utc": "2026-08-05T16:45:54+00:00",
-      "position_time_utc": "2026-08-05T16:45:54+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 423.66408830664,
-      "velocity": 27561.706997692,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Democratic Republic of the Congo",
-      "region": "Country",
-      "country_id": "COD",
-      "country_name": "Democratic Republic of the Congo",
-      "country_topic": "country_COD"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-05T17:55:10.475745+00:00",
     "source_time_gmt": "217/17:55:7",
     "source_time_utc": "2026-08-05T17:55:07+00:00",
