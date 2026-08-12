@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-05T10:20:10.274219+00:00",
-    "source_time_gmt": "217/10:17:28",
-    "source_time_utc": "2026-08-05T10:17:28+00:00",
-    "telemetry_age_seconds": 162,
-    "previous_urine": 45.0,
-    "current_urine": 46.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 47.112652110395,
-      "longitude": 70.096800033221,
-      "timestamp": 1785925048,
-      "requested_timestamp": 1785925048,
-      "requested_time_utc": "2026-08-05T10:17:28+00:00",
-      "position_time_utc": "2026-08-05T10:17:28+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 424.10016904736,
-      "velocity": 27585.223847505,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Kazakhstan",
-      "region": "Country",
-      "country_id": "KAZ",
-      "country_name": "Kazakhstan",
-      "country_topic": "country_KAZ"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-05T10:35:09.254935+00:00",
     "source_time_gmt": "217/10:32:47",
     "source_time_utc": "2026-08-05T10:32:47+00:00",
