@@ -6964,5 +6964,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-08-12T15:55:10.585415+00:00",
+    "source_time_gmt": "224/15:53:18",
+    "source_time_utc": "2026-08-12T15:53:18+00:00",
+    "telemetry_age_seconds": 113,
+    "sample_gap_seconds": 1859,
+    "location_uncertain": true,
+    "previous_urine": 9.0,
+    "current_urine": 10.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 13.007418358079,
+      "longitude": -9.3250014625104,
+      "timestamp": 1786549998,
+      "requested_timestamp": 1786549998,
+      "requested_time_utc": "2026-08-12T15:53:18+00:00",
+      "position_time_utc": "2026-08-12T15:53:18+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 421.16590508416,
+      "velocity": 27573.783179833,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Mali",
+      "region": "Country",
+      "country_id": "MLI",
+      "country_name": "Mali",
+      "country_topic": "country_MLI"
+    }
   }
 ]
