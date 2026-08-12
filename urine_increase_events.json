@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-05T15:05:09.917108+00:00",
-    "source_time_gmt": "217/15:5:6",
-    "source_time_utc": "2026-08-05T15:05:06+00:00",
-    "telemetry_age_seconds": 4,
-    "previous_urine": 23.0,
-    "current_urine": 28.0,
-    "change_amount": 5.0,
-    "iss_location": {
-      "latitude": 26.046391414738,
-      "longitude": 32.323717550323,
-      "timestamp": 1785942306,
-      "requested_timestamp": 1785942306,
-      "requested_time_utc": "2026-08-05T15:05:06+00:00",
-      "position_time_utc": "2026-08-05T15:05:06+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 422.70470306969,
-      "velocity": 27574.608910682,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Egypt",
-      "region": "Country",
-      "country_id": "EGY",
-      "country_name": "Egypt",
-      "country_topic": "country_EGY"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-05T15:10:09.297006+00:00",
     "source_time_gmt": "217/15:9:46",
     "source_time_utc": "2026-08-05T15:09:46+00:00",
