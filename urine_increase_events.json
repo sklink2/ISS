@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-06T15:15:09.772566+00:00",
-    "source_time_gmt": "218/15:15:6",
-    "source_time_utc": "2026-08-06T15:15:06+00:00",
-    "telemetry_age_seconds": 4,
-    "previous_urine": 46.0,
-    "current_urine": 47.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 4.7378265983472,
-      "longitude": -129.78104348632,
-      "timestamp": 1786029306,
-      "requested_timestamp": 1786029306,
-      "requested_time_utc": "2026-08-06T15:15:06+00:00",
-      "position_time_utc": "2026-08-06T15:15:06+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 414.01026870583,
-      "velocity": 27601.070734043,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-08-06T15:35:09.885303+00:00",
     "source_time_gmt": "218/15:35:4",
     "source_time_utc": "2026-08-06T15:35:04+00:00",
@@ -6988,6 +6957,39 @@
       "country_id": "USA",
       "country_name": "United States of America",
       "country_topic": "country_USA"
+    }
+  },
+  {
+    "captured_at_utc": "2026-08-13T15:15:11.113786+00:00",
+    "source_time_gmt": "225/15:12:7",
+    "source_time_utc": "2026-08-13T15:12:07+00:00",
+    "telemetry_age_seconds": 184,
+    "sample_gap_seconds": 1970,
+    "location_uncertain": true,
+    "previous_urine": 62.0,
+    "current_urine": 64.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -4.2477527907965,
+      "longitude": 9.0336372732353,
+      "timestamp": 1786633927,
+      "requested_timestamp": 1786633927,
+      "requested_time_utc": "2026-08-13T15:12:07+00:00",
+      "position_time_utc": "2026-08-13T15:12:07+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 423.78828473989,
+      "velocity": 27560.973625237,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
