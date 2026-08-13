@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-06T17:30:10.461987+00:00",
-    "source_time_gmt": "218/17:29:19",
-    "source_time_utc": "2026-08-06T17:29:19+00:00",
-    "telemetry_age_seconds": 51,
-    "previous_urine": 46.0,
-    "current_urine": 49.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": 10.616789737357,
-      "longitude": 3.8838971883415,
-      "timestamp": 1786037359,
-      "requested_timestamp": 1786037359,
-      "requested_time_utc": "2026-08-06T17:29:19+00:00",
-      "position_time_utc": "2026-08-06T17:29:19+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 422.6835378225,
-      "velocity": 27567.158190682,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Nigeria",
-      "region": "Country",
-      "country_id": "NGA",
-      "country_name": "Nigeria",
-      "country_topic": "country_NGA"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-06T18:20:10.667940+00:00",
     "source_time_gmt": "218/18:19:22",
     "source_time_utc": "2026-08-06T18:19:22+00:00",
