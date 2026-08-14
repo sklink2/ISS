@@ -6679,5 +6679,38 @@
       "country_name": "Canada",
       "country_topic": "country_CAN"
     }
+  },
+  {
+    "captured_at_utc": "2026-08-14T14:20:09.498338+00:00",
+    "source_time_gmt": "226/14:16:31",
+    "source_time_utc": "2026-08-14T14:16:31+00:00",
+    "telemetry_age_seconds": 218,
+    "sample_gap_seconds": 826,
+    "location_uncertain": false,
+    "previous_urine": 60.0,
+    "current_urine": 63.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 22.052767702143,
+      "longitude": -4.7225985053747,
+      "timestamp": 1786716991,
+      "requested_timestamp": 1786716991,
+      "requested_time_utc": "2026-08-14T14:16:31+00:00",
+      "position_time_utc": "2026-08-14T14:16:31+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 420.17406752572,
+      "velocity": 27581.962296888,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Mali",
+      "region": "Country",
+      "country_id": "MLI",
+      "country_name": "Mali",
+      "country_topic": "country_MLI"
+    }
   }
 ]
