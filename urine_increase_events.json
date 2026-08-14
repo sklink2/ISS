@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-07T09:50:09.278950+00:00",
-    "source_time_gmt": "219/9:49:29",
-    "source_time_utc": "2026-08-07T09:49:29+00:00",
-    "telemetry_age_seconds": 40,
-    "previous_urine": 35.0,
-    "current_urine": 39.0,
-    "change_amount": 4.0,
-    "iss_location": {
-      "latitude": 4.2051990894908,
-      "longitude": -53.392346874786,
-      "timestamp": 1786096169,
-      "requested_timestamp": 1786096169,
-      "requested_time_utc": "2026-08-07T09:49:29+00:00",
-      "position_time_utc": "2026-08-07T09:49:29+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 414.09627877777,
-      "velocity": 27600.62272325,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "French Guiana",
-      "region": "Country",
-      "country_id": "GUF",
-      "country_name": "French Guiana",
-      "country_topic": "country_GUF"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-07T10:10:09.657262+00:00",
     "source_time_gmt": "219/10:10:3",
     "source_time_utc": "2026-08-07T10:10:03+00:00",
