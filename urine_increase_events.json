@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-07T20:25:09.817035+00:00",
-    "source_time_gmt": "219/20:24:23",
-    "source_time_utc": "2026-08-07T20:24:23+00:00",
-    "telemetry_age_seconds": 47,
-    "previous_urine": 36.0,
-    "current_urine": 37.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -39.423269790648,
-      "longitude": 101.61556756862,
-      "timestamp": 1786134263,
-      "requested_timestamp": 1786134263,
-      "requested_time_utc": "2026-08-07T20:24:23+00:00",
-      "position_time_utc": "2026-08-07T20:24:23+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 430.23172329763,
-      "velocity": 27553.91085958,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Indian Ocean",
-      "region": "Indian Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-08-07T21:15:09.606198+00:00",
     "source_time_gmt": "219/21:11:30",
     "source_time_utc": "2026-08-07T21:11:30+00:00",
@@ -6630,6 +6599,39 @@
       "country_id": "",
       "country_name": "",
       "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-08-14T20:25:09.969372+00:00",
+    "source_time_gmt": "226/20:24:46",
+    "source_time_utc": "2026-08-14T20:24:46+00:00",
+    "telemetry_age_seconds": 24,
+    "sample_gap_seconds": 411,
+    "location_uncertain": false,
+    "previous_urine": 31.0,
+    "current_urine": 32.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 31.150295276825,
+      "longitude": -108.12083805938,
+      "timestamp": 1786739086,
+      "requested_timestamp": 1786739086,
+      "requested_time_utc": "2026-08-14T20:24:46+00:00",
+      "position_time_utc": "2026-08-14T20:24:46+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 420.20900275727,
+      "velocity": 27587.785805337,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Mexico",
+      "region": "Country",
+      "country_id": "MEX",
+      "country_name": "Mexico",
+      "country_topic": "country_MEX"
     }
   }
 ]
