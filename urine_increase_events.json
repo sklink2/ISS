@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-07T10:30:09.479753+00:00",
-    "source_time_gmt": "219/10:25:58",
-    "source_time_utc": "2026-08-07T10:25:58+00:00",
-    "telemetry_age_seconds": 251,
-    "previous_urine": 43.0,
-    "current_urine": 44.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 25.401420221236,
-      "longitude": 92.065440644925,
-      "timestamp": 1786098358,
-      "requested_timestamp": 1786098358,
-      "requested_time_utc": "2026-08-07T10:25:58+00:00",
-      "position_time_utc": "2026-08-07T10:25:58+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 422.25646119541,
-      "velocity": 27575.944403184,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "India",
-      "region": "Country",
-      "country_id": "IND",
-      "country_name": "India",
-      "country_topic": "country_IND"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-07T12:00:10.187975+00:00",
     "source_time_gmt": "219/11:56:11",
     "source_time_utc": "2026-08-07T11:56:11+00:00",
