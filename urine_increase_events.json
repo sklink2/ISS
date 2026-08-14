@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-07T08:35:09.434128+00:00",
-    "source_time_gmt": "219/8:31:58",
-    "source_time_utc": "2026-08-07T08:31:58+00:00",
-    "telemetry_age_seconds": 191,
-    "previous_urine": 25.0,
-    "current_urine": 27.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 45.461491098079,
-      "longitude": 16.12089687201,
-      "timestamp": 1786091518,
-      "requested_timestamp": 1786091518,
-      "requested_time_utc": "2026-08-07T08:31:58+00:00",
-      "position_time_utc": "2026-08-07T08:31:58+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 419.5380626884,
-      "velocity": 27602.275213203,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Croatia",
-      "region": "Country",
-      "country_id": "HRV",
-      "country_name": "Croatia",
-      "country_topic": "country_HRV"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-07T08:45:09.470634+00:00",
     "source_time_gmt": "219/8:44:1",
     "source_time_utc": "2026-08-07T08:44:01+00:00",
@@ -6778,6 +6747,39 @@
       "country_id": "GUY",
       "country_name": "Guyana",
       "country_topic": "country_GUY"
+    }
+  },
+  {
+    "captured_at_utc": "2026-08-14T08:35:10.341849+00:00",
+    "source_time_gmt": "226/8:32:31",
+    "source_time_utc": "2026-08-14T08:32:31+00:00",
+    "telemetry_age_seconds": 159,
+    "sample_gap_seconds": 3878,
+    "location_uncertain": true,
+    "previous_urine": 32.0,
+    "current_urine": 34.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -50.223022007931,
+      "longitude": 172.32133448045,
+      "timestamp": 1786696351,
+      "requested_timestamp": 1786696351,
+      "requested_time_utc": "2026-08-14T08:32:31+00:00",
+      "position_time_utc": "2026-08-14T08:32:31+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 439.89000344291,
+      "velocity": 27523.282921077,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
