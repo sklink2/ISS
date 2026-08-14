@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-07T09:45:09.946064+00:00",
-    "source_time_gmt": "219/9:43:8",
-    "source_time_utc": "2026-08-07T09:43:08+00:00",
-    "telemetry_age_seconds": 122,
-    "previous_urine": 34.0,
-    "current_urine": 35.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -15.111324011215,
-      "longitude": -67.370802696845,
-      "timestamp": 1786095788,
-      "requested_timestamp": 1786095788,
-      "requested_time_utc": "2026-08-07T09:43:08+00:00",
-      "position_time_utc": "2026-08-07T09:43:08+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 418.73371112908,
-      "velocity": 27584.746734148,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Bolivia",
-      "region": "Country",
-      "country_id": "BOL",
-      "country_name": "Bolivia",
-      "country_topic": "country_BOL"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-07T09:50:09.278950+00:00",
     "source_time_gmt": "219/9:49:29",
     "source_time_utc": "2026-08-07T09:49:29+00:00",
