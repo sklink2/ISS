@@ -6577,5 +6577,38 @@
       "country_name": "China",
       "country_topic": "country_CHN"
     }
+  },
+  {
+    "captured_at_utc": "2026-08-15T23:35:10.128484+00:00",
+    "source_time_gmt": "227/23:34:59",
+    "source_time_utc": "2026-08-15T23:34:59+00:00",
+    "telemetry_age_seconds": 11,
+    "sample_gap_seconds": 332,
+    "location_uncertain": false,
+    "previous_urine": 5.0,
+    "current_urine": 9.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": -17.459300092586,
+      "longitude": 31.682520992836,
+      "timestamp": 1786836899,
+      "requested_timestamp": 1786836899,
+      "requested_time_utc": "2026-08-15T23:34:59+00:00",
+      "position_time_utc": "2026-08-15T23:34:59+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 421.4411087904,
+      "velocity": 27574.299134206,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Zimbabwe",
+      "region": "Country",
+      "country_id": "ZWE",
+      "country_name": "Zimbabwe",
+      "country_topic": "country_ZWE"
+    }
   }
 ]
