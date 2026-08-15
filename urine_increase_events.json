@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-08T12:00:10.168345+00:00",
-    "source_time_gmt": "220/11:57:19",
-    "source_time_utc": "2026-08-08T11:57:19+00:00",
-    "telemetry_age_seconds": 171,
-    "previous_urine": 38.0,
-    "current_urine": 41.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": -28.833175119471,
-      "longitude": -120.8152935803,
-      "timestamp": 1786190239,
-      "requested_timestamp": 1786190239,
-      "requested_time_utc": "2026-08-08T11:57:19+00:00",
-      "position_time_utc": "2026-08-08T11:57:19+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 424.81743928281,
-      "velocity": 27567.740999423,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-08-08T12:35:10.314495+00:00",
     "source_time_gmt": "220/12:30:37",
     "source_time_utc": "2026-08-08T12:30:37+00:00",
@@ -6738,6 +6707,39 @@
       "country_id": "",
       "country_name": "",
       "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-08-15T12:00:09.942577+00:00",
+    "source_time_gmt": "227/11:57:28",
+    "source_time_utc": "2026-08-15T11:57:28+00:00",
+    "telemetry_age_seconds": 162,
+    "sample_gap_seconds": 1073,
+    "location_uncertain": true,
+    "previous_urine": 54.0,
+    "current_urine": 57.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 20.014341656062,
+      "longitude": 26.610110056807,
+      "timestamp": 1786795048,
+      "requested_timestamp": 1786795048,
+      "requested_time_utc": "2026-08-15T11:57:28+00:00",
+      "position_time_utc": "2026-08-15T11:57:28+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 419.94475056114,
+      "velocity": 27581.698863978,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Sudan",
+      "region": "Country",
+      "country_id": "SDN",
+      "country_name": "Sudan",
+      "country_topic": "country_SDN"
     }
   }
 ]
