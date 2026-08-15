@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-08T11:00:09.507464+00:00",
-    "source_time_gmt": "220/10:55:17",
-    "source_time_utc": "2026-08-08T10:55:17+00:00",
-    "telemetry_age_seconds": 293,
-    "previous_urine": 34.0,
-    "current_urine": 36.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 51.093445261273,
-      "longitude": -2.0949117939275,
-      "timestamp": 1786186517,
-      "requested_timestamp": 1786186517,
-      "requested_time_utc": "2026-08-08T10:55:17+00:00",
-      "position_time_utc": "2026-08-08T10:55:17+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 421.65004922351,
-      "velocity": 27598.249826247,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "United Kingdom",
-      "region": "Country",
-      "country_id": "GBR",
-      "country_name": "United Kingdom",
-      "country_topic": "country_GBR"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-08T11:20:10.388467+00:00",
     "source_time_gmt": "220/11:16:25",
     "source_time_utc": "2026-08-08T11:16:25+00:00",
