@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-08T07:45:09.801828+00:00",
-    "source_time_gmt": "220/7:42:7",
-    "source_time_utc": "2026-08-08T07:42:07+00:00",
-    "telemetry_age_seconds": 183,
-    "previous_urine": 19.0,
-    "current_urine": 21.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 39.059451961767,
-      "longitude": 9.4246356580027,
-      "timestamp": 1786174927,
-      "requested_timestamp": 1786174927,
-      "requested_time_utc": "2026-08-08T07:42:07+00:00",
-      "position_time_utc": "2026-08-08T07:42:07+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 417.36531682162,
-      "velocity": 27605.812088092,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Atlantic Ocean",
-      "region": "Atlantic Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-08-08T08:15:10.141153+00:00",
     "source_time_gmt": "220/8:11:9",
     "source_time_utc": "2026-08-08T08:11:09+00:00",
@@ -6623,6 +6592,39 @@
       "country_id": "VNM",
       "country_name": "Vietnam",
       "country_topic": "country_VNM"
+    }
+  },
+  {
+    "captured_at_utc": "2026-08-15T07:45:10.181193+00:00",
+    "source_time_gmt": "227/7:42:24",
+    "source_time_utc": "2026-08-15T07:42:24+00:00",
+    "telemetry_age_seconds": 166,
+    "sample_gap_seconds": 1199,
+    "location_uncertain": true,
+    "previous_urine": 28.0,
+    "current_urine": 30.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -45.645545717438,
+      "longitude": 161.72124591495,
+      "timestamp": 1786779744,
+      "requested_timestamp": 1786779744,
+      "requested_time_utc": "2026-08-15T07:42:24+00:00",
+      "position_time_utc": "2026-08-15T07:42:24+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 438.54906051625,
+      "velocity": 27524.89320584,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
