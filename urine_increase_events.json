@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-08T08:35:09.758208+00:00",
-    "source_time_gmt": "220/8:30:34",
-    "source_time_utc": "2026-08-08T08:30:34+00:00",
-    "telemetry_age_seconds": 276,
-    "previous_urine": 25.0,
-    "current_urine": 27.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": -43.471116100697,
-      "longitude": -174.32061687964,
-      "timestamp": 1786177834,
-      "requested_timestamp": 1786177834,
-      "requested_time_utc": "2026-08-08T08:30:34+00:00",
-      "position_time_utc": "2026-08-08T08:30:34+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 437.01126545915,
-      "velocity": 27529.725009785,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-08-08T08:40:10.318147+00:00",
     "source_time_gmt": "220/8:39:20",
     "source_time_utc": "2026-08-08T08:39:20+00:00",
@@ -6660,6 +6629,39 @@
       "country_id": "",
       "country_name": "",
       "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-08-15T08:35:10.066580+00:00",
+    "source_time_gmt": "227/8:35:5",
+    "source_time_utc": "2026-08-15T08:35:05+00:00",
+    "telemetry_age_seconds": 5,
+    "sample_gap_seconds": 317,
+    "location_uncertain": false,
+    "previous_urine": 37.0,
+    "current_urine": 38.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 51.787057272394,
+      "longitude": 4.1710872251563,
+      "timestamp": 1786782905,
+      "requested_timestamp": 1786782905,
+      "requested_time_utc": "2026-08-15T08:35:05+00:00",
+      "position_time_utc": "2026-08-15T08:35:05+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 420.51945218354,
+      "velocity": 27603.044137667,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Netherlands",
+      "region": "Country",
+      "country_id": "NLD",
+      "country_name": "Netherlands",
+      "country_topic": "country_NLD"
     }
   }
 ]
