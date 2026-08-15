@@ -6627,5 +6627,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-08-15T16:00:10.395913+00:00",
+    "source_time_gmt": "227/15:56:54",
+    "source_time_utc": "2026-08-15T15:56:54+00:00",
+    "telemetry_age_seconds": 196,
+    "sample_gap_seconds": 3396,
+    "location_uncertain": true,
+    "previous_urine": 66.0,
+    "current_urine": 68.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 1.5948106855037,
+      "longitude": 163.6842529415,
+      "timestamp": 1786809414,
+      "requested_timestamp": 1786809414,
+      "requested_time_utc": "2026-08-15T15:56:54+00:00",
+      "position_time_utc": "2026-08-15T15:56:54+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 415.42194863997,
+      "velocity": 27594.543379835,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
