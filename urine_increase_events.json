@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-08T09:00:09.399075+00:00",
-    "source_time_gmt": "220/8:55:19",
-    "source_time_utc": "2026-08-08T08:55:19+00:00",
-    "telemetry_age_seconds": 290,
-    "previous_urine": 29.0,
-    "current_urine": 30.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -18.096317195958,
-      "longitude": -63.791160283899,
-      "timestamp": 1786179319,
-      "requested_timestamp": 1786179319,
-      "requested_time_utc": "2026-08-08T08:55:19+00:00",
-      "position_time_utc": "2026-08-08T08:55:19+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 420.05082850111,
-      "velocity": 27580.69396997,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Bolivia",
-      "region": "Country",
-      "country_id": "BOL",
-      "country_name": "Bolivia",
-      "country_topic": "country_BOL"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-08T10:55:09.002552+00:00",
     "source_time_gmt": "220/10:55:6",
     "source_time_utc": "2026-08-08T10:55:06+00:00",
@@ -6631,6 +6600,39 @@
       "country_id": "NLD",
       "country_name": "Netherlands",
       "country_topic": "country_NLD"
+    }
+  },
+  {
+    "captured_at_utc": "2026-08-15T09:00:10.500966+00:00",
+    "source_time_gmt": "227/8:59:12",
+    "source_time_utc": "2026-08-15T08:59:12+00:00",
+    "telemetry_age_seconds": 59,
+    "sample_gap_seconds": 954,
+    "location_uncertain": true,
+    "previous_urine": 38.0,
+    "current_urine": 40.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -2.5680479611735,
+      "longitude": 90.597402833836,
+      "timestamp": 1786784352,
+      "requested_timestamp": 1786784352,
+      "requested_time_utc": "2026-08-15T08:59:12+00:00",
+      "position_time_utc": "2026-08-15T08:59:12+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 422.97876561127,
+      "velocity": 27563.981874376,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
