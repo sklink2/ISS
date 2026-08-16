@@ -6392,5 +6392,38 @@
       "country_name": "Chad",
       "country_topic": "country_TCD"
     }
+  },
+  {
+    "captured_at_utc": "2026-08-16T13:00:09.822112+00:00",
+    "source_time_gmt": "228/12:57:42",
+    "source_time_utc": "2026-08-16T12:57:42+00:00",
+    "telemetry_age_seconds": 148,
+    "sample_gap_seconds": 703,
+    "location_uncertain": false,
+    "previous_urine": 44.0,
+    "current_urine": 46.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -22.772815172442,
+      "longitude": 41.329370288337,
+      "timestamp": 1786885062,
+      "requested_timestamp": 1786885062,
+      "requested_time_utc": "2026-08-16T12:57:42+00:00",
+      "position_time_utc": "2026-08-16T12:57:42+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 429.3512657173,
+      "velocity": 27545.023201034,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
