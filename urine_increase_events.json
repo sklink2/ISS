@@ -1,36 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-09T06:55:10.014047+00:00",
-    "source_time_gmt": "221/6:53:6",
-    "source_time_utc": "2026-08-09T06:53:06+00:00",
-    "telemetry_age_seconds": 124,
-    "previous_urine": 19.0,
-    "current_urine": 20.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 33.627856096408,
-      "longitude": 7.8124960427266,
-      "timestamp": 1786258386,
-      "requested_timestamp": 1786258386,
-      "requested_time_utc": "2026-08-09T06:53:06+00:00",
-      "position_time_utc": "2026-08-09T06:53:06+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 415.85528726211,
-      "velocity": 27607.574417456,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Tunisia",
-      "region": "Country",
-      "country_id": "TUN",
-      "country_name": "Tunisia",
-      "country_topic": "country_TUN"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-09T08:10:09.167689+00:00",
     "source_time_gmt": "221/8:8:44",
     "source_time_utc": "2026-08-09T08:08:44+00:00",
@@ -6559,6 +6528,39 @@
       "country_id": "AUS",
       "country_name": "Australia",
       "country_topic": "country_AUS"
+    }
+  },
+  {
+    "captured_at_utc": "2026-08-16T06:55:09.264278+00:00",
+    "source_time_gmt": "228/6:54:45",
+    "source_time_utc": "2026-08-16T06:54:45+00:00",
+    "telemetry_age_seconds": 24,
+    "sample_gap_seconds": 349,
+    "location_uncertain": false,
+    "previous_urine": 23.0,
+    "current_urine": 26.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -44.213153711137,
+      "longitude": 164.25282442827,
+      "timestamp": 1786863285,
+      "requested_timestamp": 1786863285,
+      "requested_time_utc": "2026-08-16T06:54:45+00:00",
+      "position_time_utc": "2026-08-16T06:54:45+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 438.09720216193,
+      "velocity": 27525.46235092,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
