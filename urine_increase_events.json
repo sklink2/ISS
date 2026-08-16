@@ -6359,5 +6359,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-08-16T12:50:10.347959+00:00",
+    "source_time_gmt": "228/12:45:59",
+    "source_time_utc": "2026-08-16T12:45:59+00:00",
+    "telemetry_age_seconds": 251,
+    "sample_gap_seconds": 3060,
+    "location_uncertain": true,
+    "previous_urine": 42.0,
+    "current_urine": 44.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 12.513678719455,
+      "longitude": 14.946014032171,
+      "timestamp": 1786884359,
+      "requested_timestamp": 1786884359,
+      "requested_time_utc": "2026-08-16T12:45:59+00:00",
+      "position_time_utc": "2026-08-16T12:45:59+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 420.11922108541,
+      "velocity": 27577.618442139,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Chad",
+      "region": "Country",
+      "country_id": "TCD",
+      "country_name": "Chad",
+      "country_topic": "country_TCD"
+    }
   }
 ]
