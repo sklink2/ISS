@@ -1,65 +1,5 @@
 [
   {
-    "time": "222/18:4:46",
-    "source_time_gmt": "222/18:4:46",
-    "source_time_utc": "2026-08-10T18:04:46+00:00",
-    "source_times_gmt": {
-      "urine": "222/18:4:46",
-      "waste": "222/18:4:40",
-      "clean": "222/18:4:40"
-    },
-    "urine": 62.0,
-    "waste": 66.87,
-    "clean": 48.5,
-    "captured_at_utc": "2026-08-10T18:05:10.204453+00:00",
-    "telemetry_age_seconds": 24
-  },
-  {
-    "time": "222/18:9:42",
-    "source_time_gmt": "222/18:9:42",
-    "source_time_utc": "2026-08-10T18:09:42+00:00",
-    "source_times_gmt": {
-      "urine": "222/18:9:42",
-      "waste": "222/18:9:59",
-      "clean": "222/18:9:59"
-    },
-    "urine": 62.0,
-    "waste": 66.95,
-    "clean": 48.51,
-    "captured_at_utc": "2026-08-10T18:10:09.918463+00:00",
-    "telemetry_age_seconds": 28
-  },
-  {
-    "time": "222/18:14:26",
-    "source_time_gmt": "222/18:14:26",
-    "source_time_utc": "2026-08-10T18:14:26+00:00",
-    "source_times_gmt": {
-      "urine": "222/18:14:26",
-      "waste": "222/18:14:59",
-      "clean": "222/18:14:59"
-    },
-    "urine": 62.0,
-    "waste": 67.01,
-    "clean": 48.51,
-    "captured_at_utc": "2026-08-10T18:15:09.433035+00:00",
-    "telemetry_age_seconds": 43
-  },
-  {
-    "time": "222/18:19:42",
-    "source_time_gmt": "222/18:19:42",
-    "source_time_utc": "2026-08-10T18:19:42+00:00",
-    "source_times_gmt": {
-      "urine": "222/18:19:42",
-      "waste": "222/18:19:59",
-      "clean": "222/18:19:59"
-    },
-    "urine": 62.0,
-    "waste": 67.06,
-    "clean": 48.5,
-    "captured_at_utc": "2026-08-10T18:20:10.055867+00:00",
-    "telemetry_age_seconds": 28
-  },
-  {
     "time": "222/18:24:56",
     "source_time_gmt": "222/18:24:56",
     "source_time_utc": "2026-08-10T18:24:56+00:00",
@@ -24673,5 +24613,20 @@
     "clean": 78.27,
     "captured_at_utc": "2026-08-17T18:00:10.621028+00:00",
     "telemetry_age_seconds": 70
+  },
+  {
+    "time": "229/18:15:34",
+    "source_time_gmt": "229/18:15:34",
+    "source_time_utc": "2026-08-17T18:15:34+00:00",
+    "source_times_gmt": {
+      "urine": "229/18:15:34",
+      "waste": "229/18:19:39",
+      "clean": "229/18:19:49"
+    },
+    "urine": 63.0,
+    "waste": 22.76,
+    "clean": 78.27,
+    "captured_at_utc": "2026-08-17T18:20:09.852607+00:00",
+    "telemetry_age_seconds": 276
   }
 ]
