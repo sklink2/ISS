@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-10T15:55:10.123150+00:00",
-    "source_time_gmt": "222/15:53:28",
-    "source_time_utc": "2026-08-10T15:53:28+00:00",
-    "telemetry_age_seconds": 102,
-    "sample_gap_seconds": 732,
-    "location_uncertain": false,
-    "previous_urine": 56.0,
-    "current_urine": 59.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": 14.950203912515,
-      "longitude": 0.84937877843515,
-      "timestamp": 1786377208,
-      "requested_timestamp": 1786377208,
-      "requested_time_utc": "2026-08-10T15:53:28+00:00",
-      "position_time_utc": "2026-08-10T15:53:28+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 421.54473868944,
-      "velocity": 27573.099264591,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Niger",
-      "region": "Country",
-      "country_id": "NER",
-      "country_name": "Niger",
-      "country_topic": "country_NER"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-10T17:45:10.029181+00:00",
     "source_time_gmt": "222/17:44:35",
     "source_time_utc": "2026-08-10T17:44:35+00:00",
