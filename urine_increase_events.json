@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-11T16:45:09.520608+00:00",
-    "source_time_gmt": "223/16:42:15",
-    "source_time_utc": "2026-08-11T16:42:15+00:00",
-    "telemetry_age_seconds": 175,
-    "sample_gap_seconds": 51343,
-    "location_uncertain": true,
-    "previous_urine": 48.0,
-    "current_urine": 53.0,
-    "change_amount": 5.0,
-    "iss_location": {
-      "latitude": 6.6553991430229,
-      "longitude": -10.619968198235,
-      "timestamp": 1786466535,
-      "requested_timestamp": 1786466535,
-      "requested_time_utc": "2026-08-11T16:42:15+00:00",
-      "position_time_utc": "2026-08-11T16:42:15+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 422.11315849107,
-      "velocity": 27568.234869311,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Liberia",
-      "region": "Country",
-      "country_id": "LBR",
-      "country_name": "Liberia",
-      "country_topic": "country_LBR"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-11T16:55:09.147164+00:00",
     "source_time_gmt": "223/16:54:36",
     "source_time_utc": "2026-08-11T16:54:36+00:00",
