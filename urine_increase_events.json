@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-11T02:00:09.626653+00:00",
-    "source_time_gmt": "223/1:57:22",
-    "source_time_utc": "2026-08-11T01:57:22+00:00",
-    "telemetry_age_seconds": 168,
-    "sample_gap_seconds": 253,
-    "location_uncertain": false,
-    "previous_urine": 36.0,
-    "current_urine": 53.0,
-    "change_amount": 17.0,
-    "iss_location": {
-      "latitude": -14.609239494691,
-      "longitude": 27.677525249061,
-      "timestamp": 1786413442,
-      "requested_timestamp": 1786413442,
-      "requested_time_utc": "2026-08-11T01:57:22+00:00",
-      "position_time_utc": "2026-08-11T01:57:22+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 419.22174790982,
-      "velocity": 27582.346633031,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Zambia",
-      "region": "Country",
-      "country_id": "ZMB",
-      "country_name": "Zambia",
-      "country_topic": "country_ZMB"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-11T16:45:09.520608+00:00",
     "source_time_gmt": "223/16:42:15",
     "source_time_utc": "2026-08-11T16:42:15+00:00",
