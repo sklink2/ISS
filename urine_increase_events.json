@@ -6763,5 +6763,38 @@
       "country_name": "Peru",
       "country_topic": "country_PER"
     }
+  },
+  {
+    "captured_at_utc": "2026-08-18T06:00:09.795578+00:00",
+    "source_time_gmt": "230/5:58:58",
+    "source_time_utc": "2026-08-18T05:58:58+00:00",
+    "telemetry_age_seconds": 72,
+    "sample_gap_seconds": 756,
+    "location_uncertain": false,
+    "previous_urine": 14.0,
+    "current_urine": 19.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 22.921093200706,
+      "longitude": -43.989852309583,
+      "timestamp": 1787032738,
+      "requested_timestamp": 1787032738,
+      "requested_time_utc": "2026-08-18T05:58:58+00:00",
+      "position_time_utc": "2026-08-18T05:58:58+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 414.32731886876,
+      "velocity": 27605.964427346,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
