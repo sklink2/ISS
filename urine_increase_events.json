@@ -7126,5 +7126,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-08-18T22:45:09.780452+00:00",
+    "source_time_gmt": "230/22:44:58",
+    "source_time_utc": "2026-08-18T22:44:58+00:00",
+    "telemetry_age_seconds": 12,
+    "sample_gap_seconds": 384,
+    "location_uncertain": false,
+    "previous_urine": 42.0,
+    "current_urine": 45.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -23.860990522054,
+      "longitude": 20.54135280329,
+      "timestamp": 1787093098,
+      "requested_timestamp": 1787093098,
+      "requested_time_utc": "2026-08-18T22:44:58+00:00",
+      "position_time_utc": "2026-08-18T22:44:58+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 425.14424913869,
+      "velocity": 27562.549147613,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Botswana",
+      "region": "Country",
+      "country_id": "BWA",
+      "country_name": "Botswana",
+      "country_topic": "country_BWA"
+    }
   }
 ]
