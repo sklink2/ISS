@@ -7159,5 +7159,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-08-18T14:05:09.718256+00:00",
+    "source_time_gmt": "230/14:2:28",
+    "source_time_utc": "2026-08-18T14:02:28+00:00",
+    "telemetry_age_seconds": 162,
+    "sample_gap_seconds": 3721,
+    "location_uncertain": true,
+    "previous_urine": 41.0,
+    "current_urine": 43.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 49.688626800929,
+      "longitude": -74.410148241521,
+      "timestamp": 1787061748,
+      "requested_timestamp": 1787061748,
+      "requested_time_utc": "2026-08-18T14:02:28+00:00",
+      "position_time_utc": "2026-08-18T14:02:28+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 420.08902563872,
+      "velocity": 27602.861129161,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Canada",
+      "region": "Country",
+      "country_id": "CAN",
+      "country_name": "Canada",
+      "country_topic": "country_CAN"
+    }
   }
 ]
