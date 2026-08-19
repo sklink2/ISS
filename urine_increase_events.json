@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-12T07:00:09.410767+00:00",
-    "source_time_gmt": "224/6:59:43",
-    "source_time_utc": "2026-08-12T06:59:43+00:00",
-    "telemetry_age_seconds": 26,
-    "sample_gap_seconds": 579,
-    "location_uncertain": false,
-    "previous_urine": 37.0,
-    "current_urine": 42.0,
-    "change_amount": 5.0,
-    "iss_location": {
-      "latitude": -49.389034422806,
-      "longitude": -156.59321212898,
-      "timestamp": 1786517983,
-      "requested_timestamp": 1786517983,
-      "requested_time_utc": "2026-08-12T06:59:43+00:00",
-      "position_time_utc": "2026-08-12T06:59:43+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 439.35248965396,
-      "velocity": 27524.877411917,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-08-12T07:20:09.274370+00:00",
     "source_time_gmt": "224/7:16:44",
     "source_time_utc": "2026-08-12T07:16:44+00:00",
@@ -6993,6 +6960,39 @@
       "country_id": "",
       "country_name": "",
       "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-08-19T07:00:09.892251+00:00",
+    "source_time_gmt": "231/6:59:24",
+    "source_time_utc": "2026-08-19T06:59:24+00:00",
+    "telemetry_age_seconds": 46,
+    "sample_gap_seconds": 299,
+    "location_uncertain": false,
+    "previous_urine": 6.0,
+    "current_urine": 10.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 51.603147970624,
+      "longitude": -1.3391152421654,
+      "timestamp": 1787122764,
+      "requested_timestamp": 1787122764,
+      "requested_time_utc": "2026-08-19T06:59:24+00:00",
+      "position_time_utc": "2026-08-19T06:59:24+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 419.49479155098,
+      "velocity": 27606.773052295,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "United Kingdom",
+      "region": "Country",
+      "country_id": "GBR",
+      "country_name": "United Kingdom",
+      "country_topic": "country_GBR"
     }
   }
 ]
