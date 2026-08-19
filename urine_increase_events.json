@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-12T02:05:10.055252+00:00",
-    "source_time_gmt": "224/2:2:48",
-    "source_time_utc": "2026-08-12T02:02:48+00:00",
-    "telemetry_age_seconds": 142,
-    "sample_gap_seconds": 373,
-    "location_uncertain": false,
-    "previous_urine": 44.0,
-    "current_urine": 46.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": -3.380995300224,
-      "longitude": -145.13274392989,
-      "timestamp": 1786500168,
-      "requested_timestamp": 1786500168,
-      "requested_time_utc": "2026-08-12T02:02:48+00:00",
-      "position_time_utc": "2026-08-12T02:02:48+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 423.86078176326,
-      "velocity": 27560.655730673,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-08-12T02:15:10.010443+00:00",
     "source_time_gmt": "224/2:15:7",
     "source_time_utc": "2026-08-12T02:15:07+00:00",
@@ -7158,6 +7125,39 @@
       "country_id": "",
       "country_name": "",
       "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-08-19T02:05:10.274507+00:00",
+    "source_time_gmt": "231/2:3:57",
+    "source_time_utc": "2026-08-19T02:03:57+00:00",
+    "telemetry_age_seconds": 73,
+    "sample_gap_seconds": 231,
+    "location_uncertain": false,
+    "previous_urine": 53.0,
+    "current_urine": 58.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 15.995268131331,
+      "longitude": 3.3948720360015,
+      "timestamp": 1787105037,
+      "requested_timestamp": 1787105037,
+      "requested_time_utc": "2026-08-19T02:03:57+00:00",
+      "position_time_utc": "2026-08-19T02:03:57+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 414.44999266982,
+      "velocity": 27601.808997037,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Mali",
+      "region": "Country",
+      "country_id": "MLI",
+      "country_name": "Mali",
+      "country_topic": "country_MLI"
     }
   }
 ]
