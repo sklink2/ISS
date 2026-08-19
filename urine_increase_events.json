@@ -7060,5 +7060,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-08-19T08:40:09.698486+00:00",
+    "source_time_gmt": "231/8:39:36",
+    "source_time_utc": "2026-08-19T08:39:36+00:00",
+    "telemetry_age_seconds": 34,
+    "sample_gap_seconds": 550,
+    "location_uncertain": false,
+    "previous_urine": 17.0,
+    "current_urine": 23.0,
+    "change_amount": 6.0,
+    "iss_location": {
+      "latitude": 45.743236671288,
+      "longitude": 15.915051301718,
+      "timestamp": 1787128776,
+      "requested_timestamp": 1787128776,
+      "requested_time_utc": "2026-08-19T08:39:36+00:00",
+      "position_time_utc": "2026-08-19T08:39:36+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 419.65537840485,
+      "velocity": 27601.320423859,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Croatia",
+      "region": "Country",
+      "country_id": "HRV",
+      "country_name": "Croatia",
+      "country_topic": "country_HRV"
+    }
   }
 ]
