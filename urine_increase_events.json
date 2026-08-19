@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-12T09:05:09.337704+00:00",
-    "source_time_gmt": "224/9:1:7",
-    "source_time_utc": "2026-08-12T09:01:07+00:00",
-    "telemetry_age_seconds": 242,
-    "sample_gap_seconds": 3558,
-    "location_uncertain": true,
-    "previous_urine": 47.0,
-    "current_urine": 49.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 4.2856205870756,
-      "longitude": -70.72064969858,
-      "timestamp": 1786525267,
-      "requested_timestamp": 1786525267,
-      "requested_time_utc": "2026-08-12T09:01:07+00:00",
-      "position_time_utc": "2026-08-12T09:01:07+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 414.50435023161,
-      "velocity": 27598.696750443,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Colombia",
-      "region": "Country",
-      "country_id": "COL",
-      "country_name": "Colombia",
-      "country_topic": "country_COL"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-12T09:15:09.769465+00:00",
     "source_time_gmt": "224/9:11:52",
     "source_time_utc": "2026-08-12T09:11:52+00:00",
