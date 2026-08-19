@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-12T14:30:09.352957+00:00",
-    "source_time_gmt": "224/14:30:3",
-    "source_time_utc": "2026-08-12T14:30:03+00:00",
-    "telemetry_age_seconds": 6,
-    "sample_gap_seconds": 666,
-    "location_uncertain": false,
-    "previous_urine": 11.0,
-    "current_urine": 69.0,
-    "change_amount": 58.0,
-    "iss_location": {
-      "latitude": -16.171747253019,
-      "longitude": 35.506309991595,
-      "timestamp": 1786545003,
-      "requested_timestamp": 1786545003,
-      "requested_time_utc": "2026-08-12T14:30:03+00:00",
-      "position_time_utc": "2026-08-12T14:30:03+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 427.42830540074,
-      "velocity": 27549.653958949,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Mozambique",
-      "region": "Country",
-      "country_id": "MOZ",
-      "country_name": "Mozambique",
-      "country_topic": "country_MOZ"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-12T15:25:09.634531+00:00",
     "source_time_gmt": "224/15:22:19",
     "source_time_utc": "2026-08-12T15:22:19+00:00",
