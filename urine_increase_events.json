@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-12T12:50:10.282001+00:00",
-    "source_time_gmt": "224/12:45:56",
-    "source_time_utc": "2026-08-12T12:45:56+00:00",
-    "telemetry_age_seconds": 254,
-    "sample_gap_seconds": 970,
-    "location_uncertain": true,
-    "previous_urine": 5.0,
-    "current_urine": 7.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 17.817922359693,
-      "longitude": 34.110391094767,
-      "timestamp": 1786538756,
-      "requested_timestamp": 1786538756,
-      "requested_time_utc": "2026-08-12T12:45:56+00:00",
-      "position_time_utc": "2026-08-12T12:45:56+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 420.89813281263,
-      "velocity": 27576.903861396,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Sudan",
-      "region": "Country",
-      "country_id": "SDN",
-      "country_name": "Sudan",
-      "country_topic": "country_SDN"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-12T13:40:10.516990+00:00",
     "source_time_gmt": "224/13:37:34",
     "source_time_utc": "2026-08-12T13:37:34+00:00",
