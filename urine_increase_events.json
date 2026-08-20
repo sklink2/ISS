@@ -7291,5 +7291,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-08-20T06:15:10.311347+00:00",
+    "source_time_gmt": "232/6:15:7",
+    "source_time_utc": "2026-08-20T06:15:07+00:00",
+    "telemetry_age_seconds": 3,
+    "sample_gap_seconds": 558,
+    "location_uncertain": false,
+    "previous_urine": 56.0,
+    "current_urine": 59.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 51.368980407612,
+      "longitude": 20.505168827658,
+      "timestamp": 1787206507,
+      "requested_timestamp": 1787206507,
+      "requested_time_utc": "2026-08-20T06:15:07+00:00",
+      "position_time_utc": "2026-08-20T06:15:07+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 419.60893105409,
+      "velocity": 27605.978438076,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Poland",
+      "region": "Country",
+      "country_id": "POL",
+      "country_name": "Poland",
+      "country_topic": "country_POL"
+    }
   }
 ]
