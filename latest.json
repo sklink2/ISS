@@ -4,12 +4,12 @@
   "source_time_utc": "2026-08-20T00:17:36+00:00",
   "source_times_gmt": {
     "urine": "232/0:17:36",
-    "waste": "232/1:49:59",
-    "clean": "232/1:49:49"
+    "waste": "232/1:54:59",
+    "clean": "232/1:54:59"
   },
   "urine": 36.0,
-  "waste": 30.92,
-  "clean": 61.8,
-  "captured_at_utc": "2026-08-20T01:50:10.599619+00:00",
-  "telemetry_age_seconds": 5555
+  "waste": 30.0,
+  "clean": 62.34,
+  "captured_at_utc": "2026-08-20T01:55:10.438534+00:00",
+  "telemetry_age_seconds": 5854
 }
