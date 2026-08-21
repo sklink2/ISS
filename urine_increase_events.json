@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-14T07:30:09.804737+00:00",
-    "source_time_gmt": "226/7:27:53",
-    "source_time_utc": "2026-08-14T07:27:53+00:00",
-    "telemetry_age_seconds": 137,
-    "sample_gap_seconds": 1010,
-    "location_uncertain": true,
-    "previous_urine": 29.0,
-    "current_urine": 32.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": 5.7475114375103,
-      "longitude": -57.739470262878,
-      "timestamp": 1786692473,
-      "requested_timestamp": 1786692473,
-      "requested_time_utc": "2026-08-14T07:27:53+00:00",
-      "position_time_utc": "2026-08-14T07:27:53+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 414.57351482848,
-      "velocity": 27598.538930572,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Guyana",
-      "region": "Country",
-      "country_id": "GUY",
-      "country_name": "Guyana",
-      "country_topic": "country_GUY"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-14T08:35:10.341849+00:00",
     "source_time_gmt": "226/8:32:31",
     "source_time_utc": "2026-08-14T08:32:31+00:00",
