@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-14T06:15:10.159323+00:00",
-    "source_time_gmt": "226/6:11:10",
-    "source_time_utc": "2026-08-14T06:11:10+00:00",
-    "telemetry_age_seconds": 240,
-    "sample_gap_seconds": 1520,
-    "location_uncertain": true,
-    "previous_urine": 20.0,
-    "current_urine": 22.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 47.652183668901,
-      "longitude": 16.950440600162,
-      "timestamp": 1786687870,
-      "requested_timestamp": 1786687870,
-      "requested_time_utc": "2026-08-14T06:11:10+00:00",
-      "position_time_utc": "2026-08-14T06:11:10+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 418.83219383265,
-      "velocity": 27606.604579012,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Hungary",
-      "region": "Country",
-      "country_id": "HUN",
-      "country_name": "Hungary",
-      "country_topic": "country_HUN"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-14T06:50:09.792191+00:00",
     "source_time_gmt": "226/6:48:8",
     "source_time_utc": "2026-08-14T06:48:08+00:00",
