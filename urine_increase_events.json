@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-18T06:30:10.141733+00:00",
-    "source_time_gmt": "230/6:29:51",
-    "source_time_utc": "2026-08-18T06:29:51+00:00",
-    "telemetry_age_seconds": 19,
-    "sample_gap_seconds": 1154,
-    "location_uncertain": true,
-    "previous_urine": 20.0,
-    "current_urine": 21.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 23.48315897876,
-      "longitude": 88.717990039118,
-      "timestamp": 1787034591,
-      "requested_timestamp": 1787034591,
-      "requested_time_utc": "2026-08-18T06:29:51+00:00",
-      "position_time_utc": "2026-08-18T06:29:51+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 418.91440283991,
-      "velocity": 27587.679552027,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Bangladesh",
-      "region": "Country",
-      "country_id": "BGD",
-      "country_name": "Bangladesh",
-      "country_topic": "country_BGD"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-18T06:50:09.107146+00:00",
     "source_time_gmt": "230/6:46:38",
     "source_time_utc": "2026-08-18T06:46:38+00:00",
