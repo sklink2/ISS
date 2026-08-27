@@ -3034,5 +3034,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-08-27T08:45:09.926451+00:00",
+    "source_time_gmt": "239/8:42:43",
+    "source_time_utc": "2026-08-27T08:42:43+00:00",
+    "telemetry_age_seconds": 147,
+    "sample_gap_seconds": 421,
+    "location_uncertain": false,
+    "previous_urine": 35.0,
+    "current_urine": 37.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 27.559728175923,
+      "longitude": -2.7415953239543,
+      "timestamp": 1787820163,
+      "requested_timestamp": 1787820163,
+      "requested_time_utc": "2026-08-27T08:42:43+00:00",
+      "position_time_utc": "2026-08-27T08:42:43+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 415.87973858811,
+      "velocity": 27601.586372834,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Algeria",
+      "region": "Country",
+      "country_id": "DZA",
+      "country_name": "Algeria",
+      "country_topic": "country_DZA"
+    }
   }
 ]
