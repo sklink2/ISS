@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-20T12:55:09.873858+00:00",
-    "source_time_gmt": "232/12:53:22",
-    "source_time_utc": "2026-08-20T12:53:22+00:00",
-    "telemetry_age_seconds": 108,
-    "sample_gap_seconds": 209,
-    "location_uncertain": false,
-    "previous_urine": 29.0,
-    "current_urine": 30.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -15.714523140694,
-      "longitude": 12.182806025358,
-      "timestamp": 1787230402,
-      "requested_timestamp": 1787230402,
-      "requested_time_utc": "2026-08-20T12:53:22+00:00",
-      "position_time_utc": "2026-08-20T12:53:22+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 425.7526582089,
-      "velocity": 27555.587381242,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Angola",
-      "region": "Country",
-      "country_id": "AGO",
-      "country_name": "Angola",
-      "country_topic": "country_AGO"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-20T13:10:10.522833+00:00",
     "source_time_gmt": "232/13:9:57",
     "source_time_utc": "2026-08-20T13:09:57+00:00",
