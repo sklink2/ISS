@@ -5410,5 +5410,38 @@
       "country_name": "Mexico",
       "country_topic": "country_MEX"
     }
+  },
+  {
+    "captured_at_utc": "2026-08-29T15:40:09.544747+00:00",
+    "source_time_gmt": "241/15:39:5",
+    "source_time_utc": "2026-08-29T15:39:05+00:00",
+    "telemetry_age_seconds": 65,
+    "sample_gap_seconds": 247,
+    "location_uncertain": false,
+    "previous_urine": 8.0,
+    "current_urine": 10.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -32.039429095811,
+      "longitude": 54.327181960036,
+      "timestamp": 1788017945,
+      "requested_timestamp": 1788017945,
+      "requested_time_utc": "2026-08-29T15:39:05+00:00",
+      "position_time_utc": "2026-08-29T15:39:05+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 431.79926467623,
+      "velocity": 27544.376695991,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
