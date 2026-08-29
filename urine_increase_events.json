@@ -5608,5 +5608,38 @@
       "country_name": "Argentina",
       "country_topic": "country_ARG"
     }
+  },
+  {
+    "captured_at_utc": "2026-08-29T17:15:09.457197+00:00",
+    "source_time_gmt": "241/17:11:5",
+    "source_time_utc": "2026-08-29T17:11:05+00:00",
+    "telemetry_age_seconds": 244,
+    "sample_gap_seconds": 1193,
+    "location_uncertain": true,
+    "previous_urine": 13.0,
+    "current_urine": 15.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -34.395578652265,
+      "longitude": 27.85244647915,
+      "timestamp": 1788023465,
+      "requested_timestamp": 1788023465,
+      "requested_time_utc": "2026-08-29T17:11:05+00:00",
+      "position_time_utc": "2026-08-29T17:11:05+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 432.89881512266,
+      "velocity": 27541.690066193,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
