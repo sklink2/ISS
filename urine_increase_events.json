@@ -6037,5 +6037,38 @@
       "country_name": "Spain",
       "country_topic": "country_ESP"
     }
+  },
+  {
+    "captured_at_utc": "2026-08-30T07:00:10.562218+00:00",
+    "source_time_gmt": "242/6:58:10",
+    "source_time_utc": "2026-08-30T06:58:10+00:00",
+    "telemetry_age_seconds": 121,
+    "sample_gap_seconds": 2458,
+    "location_uncertain": true,
+    "previous_urine": 36.0,
+    "current_urine": 38.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -50.880855166617,
+      "longitude": 134.79683140787,
+      "timestamp": 1788073090,
+      "requested_timestamp": 1788073090,
+      "requested_time_utc": "2026-08-30T06:58:10+00:00",
+      "position_time_utc": "2026-08-30T06:58:10+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 440.56655884417,
+      "velocity": 27523.901585773,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
