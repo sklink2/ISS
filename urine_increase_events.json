@@ -6004,5 +6004,38 @@
       "country_name": "United States of America",
       "country_topic": "country_USA"
     }
+  },
+  {
+    "captured_at_utc": "2026-08-30T06:20:10.346403+00:00",
+    "source_time_gmt": "242/6:17:12",
+    "source_time_utc": "2026-08-30T06:17:12+00:00",
+    "telemetry_age_seconds": 178,
+    "sample_gap_seconds": 166,
+    "location_uncertain": false,
+    "previous_urine": 35.0,
+    "current_urine": 36.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 42.669255865516,
+      "longitude": -5.8296503191403,
+      "timestamp": 1788070632,
+      "requested_timestamp": 1788070632,
+      "requested_time_utc": "2026-08-30T06:17:12+00:00",
+      "position_time_utc": "2026-08-30T06:17:12+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 420.81171377886,
+      "velocity": 27597.272636398,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Spain",
+      "region": "Country",
+      "country_id": "ESP",
+      "country_name": "Spain",
+      "country_topic": "country_ESP"
+    }
   }
 ]
