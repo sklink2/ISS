@@ -6862,5 +6862,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-08-31T05:45:09.987300+00:00",
+    "source_time_gmt": "243/5:44:9",
+    "source_time_utc": "2026-08-31T05:44:09+00:00",
+    "telemetry_age_seconds": 61,
+    "sample_gap_seconds": 3358,
+    "location_uncertain": true,
+    "previous_urine": 30.0,
+    "current_urine": 32.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 5.9271832984578,
+      "longitude": 38.472639741368,
+      "timestamp": 1788155049,
+      "requested_timestamp": 1788155049,
+      "requested_time_utc": "2026-08-31T05:44:09+00:00",
+      "position_time_utc": "2026-08-31T05:44:09+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 419.18024443305,
+      "velocity": 27582.553330104,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Ethiopia",
+      "region": "Country",
+      "country_id": "ETH",
+      "country_name": "Ethiopia",
+      "country_topic": "country_ETH"
+    }
   }
 ]
