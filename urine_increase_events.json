@@ -7423,5 +7423,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-08-31T12:35:10.414765+00:00",
+    "source_time_gmt": "243/12:33:16",
+    "source_time_utc": "2026-08-31T12:33:16+00:00",
+    "telemetry_age_seconds": 114,
+    "sample_gap_seconds": 192,
+    "location_uncertain": false,
+    "previous_urine": 51.0,
+    "current_urine": 52.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -32.257472032842,
+      "longitude": 89.405327573227,
+      "timestamp": 1788179596,
+      "requested_timestamp": 1788179596,
+      "requested_time_utc": "2026-08-31T12:33:16+00:00",
+      "position_time_utc": "2026-08-31T12:33:16+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 432.13331466187,
+      "velocity": 27543.146320463,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
