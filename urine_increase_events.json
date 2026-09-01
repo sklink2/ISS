@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-25T18:25:09.615960+00:00",
-    "source_time_gmt": "237/18:24:34",
-    "source_time_utc": "2026-08-25T18:24:34+00:00",
-    "telemetry_age_seconds": 36,
-    "sample_gap_seconds": 268,
-    "location_uncertain": false,
-    "previous_urine": 45.0,
-    "current_urine": 48.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": -40.023573534783,
-      "longitude": -73.081016052079,
-      "timestamp": 1787682274,
-      "requested_timestamp": 1787682274,
-      "requested_time_utc": "2026-08-25T18:24:34+00:00",
-      "position_time_utc": "2026-08-25T18:24:34+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 435.41874130602,
-      "velocity": 27531.903384644,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Chile",
-      "region": "Country",
-      "country_id": "CHL",
-      "country_name": "Chile",
-      "country_topic": "country_CHL"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-25T19:30:09.985634+00:00",
     "source_time_gmt": "237/19:28:53",
     "source_time_utc": "2026-08-25T19:28:53+00:00",
