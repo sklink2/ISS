@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-26T08:00:10.235217+00:00",
-    "source_time_gmt": "238/7:56:20",
-    "source_time_utc": "2026-08-26T07:56:20+00:00",
-    "telemetry_age_seconds": 230,
-    "sample_gap_seconds": 303,
-    "location_uncertain": false,
-    "previous_urine": 39.0,
-    "current_urine": 45.0,
-    "change_amount": 6.0,
-    "iss_location": {
-      "latitude": 29.151234985596,
-      "longitude": 13.196593249154,
-      "timestamp": 1787730980,
-      "requested_timestamp": 1787730980,
-      "requested_time_utc": "2026-08-26T07:56:20+00:00",
-      "position_time_utc": "2026-08-26T07:56:20+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 416.29524731237,
-      "velocity": 27601.108717923,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Libya",
-      "region": "Country",
-      "country_id": "LBY",
-      "country_name": "Libya",
-      "country_topic": "country_LBY"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-26T08:25:09.200628+00:00",
     "source_time_gmt": "238/8:20:58",
     "source_time_utc": "2026-08-26T08:20:58+00:00",
