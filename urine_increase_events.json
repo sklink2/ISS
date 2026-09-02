@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-26T01:00:09.049381+00:00",
-    "source_time_gmt": "238/0:56:42",
-    "source_time_utc": "2026-08-26T00:56:42+00:00",
-    "telemetry_age_seconds": 207,
-    "sample_gap_seconds": 265,
-    "location_uncertain": false,
-    "previous_urine": 30.0,
-    "current_urine": 31.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -33.999854095142,
-      "longitude": -66.191280117184,
-      "timestamp": 1787705802,
-      "requested_timestamp": 1787705802,
-      "requested_time_utc": "2026-08-26T00:56:42+00:00",
-      "position_time_utc": "2026-08-26T00:56:42+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 431.68527980451,
-      "velocity": 27542.244722942,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Argentina",
-      "region": "Country",
-      "country_id": "ARG",
-      "country_name": "Argentina",
-      "country_topic": "country_ARG"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-26T03:20:09.127029+00:00",
     "source_time_gmt": "238/3:17:21",
     "source_time_utc": "2026-08-26T03:17:21+00:00",
