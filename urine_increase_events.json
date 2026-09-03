@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-27T10:35:10.706109+00:00",
-    "source_time_gmt": "239/10:33:30",
-    "source_time_utc": "2026-08-27T10:33:30+00:00",
-    "telemetry_age_seconds": 101,
-    "sample_gap_seconds": 372,
-    "location_uncertain": false,
-    "previous_urine": 63.0,
-    "current_urine": 65.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": -25.790776635666,
-      "longitude": 15.726376245078,
-      "timestamp": 1787826810,
-      "requested_timestamp": 1787826810,
-      "requested_time_utc": "2026-08-27T10:33:30+00:00",
-      "position_time_utc": "2026-08-27T10:33:30+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 428.06054983712,
-      "velocity": 27550.952821072,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Namibia",
-      "region": "Country",
-      "country_id": "NAM",
-      "country_name": "Namibia",
-      "country_topic": "country_NAM"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-27T11:55:09.927098+00:00",
     "source_time_gmt": "239/11:53:32",
     "source_time_utc": "2026-08-27T11:53:32+00:00",
