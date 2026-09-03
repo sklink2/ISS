@@ -5905,5 +5905,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-09-03T12:45:10.414276+00:00",
+    "source_time_gmt": "246/12:44:44",
+    "source_time_utc": "2026-09-03T12:44:44+00:00",
+    "telemetry_age_seconds": 26,
+    "sample_gap_seconds": 1464,
+    "location_uncertain": true,
+    "previous_urine": 39.0,
+    "current_urine": 41.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -1.5134120986832,
+      "longitude": -80.322208707735,
+      "timestamp": 1788439484,
+      "requested_timestamp": 1788439484,
+      "requested_time_utc": "2026-09-03T12:44:44+00:00",
+      "position_time_utc": "2026-09-03T12:44:44+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 419.92498490388,
+      "velocity": 27579.074663774,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Ecuador",
+      "region": "Country",
+      "country_id": "ECU",
+      "country_name": "Ecuador",
+      "country_topic": "country_ECU"
+    }
   }
 ]
