@@ -5905,5 +5905,38 @@
       "country_name": "United States of America",
       "country_topic": "country_USA"
     }
+  },
+  {
+    "captured_at_utc": "2026-09-03T06:30:10.007146+00:00",
+    "source_time_gmt": "246/6:26:58",
+    "source_time_utc": "2026-09-03T06:26:58+00:00",
+    "telemetry_age_seconds": 192,
+    "sample_gap_seconds": 1396,
+    "location_uncertain": true,
+    "previous_urine": 12.0,
+    "current_urine": 14.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 17.149734301767,
+      "longitude": 0.422266876069,
+      "timestamp": 1788416818,
+      "requested_timestamp": 1788416818,
+      "requested_time_utc": "2026-09-03T06:26:58+00:00",
+      "position_time_utc": "2026-09-03T06:26:58+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 417.86064205385,
+      "velocity": 27591.552211031,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Mali",
+      "region": "Country",
+      "country_id": "MLI",
+      "country_name": "Mali",
+      "country_topic": "country_MLI"
+    }
   }
 ]
