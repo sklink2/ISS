@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-27T02:15:09.897376+00:00",
-    "source_time_gmt": "239/2:12:37",
-    "source_time_utc": "2026-08-27T02:12:37+00:00",
-    "telemetry_age_seconds": 153,
-    "sample_gap_seconds": 16641,
-    "location_uncertain": true,
-    "previous_urine": 16.0,
-    "current_urine": 18.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 48.207375555742,
-      "longitude": 2.3797228019527,
-      "timestamp": 1787796757,
-      "requested_timestamp": 1787796757,
-      "requested_time_utc": "2026-08-27T02:12:37+00:00",
-      "position_time_utc": "2026-08-27T02:12:37+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 418.00291818258,
-      "velocity": 27609.162933988,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "France",
-      "region": "Country",
-      "country_id": "FRA",
-      "country_name": "France",
-      "country_topic": "country_FRA"
-    }
-  },
-  {
     "captured_at_utc": "2026-08-27T06:00:09.148821+00:00",
     "source_time_gmt": "239/5:56:12",
     "source_time_utc": "2026-08-27T05:56:12+00:00",
