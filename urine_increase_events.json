@@ -5872,5 +5872,38 @@
       "country_name": "Ecuador",
       "country_topic": "country_ECU"
     }
+  },
+  {
+    "captured_at_utc": "2026-09-03T13:30:10.186246+00:00",
+    "source_time_gmt": "246/13:29:58",
+    "source_time_utc": "2026-09-03T13:29:58+00:00",
+    "telemetry_age_seconds": 12,
+    "sample_gap_seconds": 932,
+    "location_uncertain": true,
+    "previous_urine": 41.0,
+    "current_urine": 44.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -2.4527824873576,
+      "longitude": 85.058543472342,
+      "timestamp": 1788442198,
+      "requested_timestamp": 1788442198,
+      "requested_time_utc": "2026-09-03T13:29:58+00:00",
+      "position_time_utc": "2026-09-03T13:29:58+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 421.81558177461,
+      "velocity": 27571.459664288,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
