@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-08-27T07:10:10.198413+00:00",
-    "source_time_gmt": "239/7:8:26",
-    "source_time_utc": "2026-08-27T07:08:26+00:00",
-    "telemetry_age_seconds": 104,
-    "sample_gap_seconds": 589,
-    "location_uncertain": false,
-    "previous_urine": 26.0,
-    "current_urine": 27.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 31.443031307467,
-      "longitude": 16.703384592874,
-      "timestamp": 1787814506,
-      "requested_timestamp": 1787814506,
-      "requested_time_utc": "2026-08-27T07:08:26+00:00",
-      "position_time_utc": "2026-08-27T07:08:26+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 416.11529948709,
-      "velocity": 27603.380579207,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Atlantic Ocean",
-      "region": "Atlantic Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-08-27T07:30:10.406978+00:00",
     "source_time_gmt": "239/7:29:58",
     "source_time_utc": "2026-08-27T07:29:58+00:00",
@@ -5970,6 +5937,39 @@
       "country_id": "ZMB",
       "country_name": "Zambia",
       "country_topic": "country_ZMB"
+    }
+  },
+  {
+    "captured_at_utc": "2026-09-03T07:10:09.786358+00:00",
+    "source_time_gmt": "246/7:8:29",
+    "source_time_utc": "2026-09-03T07:08:29+00:00",
+    "telemetry_age_seconds": 101,
+    "sample_gap_seconds": 1799,
+    "location_uncertain": true,
+    "previous_urine": 17.0,
+    "current_urine": 20.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -31.337281714837,
+      "longitude": 155.28723285062,
+      "timestamp": 1788419309,
+      "requested_timestamp": 1788419309,
+      "requested_time_utc": "2026-09-03T07:08:29+00:00",
+      "position_time_utc": "2026-09-03T07:08:29+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 432.0157738249,
+      "velocity": 27542.800688844,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
