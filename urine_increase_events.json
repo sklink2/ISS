@@ -5872,5 +5872,38 @@
       "country_name": "Russia",
       "country_topic": "country_RUS"
     }
+  },
+  {
+    "captured_at_utc": "2026-09-03T22:00:09.771396+00:00",
+    "source_time_gmt": "246/21:59:55",
+    "source_time_utc": "2026-09-03T21:59:55+00:00",
+    "telemetry_age_seconds": 15,
+    "sample_gap_seconds": 370,
+    "location_uncertain": false,
+    "previous_urine": 55.0,
+    "current_urine": 56.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 5.3137705154293,
+      "longitude": 133.20248197183,
+      "timestamp": 1788472795,
+      "requested_timestamp": 1788472795,
+      "requested_time_utc": "2026-09-03T21:59:55+00:00",
+      "position_time_utc": "2026-09-03T21:59:55+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 418.60375336804,
+      "velocity": 27584.788012748,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
