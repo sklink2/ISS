@@ -6004,5 +6004,38 @@
       "country_name": "Morocco",
       "country_topic": "country_MAR"
     }
+  },
+  {
+    "captured_at_utc": "2026-09-04T06:00:09.529967+00:00",
+    "source_time_gmt": "247/5:58:33",
+    "source_time_utc": "2026-09-04T05:58:33+00:00",
+    "telemetry_age_seconds": 97,
+    "sample_gap_seconds": 1399,
+    "location_uncertain": true,
+    "previous_urine": 22.0,
+    "current_urine": 24.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -35.758373721442,
+      "longitude": 50.308550109828,
+      "timestamp": 1788501513,
+      "requested_timestamp": 1788501513,
+      "requested_time_utc": "2026-09-04T05:58:33+00:00",
+      "position_time_utc": "2026-09-04T05:58:33+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 432.69828613827,
+      "velocity": 27543.318459718,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
