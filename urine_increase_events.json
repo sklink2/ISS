@@ -2836,5 +2836,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-09-08T21:15:10.294739+00:00",
+    "source_time_gmt": "251/21:14:47",
+    "source_time_utc": "2026-09-08T21:14:47+00:00",
+    "telemetry_age_seconds": 23,
+    "sample_gap_seconds": 357,
+    "location_uncertain": false,
+    "previous_urine": 25.0,
+    "current_urine": 29.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": 0.86559674457338,
+      "longitude": 118.52231996071,
+      "timestamp": 1788902087,
+      "requested_timestamp": 1788902087,
+      "requested_time_utc": "2026-09-08T21:14:47+00:00",
+      "position_time_utc": "2026-09-08T21:14:47+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 418.37821975709,
+      "velocity": 27584.996200223,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indonesia",
+      "region": "Country",
+      "country_id": "IDN",
+      "country_name": "Indonesia",
+      "country_topic": "country_IDN"
+    }
   }
 ]
