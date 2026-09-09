@@ -3859,5 +3859,38 @@
       "country_name": "Nigeria",
       "country_topic": "country_NGA"
     }
+  },
+  {
+    "captured_at_utc": "2026-09-09T16:50:09.748748+00:00",
+    "source_time_gmt": "252/16:45:23",
+    "source_time_utc": "2026-09-09T16:45:23+00:00",
+    "telemetry_age_seconds": 287,
+    "sample_gap_seconds": 315,
+    "location_uncertain": false,
+    "previous_urine": 63.0,
+    "current_urine": 65.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 26.885662568392,
+      "longitude": 25.262152948366,
+      "timestamp": 1788972323,
+      "requested_timestamp": 1788972323,
+      "requested_time_utc": "2026-09-09T16:45:23+00:00",
+      "position_time_utc": "2026-09-09T16:45:23+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 419.8008313476,
+      "velocity": 27588.601463351,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Egypt",
+      "region": "Country",
+      "country_id": "EGY",
+      "country_name": "Egypt",
+      "country_topic": "country_EGY"
+    }
   }
 ]
