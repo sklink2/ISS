@@ -3397,5 +3397,38 @@
       "country_name": "Brazil",
       "country_topic": "country_BRA"
     }
+  },
+  {
+    "captured_at_utc": "2026-09-09T10:20:10.071701+00:00",
+    "source_time_gmt": "252/10:17:41",
+    "source_time_utc": "2026-09-09T10:17:41+00:00",
+    "telemetry_age_seconds": 149,
+    "sample_gap_seconds": 2064,
+    "location_uncertain": true,
+    "previous_urine": 30.0,
+    "current_urine": 32.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -21.26342780196,
+      "longitude": 82.415046438218,
+      "timestamp": 1788949061,
+      "requested_timestamp": 1788949061,
+      "requested_time_utc": "2026-09-09T10:17:41+00:00",
+      "position_time_utc": "2026-09-09T10:17:41+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 427.75525678576,
+      "velocity": 27552.931579141,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
