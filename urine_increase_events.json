@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-09-03T10:15:09.940799+00:00",
-    "source_time_gmt": "246/10:12:28",
-    "source_time_utc": "2026-09-03T10:12:28+00:00",
-    "telemetry_age_seconds": 162,
-    "sample_gap_seconds": 2936,
-    "location_uncertain": true,
-    "previous_urine": 25.0,
-    "current_urine": 27.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": -36.033462428608,
-      "longitude": 102.24059969054,
-      "timestamp": 1788430348,
-      "requested_timestamp": 1788430348,
-      "requested_time_utc": "2026-09-03T10:12:28+00:00",
-      "position_time_utc": "2026-09-03T10:12:28+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 434.09029831355,
-      "velocity": 27537.938923299,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Indian Ocean",
-      "region": "Indian Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-09-03T10:45:10.627523+00:00",
     "source_time_gmt": "246/10:43:24",
     "source_time_utc": "2026-09-03T10:43:24+00:00",
@@ -3858,6 +3825,39 @@
       "country_id": "",
       "country_name": "",
       "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-09-10T10:15:09.368328+00:00",
+    "source_time_gmt": "253/10:14:42",
+    "source_time_utc": "2026-09-10T10:14:42+00:00",
+    "telemetry_age_seconds": 27,
+    "sample_gap_seconds": 1937,
+    "location_uncertain": true,
+    "previous_urine": 34.0,
+    "current_urine": 37.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 29.239176792031,
+      "longitude": -111.07200251078,
+      "timestamp": 1789035282,
+      "requested_timestamp": 1789035282,
+      "requested_time_utc": "2026-09-10T10:14:42+00:00",
+      "position_time_utc": "2026-09-10T10:14:42+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 417.79450962754,
+      "velocity": 27598.232885409,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Mexico",
+      "region": "Country",
+      "country_id": "MEX",
+      "country_name": "Mexico",
+      "country_topic": "country_MEX"
     }
   }
 ]
