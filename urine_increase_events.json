@@ -3859,5 +3859,38 @@
       "country_name": "Argentina",
       "country_topic": "country_ARG"
     }
+  },
+  {
+    "captured_at_utc": "2026-09-11T18:20:10.103606+00:00",
+    "source_time_gmt": "254/18:16:59",
+    "source_time_utc": "2026-09-11T18:16:59+00:00",
+    "telemetry_age_seconds": 191,
+    "sample_gap_seconds": 414,
+    "location_uncertain": false,
+    "previous_urine": 39.0,
+    "current_urine": 40.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 23.683704045539,
+      "longitude": -13.21290838903,
+      "timestamp": 1789150619,
+      "requested_timestamp": 1789150619,
+      "requested_time_utc": "2026-09-11T18:16:59+00:00",
+      "position_time_utc": "2026-09-11T18:16:59+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 420.64984114736,
+      "velocity": 27583.111109105,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Western Sahara",
+      "region": "Country",
+      "country_id": "ESH",
+      "country_name": "Western Sahara",
+      "country_topic": "country_ESH"
+    }
   }
 ]
