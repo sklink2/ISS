@@ -3925,5 +3925,38 @@
       "country_name": "Vietnam",
       "country_topic": "country_VNM"
     }
+  },
+  {
+    "captured_at_utc": "2026-09-11T20:30:10.584560+00:00",
+    "source_time_gmt": "254/20:29:43",
+    "source_time_utc": "2026-09-11T20:29:43+00:00",
+    "telemetry_age_seconds": 28,
+    "sample_gap_seconds": 277,
+    "location_uncertain": false,
+    "previous_urine": 21.0,
+    "current_urine": 23.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -4.185854899994,
+      "longitude": 116.15714463414,
+      "timestamp": 1789158583,
+      "requested_timestamp": 1789158583,
+      "requested_time_utc": "2026-09-11T20:29:43+00:00",
+      "position_time_utc": "2026-09-11T20:29:43+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 418.80410524418,
+      "velocity": 27583.222823413,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
