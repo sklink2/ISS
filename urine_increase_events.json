@@ -4552,5 +4552,38 @@
       "country_name": "Angola",
       "country_topic": "country_AGO"
     }
+  },
+  {
+    "captured_at_utc": "2026-09-12T14:25:09.436350+00:00",
+    "source_time_gmt": "255/14:24:8",
+    "source_time_utc": "2026-09-12T14:24:08+00:00",
+    "telemetry_age_seconds": 61,
+    "sample_gap_seconds": 646,
+    "location_uncertain": false,
+    "previous_urine": 65.0,
+    "current_urine": 67.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 22.225483479857,
+      "longitude": 38.58882407514,
+      "timestamp": 1789223048,
+      "requested_timestamp": 1789223048,
+      "requested_time_utc": "2026-09-12T14:24:08+00:00",
+      "position_time_utc": "2026-09-12T14:24:08+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 420.70393988074,
+      "velocity": 27581.976070194,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
