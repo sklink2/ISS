@@ -4816,5 +4816,38 @@
       "country_name": "Ukraine",
       "country_topic": "country_UKR"
     }
+  },
+  {
+    "captured_at_utc": "2026-09-12T21:40:10.068765+00:00",
+    "source_time_gmt": "255/21:37:31",
+    "source_time_utc": "2026-09-12T21:37:31+00:00",
+    "telemetry_age_seconds": 159,
+    "sample_gap_seconds": 322,
+    "location_uncertain": false,
+    "previous_urine": 14.0,
+    "current_urine": 15.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -51.755786310113,
+      "longitude": 177.04076023658,
+      "timestamp": 1789249051,
+      "requested_timestamp": 1789249051,
+      "requested_time_utc": "2026-09-12T21:37:31+00:00",
+      "position_time_utc": "2026-09-12T21:37:31+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 439.49915703975,
+      "velocity": 27528.123845222,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
