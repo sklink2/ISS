@@ -5905,5 +5905,38 @@
       "country_name": "Poland",
       "country_topic": "country_POL"
     }
+  },
+  {
+    "captured_at_utc": "2026-09-13T20:25:09.762604+00:00",
+    "source_time_gmt": "256/20:22:47",
+    "source_time_utc": "2026-09-13T20:22:47+00:00",
+    "telemetry_age_seconds": 143,
+    "sample_gap_seconds": 184,
+    "location_uncertain": false,
+    "previous_urine": 58.0,
+    "current_urine": 59.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 16.220474697013,
+      "longitude": 89.506990082615,
+      "timestamp": 1789330967,
+      "requested_timestamp": 1789330967,
+      "requested_time_utc": "2026-09-13T20:22:47+00:00",
+      "position_time_utc": "2026-09-13T20:22:47+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 416.31250294681,
+      "velocity": 27596.642730108,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
