@@ -21013,5 +21013,20 @@
     "clean": 95.03,
     "captured_at_utc": "2026-09-14T01:55:10.757742+00:00",
     "telemetry_age_seconds": 2848
+  },
+  {
+    "time": "257/1:7:43",
+    "source_time_gmt": "257/1:7:43",
+    "source_time_utc": "2026-09-14T01:07:43+00:00",
+    "source_times_gmt": {
+      "urine": "257/1:7:43",
+      "waste": "257/1:59:49",
+      "clean": "257/1:59:59"
+    },
+    "urine": 9.0,
+    "waste": 31.32,
+    "clean": 95.01,
+    "captured_at_utc": "2026-09-14T02:00:09.856184+00:00",
+    "telemetry_age_seconds": 3147
   }
 ]
