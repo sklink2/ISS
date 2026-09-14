@@ -6664,5 +6664,38 @@
       "country_name": "Namibia",
       "country_topic": "country_NAM"
     }
+  },
+  {
+    "captured_at_utc": "2026-09-14T13:05:11.223904+00:00",
+    "source_time_gmt": "257/13:4:38",
+    "source_time_utc": "2026-09-14T13:04:38+00:00",
+    "telemetry_age_seconds": 33,
+    "sample_gap_seconds": 1647,
+    "location_uncertain": true,
+    "previous_urine": 46.0,
+    "current_urine": 47.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 51.014262813486,
+      "longitude": 104.74693504713,
+      "timestamp": 1789391078,
+      "requested_timestamp": 1789391078,
+      "requested_time_utc": "2026-09-14T13:04:38+00:00",
+      "position_time_utc": "2026-09-14T13:04:38+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 423.4949586421,
+      "velocity": 27592.317851945,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Russia",
+      "region": "Country",
+      "country_id": "RUS",
+      "country_name": "Russia",
+      "country_topic": "country_RUS"
+    }
   }
 ]
