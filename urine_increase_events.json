@@ -5971,5 +5971,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-09-14T01:05:09.489923+00:00",
+    "source_time_gmt": "257/1:4:48",
+    "source_time_utc": "2026-09-14T01:04:48+00:00",
+    "telemetry_age_seconds": 21,
+    "sample_gap_seconds": 497,
+    "location_uncertain": false,
+    "previous_urine": 6.0,
+    "current_urine": 7.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 6.1661027458432,
+      "longitude": 26.201392549274,
+      "timestamp": 1789347888,
+      "requested_timestamp": 1789347888,
+      "requested_time_utc": "2026-09-14T01:04:48+00:00",
+      "position_time_utc": "2026-09-14T01:04:48+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 416.71955780444,
+      "velocity": 27591.837999247,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Central African Republic",
+      "region": "Country",
+      "country_id": "CAF",
+      "country_name": "Central African Republic",
+      "country_topic": "country_CAF"
+    }
   }
 ]
