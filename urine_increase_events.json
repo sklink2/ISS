@@ -6631,5 +6631,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-09-14T12:40:10.130783+00:00",
+    "source_time_gmt": "257/12:37:11",
+    "source_time_utc": "2026-09-14T12:37:11+00:00",
+    "telemetry_age_seconds": 179,
+    "sample_gap_seconds": 223,
+    "location_uncertain": false,
+    "previous_urine": 44.0,
+    "current_urine": 46.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -19.340668405247,
+      "longitude": 19.090886542057,
+      "timestamp": 1789389431,
+      "requested_timestamp": 1789389431,
+      "requested_time_utc": "2026-09-14T12:37:11+00:00",
+      "position_time_utc": "2026-09-14T12:37:11+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 427.7403071306,
+      "velocity": 27551.728531528,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Namibia",
+      "region": "Country",
+      "country_id": "NAM",
+      "country_name": "Namibia",
+      "country_topic": "country_NAM"
+    }
   }
 ]
