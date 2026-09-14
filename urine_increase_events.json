@@ -6004,5 +6004,38 @@
       "country_name": "Central African Republic",
       "country_topic": "country_CAF"
     }
+  },
+  {
+    "captured_at_utc": "2026-09-14T01:10:10.212331+00:00",
+    "source_time_gmt": "257/1:7:43",
+    "source_time_utc": "2026-09-14T01:07:43+00:00",
+    "telemetry_age_seconds": 147,
+    "sample_gap_seconds": 175,
+    "location_uncertain": false,
+    "previous_urine": 7.0,
+    "current_urine": 9.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -2.7495404805462,
+      "longitude": 32.506472511532,
+      "timestamp": 1789348063,
+      "requested_timestamp": 1789348063,
+      "requested_time_utc": "2026-09-14T01:07:43+00:00",
+      "position_time_utc": "2026-09-14T01:07:43+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 418.12912167054,
+      "velocity": 27585.679820209,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "United Republic of Tanzania",
+      "region": "Country",
+      "country_id": "TZA",
+      "country_name": "United Republic of Tanzania",
+      "country_topic": "country_TZA"
+    }
   }
 ]
