@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-09-09T18:00:09.803581+00:00",
-    "source_time_gmt": "252/17:56:20",
-    "source_time_utc": "2026-09-09T17:56:20+00:00",
-    "telemetry_age_seconds": 230,
-    "sample_gap_seconds": 4257,
-    "location_uncertain": true,
-    "previous_urine": 65.0,
-    "current_urine": 67.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": -37.053059446786,
-      "longitude": -52.770211779992,
-      "timestamp": 1788976580,
-      "requested_timestamp": 1788976580,
-      "requested_time_utc": "2026-09-09T17:56:20+00:00",
-      "position_time_utc": "2026-09-09T17:56:20+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 434.35719622663,
-      "velocity": 27537.044996697,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Atlantic Ocean",
-      "region": "Atlantic Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-09-09T19:00:09.633681+00:00",
     "source_time_gmt": "252/18:59:28",
     "source_time_utc": "2026-09-09T18:59:28+00:00",
