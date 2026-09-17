@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-09-10T10:15:09.368328+00:00",
-    "source_time_gmt": "253/10:14:42",
-    "source_time_utc": "2026-09-10T10:14:42+00:00",
-    "telemetry_age_seconds": 27,
-    "sample_gap_seconds": 1937,
-    "location_uncertain": true,
-    "previous_urine": 34.0,
-    "current_urine": 37.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": 29.239176792031,
-      "longitude": -111.07200251078,
-      "timestamp": 1789035282,
-      "requested_timestamp": 1789035282,
-      "requested_time_utc": "2026-09-10T10:14:42+00:00",
-      "position_time_utc": "2026-09-10T10:14:42+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 417.79450962754,
-      "velocity": 27598.232885409,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Mexico",
-      "region": "Country",
-      "country_id": "MEX",
-      "country_name": "Mexico",
-      "country_topic": "country_MEX"
-    }
-  },
-  {
     "captured_at_utc": "2026-09-10T10:20:10.542991+00:00",
     "source_time_gmt": "253/10:20:7",
     "source_time_utc": "2026-09-10T10:20:07+00:00",
