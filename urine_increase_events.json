@@ -2011,5 +2011,38 @@
       "country_name": "Libya",
       "country_topic": "country_LBY"
     }
+  },
+  {
+    "captured_at_utc": "2026-10-20T10:30:10.824035+00:00",
+    "source_time_gmt": "293/10:25:49",
+    "source_time_utc": "2026-10-20T10:25:49+00:00",
+    "telemetry_age_seconds": 262,
+    "sample_gap_seconds": 421,
+    "location_uncertain": false,
+    "previous_urine": 18.0,
+    "current_urine": 21.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 1.7424635736249,
+      "longitude": 33.570662220904,
+      "timestamp": 1792491949,
+      "requested_timestamp": 1792491949,
+      "requested_time_utc": "2026-10-20T10:25:49+00:00",
+      "position_time_utc": "2026-10-20T10:25:49+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 421.82349303673,
+      "velocity": 27571.531351777,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Uganda",
+      "region": "Country",
+      "country_id": "UGA",
+      "country_name": "Uganda",
+      "country_topic": "country_UGA"
+    }
   }
 ]
