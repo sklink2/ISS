@@ -2605,5 +2605,38 @@
       "country_name": "Australia",
       "country_topic": "country_AUS"
     }
+  },
+  {
+    "captured_at_utc": "2026-10-22T05:30:11.316458+00:00",
+    "source_time_gmt": "295/5:25:46",
+    "source_time_utc": "2026-10-22T05:25:46+00:00",
+    "telemetry_age_seconds": 265,
+    "sample_gap_seconds": 3965,
+    "location_uncertain": true,
+    "previous_urine": 9.0,
+    "current_urine": 10.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 51.506242453986,
+      "longitude": 17.455848614117,
+      "timestamp": 1792646746,
+      "requested_timestamp": 1792646746,
+      "requested_time_utc": "2026-10-22T05:25:46+00:00",
+      "position_time_utc": "2026-10-22T05:25:46+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 430.0208862704,
+      "velocity": 27566.978641984,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Poland",
+      "region": "Country",
+      "country_id": "POL",
+      "country_name": "Poland",
+      "country_topic": "country_POL"
+    }
   }
 ]
