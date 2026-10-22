@@ -2935,5 +2935,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-10-22T22:15:10.195996+00:00",
+    "source_time_gmt": "295/22:12:18",
+    "source_time_utc": "2026-10-22T22:12:18+00:00",
+    "telemetry_age_seconds": 172,
+    "sample_gap_seconds": 146,
+    "location_uncertain": false,
+    "previous_urine": 19.0,
+    "current_urine": 21.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 27.161079137204,
+      "longitude": 47.365708170345,
+      "timestamp": 1792707138,
+      "requested_timestamp": 1792707138,
+      "requested_time_utc": "2026-10-22T22:12:18+00:00",
+      "position_time_utc": "2026-10-22T22:12:18+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 421.46144958138,
+      "velocity": 27582.491250905,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Saudi Arabia",
+      "region": "Country",
+      "country_id": "SAU",
+      "country_name": "Saudi Arabia",
+      "country_topic": "country_SAU"
+    }
   }
 ]
