@@ -2869,5 +2869,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-10-22T12:00:10.779120+00:00",
+    "source_time_gmt": "295/11:57:9",
+    "source_time_utc": "2026-10-22T11:57:09+00:00",
+    "telemetry_age_seconds": 182,
+    "sample_gap_seconds": 3551,
+    "location_uncertain": true,
+    "previous_urine": 20.0,
+    "current_urine": 22.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 6.5357239107461,
+      "longitude": -5.3093259071714,
+      "timestamp": 1792670229,
+      "requested_timestamp": 1792670229,
+      "requested_time_utc": "2026-10-22T11:57:09+00:00",
+      "position_time_utc": "2026-10-22T11:57:09+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 422.30605132894,
+      "velocity": 27569.900684617,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Ivory Coast",
+      "region": "Country",
+      "country_id": "CIV",
+      "country_name": "Ivory Coast",
+      "country_topic": "country_CIV"
+    }
   }
 ]
