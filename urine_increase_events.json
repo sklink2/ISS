@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-10-16T23:40:10.115653+00:00",
-    "source_time_gmt": "289/23:35:12",
-    "source_time_utc": "2026-10-16T23:35:12+00:00",
-    "telemetry_age_seconds": 298,
-    "sample_gap_seconds": 6,
-    "location_uncertain": false,
-    "previous_urine": 49.0,
-    "current_urine": 50.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -2.2137916403165,
-      "longitude": 36.328655464557,
-      "timestamp": 1792193712,
-      "requested_timestamp": 1792193712,
-      "requested_time_utc": "2026-10-16T23:35:12+00:00",
-      "position_time_utc": "2026-10-16T23:35:12+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 420.78625493149,
-      "velocity": 27576.129655478,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Kenya",
-      "region": "Country",
-      "country_id": "KEN",
-      "country_name": "Kenya",
-      "country_topic": "country_KEN"
-    }
-  },
-  {
     "captured_at_utc": "2026-10-17T02:45:10.472368+00:00",
     "source_time_gmt": "290/2:43:16",
     "source_time_utc": "2026-10-17T02:43:16+00:00",
