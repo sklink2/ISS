@@ -2935,5 +2935,38 @@
       "country_name": "Chile",
       "country_topic": "country_CHL"
     }
+  },
+  {
+    "captured_at_utc": "2026-10-23T00:10:10.606426+00:00",
+    "source_time_gmt": "296/0:8:28",
+    "source_time_utc": "2026-10-23T00:08:28+00:00",
+    "telemetry_age_seconds": 103,
+    "sample_gap_seconds": 245,
+    "location_uncertain": false,
+    "previous_urine": 5.0,
+    "current_urine": 8.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 39.764255135413,
+      "longitude": 133.09578574206,
+      "timestamp": 1792714108,
+      "requested_timestamp": 1792714108,
+      "requested_time_utc": "2026-10-23T00:08:28+00:00",
+      "position_time_utc": "2026-10-23T00:08:28+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 427.53798211563,
+      "velocity": 27567.319094811,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
