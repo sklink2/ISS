@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-10-16T08:45:10.904051+00:00",
-    "source_time_gmt": "289/8:42:3",
-    "source_time_utc": "2026-10-16T08:42:03+00:00",
-    "telemetry_age_seconds": 188,
-    "sample_gap_seconds": 2249,
-    "location_uncertain": true,
-    "previous_urine": 30.0,
-    "current_urine": 32.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 32.84367193902,
-      "longitude": 54.495770375886,
-      "timestamp": 1792140123,
-      "requested_timestamp": 1792140123,
-      "requested_time_utc": "2026-10-16T08:42:03+00:00",
-      "position_time_utc": "2026-10-16T08:42:03+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 425.03656441656,
-      "velocity": 27572.743388043,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Iran",
-      "region": "Country",
-      "country_id": "IRN",
-      "country_name": "Iran",
-      "country_topic": "country_IRN"
-    }
-  },
-  {
     "captured_at_utc": "2026-10-16T09:30:10.018698+00:00",
     "source_time_gmt": "289/9:28:23",
     "source_time_utc": "2026-10-16T09:28:23+00:00",
