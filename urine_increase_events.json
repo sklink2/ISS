@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-10-17T19:50:11.098330+00:00",
-    "source_time_gmt": "290/19:49:52",
-    "source_time_utc": "2026-10-17T19:49:52+00:00",
-    "telemetry_age_seconds": 19,
-    "sample_gap_seconds": 467,
-    "location_uncertain": false,
-    "previous_urine": 17.0,
-    "current_urine": 18.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 18.587751732224,
-      "longitude": 104.75606687848,
-      "timestamp": 1792266592,
-      "requested_timestamp": 1792266592,
-      "requested_time_utc": "2026-10-17T19:49:52+00:00",
-      "position_time_utc": "2026-10-17T19:49:52+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 421.53042103867,
-      "velocity": 27577.700303904,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Laos",
-      "region": "Country",
-      "country_id": "LAO",
-      "country_name": "Laos",
-      "country_topic": "country_LAO"
-    }
-  },
-  {
     "captured_at_utc": "2026-10-17T20:55:10.035733+00:00",
     "source_time_gmt": "290/20:54:15",
     "source_time_utc": "2026-10-17T20:54:15+00:00",
