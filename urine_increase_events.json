@@ -2341,5 +2341,38 @@
       "country_name": "Nigeria",
       "country_topic": "country_NGA"
     }
+  },
+  {
+    "captured_at_utc": "2026-10-25T09:50:10.210235+00:00",
+    "source_time_gmt": "298/9:47:58",
+    "source_time_utc": "2026-10-25T09:47:58+00:00",
+    "telemetry_age_seconds": 132,
+    "sample_gap_seconds": 699,
+    "location_uncertain": false,
+    "previous_urine": 16.0,
+    "current_urine": 19.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -24.380265599572,
+      "longitude": 35.797492211365,
+      "timestamp": 1792921678,
+      "requested_timestamp": 1792921678,
+      "requested_time_utc": "2026-10-25T09:47:58+00:00",
+      "position_time_utc": "2026-10-25T09:47:58+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 426.86248119454,
+      "velocity": 27558.531035745,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
