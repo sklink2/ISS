@@ -3859,5 +3859,38 @@
       "country_name": "Kazakhstan",
       "country_topic": "country_KAZ"
     }
+  },
+  {
+    "captured_at_utc": "2026-10-26T23:05:10.749151+00:00",
+    "source_time_gmt": "299/23:4:13",
+    "source_time_utc": "2026-10-26T23:04:13+00:00",
+    "telemetry_age_seconds": 58,
+    "sample_gap_seconds": 2391,
+    "location_uncertain": true,
+    "previous_urine": 63.0,
+    "current_urine": 64.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -41.562579098181,
+      "longitude": -149.11369627969,
+      "timestamp": 1793055853,
+      "requested_timestamp": 1793055853,
+      "requested_time_utc": "2026-10-26T23:04:13+00:00",
+      "position_time_utc": "2026-10-26T23:04:13+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 431.9494906171,
+      "velocity": 27550.507534664,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
