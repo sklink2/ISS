@@ -3826,5 +3826,38 @@
       "country_name": "Libya",
       "country_topic": "country_LBY"
     }
+  },
+  {
+    "captured_at_utc": "2026-10-26T22:25:10.021135+00:00",
+    "source_time_gmt": "299/22:24:22",
+    "source_time_utc": "2026-10-26T22:24:22+00:00",
+    "telemetry_age_seconds": 48,
+    "sample_gap_seconds": 718,
+    "location_uncertain": false,
+    "previous_urine": 62.0,
+    "current_urine": 63.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 51.275493713767,
+      "longitude": 75.785239012323,
+      "timestamp": 1793053462,
+      "requested_timestamp": 1793053462,
+      "requested_time_utc": "2026-10-26T22:24:22+00:00",
+      "position_time_utc": "2026-10-26T22:24:22+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 428.37540657917,
+      "velocity": 27572.969113748,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Kazakhstan",
+      "region": "Country",
+      "country_id": "KAZ",
+      "country_name": "Kazakhstan",
+      "country_topic": "country_KAZ"
+    }
   }
 ]
