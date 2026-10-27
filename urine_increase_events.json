@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-10-20T10:30:10.824035+00:00",
-    "source_time_gmt": "293/10:25:49",
-    "source_time_utc": "2026-10-20T10:25:49+00:00",
-    "telemetry_age_seconds": 262,
-    "sample_gap_seconds": 421,
-    "location_uncertain": false,
-    "previous_urine": 18.0,
-    "current_urine": 21.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": 1.7424635736249,
-      "longitude": 33.570662220904,
-      "timestamp": 1792491949,
-      "requested_timestamp": 1792491949,
-      "requested_time_utc": "2026-10-20T10:25:49+00:00",
-      "position_time_utc": "2026-10-20T10:25:49+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 421.82349303673,
-      "velocity": 27571.531351777,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Uganda",
-      "region": "Country",
-      "country_id": "UGA",
-      "country_name": "Uganda",
-      "country_topic": "country_UGA"
-    }
-  },
-  {
     "captured_at_utc": "2026-10-20T10:35:10.972878+00:00",
     "source_time_gmt": "293/10:32:34",
     "source_time_utc": "2026-10-20T10:32:34+00:00",
@@ -3990,6 +3957,39 @@
       "country_id": "AUS",
       "country_name": "Australia",
       "country_topic": "country_AUS"
+    }
+  },
+  {
+    "captured_at_utc": "2026-10-27T10:30:10.635272+00:00",
+    "source_time_gmt": "300/10:30:6",
+    "source_time_utc": "2026-10-27T10:30:06+00:00",
+    "telemetry_age_seconds": 5,
+    "sample_gap_seconds": 318,
+    "location_uncertain": false,
+    "previous_urine": 49.0,
+    "current_urine": 50.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 12.133300657891,
+      "longitude": -177.9337132263,
+      "timestamp": 1793097006,
+      "requested_timestamp": 1793097006,
+      "requested_time_utc": "2026-10-27T10:30:06+00:00",
+      "position_time_utc": "2026-10-27T10:30:06+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 417.03898398141,
+      "velocity": 27592.263071449,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
