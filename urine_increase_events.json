@@ -4024,5 +4024,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-10-27T19:40:10.316354+00:00",
+    "source_time_gmt": "300/19:39:56",
+    "source_time_utc": "2026-10-27T19:39:56+00:00",
+    "telemetry_age_seconds": 14,
+    "sample_gap_seconds": 2261,
+    "location_uncertain": true,
+    "previous_urine": 14.0,
+    "current_urine": 15.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -10.866888834768,
+      "longitude": 23.905525501566,
+      "timestamp": 1793129996,
+      "requested_timestamp": 1793129996,
+      "requested_time_utc": "2026-10-27T19:39:56+00:00",
+      "position_time_utc": "2026-10-27T19:39:56+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 418.08476962059,
+      "velocity": 27587.579784691,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Democratic Republic of the Congo",
+      "region": "Country",
+      "country_id": "COD",
+      "country_name": "Democratic Republic of the Congo",
+      "country_topic": "country_COD"
+    }
   }
 ]
