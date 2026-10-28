@@ -4321,5 +4321,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-10-28T11:05:10.954653+00:00",
+    "source_time_gmt": "301/11:4:57",
+    "source_time_utc": "2026-10-28T11:04:57+00:00",
+    "telemetry_age_seconds": 14,
+    "sample_gap_seconds": 1314,
+    "location_uncertain": true,
+    "previous_urine": 49.0,
+    "current_urine": 51.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -22.579164510752,
+      "longitude": 138.42487148498,
+      "timestamp": 1793185497,
+      "requested_timestamp": 1793185497,
+      "requested_time_utc": "2026-10-28T11:04:57+00:00",
+      "position_time_utc": "2026-10-28T11:04:57+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 420.9741525374,
+      "velocity": 27581.094739918,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Australia",
+      "region": "Country",
+      "country_id": "AUS",
+      "country_name": "Australia",
+      "country_topic": "country_AUS"
+    }
   }
 ]
