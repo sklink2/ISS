@@ -4948,5 +4948,38 @@
       "country_name": "Libya",
       "country_topic": "country_LBY"
     }
+  },
+  {
+    "captured_at_utc": "2026-10-29T06:30:10.633114+00:00",
+    "source_time_gmt": "302/6:29:7",
+    "source_time_utc": "2026-10-29T06:29:07+00:00",
+    "telemetry_age_seconds": 64,
+    "sample_gap_seconds": 316,
+    "location_uncertain": false,
+    "previous_urine": 16.0,
+    "current_urine": 19.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 13.742126183302,
+      "longitude": 30.592831108394,
+      "timestamp": 1793255347,
+      "requested_timestamp": 1793255347,
+      "requested_time_utc": "2026-10-29T06:29:07+00:00",
+      "position_time_utc": "2026-10-29T06:29:07+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 423.84593759622,
+      "velocity": 27565.10901136,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Sudan",
+      "region": "Country",
+      "country_id": "SDN",
+      "country_name": "Sudan",
+      "country_topic": "country_SDN"
+    }
   }
 ]
