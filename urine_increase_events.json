@@ -4651,5 +4651,38 @@
       "country_name": "China",
       "country_topic": "country_CHN"
     }
+  },
+  {
+    "captured_at_utc": "2026-10-29T22:55:10.512722+00:00",
+    "source_time_gmt": "302/22:54:50",
+    "source_time_utc": "2026-10-29T22:54:50+00:00",
+    "telemetry_age_seconds": 21,
+    "sample_gap_seconds": 9825,
+    "location_uncertain": true,
+    "previous_urine": 30.0,
+    "current_urine": 35.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 17.43715626422,
+      "longitude": -14.483094554062,
+      "timestamp": 1793314490,
+      "requested_timestamp": 1793314490,
+      "requested_time_utc": "2026-10-29T22:54:50+00:00",
+      "position_time_utc": "2026-10-29T22:54:50+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 416.86718353856,
+      "velocity": 27594.941661359,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Mauritania",
+      "region": "Country",
+      "country_id": "MRT",
+      "country_name": "Mauritania",
+      "country_topic": "country_MRT"
+    }
   }
 ]
