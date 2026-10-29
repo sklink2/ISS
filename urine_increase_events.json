@@ -4948,5 +4948,38 @@
       "country_name": "Sudan",
       "country_topic": "country_SDN"
     }
+  },
+  {
+    "captured_at_utc": "2026-10-29T06:50:10.401529+00:00",
+    "source_time_gmt": "302/6:48:43",
+    "source_time_utc": "2026-10-29T06:48:43+00:00",
+    "telemetry_age_seconds": 87,
+    "sample_gap_seconds": 288,
+    "location_uncertain": false,
+    "previous_urine": 19.0,
+    "current_urine": 20.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -42.025892219442,
+      "longitude": 81.904006731147,
+      "timestamp": 1793256523,
+      "requested_timestamp": 1793256523,
+      "requested_time_utc": "2026-10-29T06:48:43+00:00",
+      "position_time_utc": "2026-10-29T06:48:43+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 432.73612626533,
+      "velocity": 27547.548308607,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
