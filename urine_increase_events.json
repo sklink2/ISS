@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-10-22T23:15:10.715835+00:00",
-    "source_time_gmt": "295/23:14:20",
-    "source_time_utc": "2026-10-22T23:14:20+00:00",
-    "telemetry_age_seconds": 51,
-    "sample_gap_seconds": 453,
-    "location_uncertain": false,
-    "previous_urine": 11.0,
-    "current_urine": 15.0,
-    "change_amount": 4.0,
-    "iss_location": {
-      "latitude": -51.424859857097,
-      "longitude": -72.995078650442,
-      "timestamp": 1792710860,
-      "requested_timestamp": 1792710860,
-      "requested_time_utc": "2026-10-22T23:14:20+00:00",
-      "position_time_utc": "2026-10-22T23:14:20+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 432.98004023695,
-      "velocity": 27554.806646988,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Chile",
-      "region": "Country",
-      "country_id": "CHL",
-      "country_name": "Chile",
-      "country_topic": "country_CHL"
-    }
-  },
-  {
     "captured_at_utc": "2026-10-23T00:10:10.606426+00:00",
     "source_time_gmt": "296/0:8:28",
     "source_time_utc": "2026-10-23T00:08:28+00:00",
@@ -4716,6 +4683,39 @@
       "country_id": "ROU",
       "country_name": "Romania",
       "country_topic": "country_ROU"
+    }
+  },
+  {
+    "captured_at_utc": "2026-10-29T23:15:10.664529+00:00",
+    "source_time_gmt": "302/23:11:58",
+    "source_time_utc": "2026-10-29T23:11:58+00:00",
+    "telemetry_age_seconds": 193,
+    "sample_gap_seconds": 314,
+    "location_uncertain": false,
+    "previous_urine": 37.0,
+    "current_urine": 40.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 51.773757093385,
+      "longitude": 54.953928315205,
+      "timestamp": 1793315518,
+      "requested_timestamp": 1793315518,
+      "requested_time_utc": "2026-10-29T23:11:58+00:00",
+      "position_time_utc": "2026-10-29T23:11:58+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 428.01889421642,
+      "velocity": 27574.618060309,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Russia",
+      "region": "Country",
+      "country_id": "RUS",
+      "country_name": "Russia",
+      "country_topic": "country_RUS"
     }
   }
 ]
