@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-10-22T14:10:10.804255+00:00",
-    "source_time_gmt": "295/14:9:33",
-    "source_time_utc": "2026-10-22T14:09:33+00:00",
-    "telemetry_age_seconds": 38,
-    "sample_gap_seconds": 5475,
-    "location_uncertain": true,
-    "previous_urine": 25.0,
-    "current_urine": 30.0,
-    "change_amount": 5.0,
-    "iss_location": {
-      "latitude": -27.092212703718,
-      "longitude": 122.4711655383,
-      "timestamp": 1792678173,
-      "requested_timestamp": 1792678173,
-      "requested_time_utc": "2026-10-22T14:09:33+00:00",
-      "position_time_utc": "2026-10-22T14:09:33+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 423.53540645771,
-      "velocity": 27574.069531351,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Australia",
-      "region": "Country",
-      "country_id": "AUS",
-      "country_name": "Australia",
-      "country_topic": "country_AUS"
-    }
-  },
-  {
     "captured_at_utc": "2026-10-22T14:20:10.917924+00:00",
     "source_time_gmt": "295/14:19:15",
     "source_time_utc": "2026-10-22T14:19:15+00:00",
