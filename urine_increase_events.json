@@ -5113,5 +5113,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-10-31T01:10:11.174649+00:00",
+    "source_time_gmt": "304/1:9:40",
+    "source_time_utc": "2026-10-31T01:09:40+00:00",
+    "telemetry_age_seconds": 31,
+    "sample_gap_seconds": 293,
+    "location_uncertain": false,
+    "previous_urine": 18.0,
+    "current_urine": 40.0,
+    "change_amount": 22.0,
+    "iss_location": {
+      "latitude": 4.1962054571244,
+      "longitude": -65.685652701079,
+      "timestamp": 1793408980,
+      "requested_timestamp": 1793408980,
+      "requested_time_utc": "2026-10-31T01:09:40+00:00",
+      "position_time_utc": "2026-10-31T01:09:40+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 415.70544290067,
+      "velocity": 27595.59390229,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Venezuela",
+      "region": "Country",
+      "country_id": "VEN",
+      "country_name": "Venezuela",
+      "country_topic": "country_VEN"
+    }
   }
 ]
