@@ -4354,5 +4354,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-11-06T22:50:10.769602+00:00",
+    "source_time_gmt": "310/22:45:33",
+    "source_time_utc": "2026-11-06T22:45:33+00:00",
+    "telemetry_age_seconds": 278,
+    "sample_gap_seconds": 247,
+    "location_uncertain": false,
+    "previous_urine": 37.0,
+    "current_urine": 38.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -6.6924803886689,
+      "longitude": -79.214358890369,
+      "timestamp": 1794005133,
+      "requested_timestamp": 1794005133,
+      "requested_time_utc": "2026-11-06T22:45:33+00:00",
+      "position_time_utc": "2026-11-06T22:45:33+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 416.018723583,
+      "velocity": 27594.166475128,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Peru",
+      "region": "Country",
+      "country_id": "PER",
+      "country_name": "Peru",
+      "country_topic": "country_PER"
+    }
   }
 ]
