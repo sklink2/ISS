@@ -4321,5 +4321,38 @@
       "country_name": "Chad",
       "country_topic": "country_TCD"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-07T17:45:10.621814+00:00",
+    "source_time_gmt": "311/17:43:14",
+    "source_time_utc": "2026-11-07T17:43:14+00:00",
+    "telemetry_age_seconds": 117,
+    "sample_gap_seconds": 520,
+    "location_uncertain": false,
+    "previous_urine": 61.0,
+    "current_urine": 63.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 50.902472414738,
+      "longitude": 72.630793008869,
+      "timestamp": 1794073394,
+      "requested_timestamp": 1794073394,
+      "requested_time_utc": "2026-11-07T17:43:14+00:00",
+      "position_time_utc": "2026-11-07T17:43:14+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 424.05269859269,
+      "velocity": 27589.181386901,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Kazakhstan",
+      "region": "Country",
+      "country_id": "KAZ",
+      "country_name": "Kazakhstan",
+      "country_topic": "country_KAZ"
+    }
   }
 ]
