@@ -4255,5 +4255,38 @@
       "country_name": "Iran",
       "country_topic": "country_IRN"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-08T00:25:09.940512+00:00",
+    "source_time_gmt": "312/0:24:42",
+    "source_time_utc": "2026-11-08T00:24:42+00:00",
+    "telemetry_age_seconds": 28,
+    "sample_gap_seconds": 914,
+    "location_uncertain": true,
+    "previous_urine": 9.0,
+    "current_urine": 10.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -13.281735392004,
+      "longitude": 85.664488353491,
+      "timestamp": 1794097482,
+      "requested_timestamp": 1794097482,
+      "requested_time_utc": "2026-11-08T00:24:42+00:00",
+      "position_time_utc": "2026-11-08T00:24:42+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 427.03255238379,
+      "velocity": 27551.098756737,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
