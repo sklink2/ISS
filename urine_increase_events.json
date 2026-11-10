@@ -4387,5 +4387,38 @@
       "country_name": "Uzbekistan",
       "country_topic": "country_UZB"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-10T15:40:10.726653+00:00",
+    "source_time_gmt": "314/15:37:26",
+    "source_time_utc": "2026-11-10T15:37:26+00:00",
+    "telemetry_age_seconds": 165,
+    "sample_gap_seconds": 1168,
+    "location_uncertain": true,
+    "previous_urine": 48.0,
+    "current_urine": 50.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 32.711811843502,
+      "longitude": 160.76420779459,
+      "timestamp": 1794325046,
+      "requested_timestamp": 1794325046,
+      "requested_time_utc": "2026-11-10T15:37:26+00:00",
+      "position_time_utc": "2026-11-10T15:37:26+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 423.68901750997,
+      "velocity": 27575.690840883,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
