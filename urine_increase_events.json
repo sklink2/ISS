@@ -4354,5 +4354,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-11-10T03:25:09.962027+00:00",
+    "source_time_gmt": "314/3:23:32",
+    "source_time_utc": "2026-11-10T03:23:32+00:00",
+    "telemetry_age_seconds": 98,
+    "sample_gap_seconds": 261,
+    "location_uncertain": false,
+    "previous_urine": 5.0,
+    "current_urine": 8.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 6.0701574567515,
+      "longitude": 12.833550703006,
+      "timestamp": 1794281012,
+      "requested_timestamp": 1794281012,
+      "requested_time_utc": "2026-11-10T03:23:32+00:00",
+      "position_time_utc": "2026-11-10T03:23:32+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 423.60302791755,
+      "velocity": 27562.716231304,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Cameroon",
+      "region": "Country",
+      "country_id": "CMR",
+      "country_name": "Cameroon",
+      "country_topic": "country_CMR"
+    }
   }
 ]
