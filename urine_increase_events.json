@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-11-03T20:35:10.097748+00:00",
-    "source_time_gmt": "307/20:34:16",
-    "source_time_utc": "2026-11-03T20:34:16+00:00",
-    "telemetry_age_seconds": 54,
-    "sample_gap_seconds": 1205,
-    "location_uncertain": true,
-    "previous_urine": 45.0,
-    "current_urine": 46.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 16.012293502344,
-      "longitude": -9.69130156048,
-      "timestamp": 1793738056,
-      "requested_timestamp": 1793738056,
-      "requested_time_utc": "2026-11-03T20:34:16+00:00",
-      "position_time_utc": "2026-11-03T20:34:16+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 415.29666804123,
-      "velocity": 27600.304401104,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Mauritania",
-      "region": "Country",
-      "country_id": "MRT",
-      "country_name": "Mauritania",
-      "country_topic": "country_MRT"
-    }
-  },
-  {
     "captured_at_utc": "2026-11-03T20:40:10.507255+00:00",
     "source_time_gmt": "307/20:39:52",
     "source_time_utc": "2026-11-03T20:39:52+00:00",
