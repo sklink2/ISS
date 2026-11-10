@@ -4420,5 +4420,38 @@
       "country_name": "Republic of the Congo",
       "country_topic": "country_COG"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-10T04:50:10.946615+00:00",
+    "source_time_gmt": "314/4:47:38",
+    "source_time_utc": "2026-11-10T04:47:38+00:00",
+    "telemetry_age_seconds": 153,
+    "sample_gap_seconds": 4937,
+    "location_uncertain": true,
+    "previous_urine": 9.0,
+    "current_urine": 11.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 31.61218253297,
+      "longitude": -32.719735461489,
+      "timestamp": 1794286058,
+      "requested_timestamp": 1794286058,
+      "requested_time_utc": "2026-11-10T04:47:38+00:00",
+      "position_time_utc": "2026-11-10T04:47:38+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 423.6391751313,
+      "velocity": 27574.995940124,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
