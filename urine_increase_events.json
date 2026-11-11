@@ -4255,5 +4255,38 @@
       "country_name": "Cuba",
       "country_topic": "country_CUB"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-11T23:10:10.666067+00:00",
+    "source_time_gmt": "315/23:8:2",
+    "source_time_utc": "2026-11-11T23:08:02+00:00",
+    "telemetry_age_seconds": 129,
+    "sample_gap_seconds": 3670,
+    "location_uncertain": true,
+    "previous_urine": 59.0,
+    "current_urine": 62.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": -51.411123007059,
+      "longitude": 151.30433864116,
+      "timestamp": 1794438482,
+      "requested_timestamp": 1794438482,
+      "requested_time_utc": "2026-11-11T23:08:02+00:00",
+      "position_time_utc": "2026-11-11T23:08:02+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 438.12852896458,
+      "velocity": 27532.018690624,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
