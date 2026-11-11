@@ -4321,5 +4321,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-11-11T04:25:10.525293+00:00",
+    "source_time_gmt": "315/4:21:25",
+    "source_time_utc": "2026-11-11T04:21:25+00:00",
+    "telemetry_age_seconds": 226,
+    "sample_gap_seconds": 279,
+    "location_uncertain": false,
+    "previous_urine": 9.0,
+    "current_urine": 10.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -28.739173016235,
+      "longitude": 22.569254705396,
+      "timestamp": 1794370885,
+      "requested_timestamp": 1794370885,
+      "requested_time_utc": "2026-11-11T04:21:25+00:00",
+      "position_time_utc": "2026-11-11T04:21:25+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 431.73604467447,
+      "velocity": 27540.128776068,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "South Africa",
+      "region": "Country",
+      "country_id": "ZAF",
+      "country_name": "South Africa",
+      "country_topic": "country_ZAF"
+    }
   }
 ]
