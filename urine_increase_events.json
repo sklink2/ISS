@@ -4354,5 +4354,38 @@
       "country_name": "Italy",
       "country_topic": "country_ITA"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-12T20:20:09.948845+00:00",
+    "source_time_gmt": "316/20:16:33",
+    "source_time_utc": "2026-11-12T20:16:33+00:00",
+    "telemetry_age_seconds": 217,
+    "sample_gap_seconds": 6737,
+    "location_uncertain": true,
+    "previous_urine": 50.0,
+    "current_urine": 52.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 29.732185056328,
+      "longitude": 81.616862424004,
+      "timestamp": 1794514593,
+      "requested_timestamp": 1794514593,
+      "requested_time_utc": "2026-11-12T20:16:33+00:00",
+      "position_time_utc": "2026-11-12T20:16:33+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 422.78512521394,
+      "velocity": 27576.928453739,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Nepal",
+      "region": "Country",
+      "country_id": "NPL",
+      "country_name": "Nepal",
+      "country_topic": "country_NPL"
+    }
   }
 ]
