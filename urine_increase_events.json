@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-11-05T22:25:11.059364+00:00",
-    "source_time_gmt": "309/22:25:7",
-    "source_time_utc": "2026-11-05T22:25:07+00:00",
-    "telemetry_age_seconds": 4,
-    "sample_gap_seconds": 302,
-    "location_uncertain": false,
-    "previous_urine": 43.0,
-    "current_urine": 44.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": 51.757134833787,
-      "longitude": 29.919986257393,
-      "timestamp": 1793917507,
-      "requested_timestamp": 1793917507,
-      "requested_time_utc": "2026-11-05T22:25:07+00:00",
-      "position_time_utc": "2026-11-05T22:25:07+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 425.91302748645,
-      "velocity": 27582.634231432,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Belarus",
-      "region": "Country",
-      "country_id": "BLR",
-      "country_name": "Belarus",
-      "country_topic": "country_BLR"
-    }
-  },
-  {
     "captured_at_utc": "2026-11-05T22:35:11.368068+00:00",
     "source_time_gmt": "309/22:35:8",
     "source_time_utc": "2026-11-05T22:35:08+00:00",
