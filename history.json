@@ -5,21 +5,6 @@
     "source_time_utc": "2026-11-05T04:47:16+00:00",
     "source_times_gmt": {
       "urine": "309/4:47:16",
-      "waste": "309/5:39:59",
-      "clean": "309/5:39:49"
-    },
-    "urine": 10.0,
-    "waste": 26.86,
-    "clean": 84.32,
-    "captured_at_utc": "2026-11-05T05:40:11.160058+00:00",
-    "telemetry_age_seconds": 3175
-  },
-  {
-    "time": "309/4:47:16",
-    "source_time_gmt": "309/4:47:16",
-    "source_time_utc": "2026-11-05T04:47:16+00:00",
-    "source_times_gmt": {
-      "urine": "309/4:47:16",
       "waste": "309/5:44:49",
       "clean": "309/5:44:49"
     },
@@ -21208,5 +21193,20 @@
     "clean": 95.01,
     "captured_at_utc": "2026-11-12T05:35:25.484661+00:00",
     "telemetry_age_seconds": 5188
+  },
+  {
+    "time": "316/4:8:57",
+    "source_time_gmt": "316/4:8:57",
+    "source_time_utc": "2026-11-12T04:08:57+00:00",
+    "source_times_gmt": {
+      "urine": "316/4:8:57",
+      "waste": "316/5:40:9",
+      "clean": "316/5:39:59"
+    },
+    "urine": 9.0,
+    "waste": 42.02,
+    "clean": 95.01,
+    "captured_at_utc": "2026-11-12T05:40:11.232949+00:00",
+    "telemetry_age_seconds": 5474
   }
 ]
