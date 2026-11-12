@@ -4321,5 +4321,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-11-12T23:20:10.968943+00:00",
+    "source_time_gmt": "316/23:18:44",
+    "source_time_utc": "2026-11-12T23:18:44+00:00",
+    "telemetry_age_seconds": 87,
+    "sample_gap_seconds": 2087,
+    "location_uncertain": true,
+    "previous_urine": 55.0,
+    "current_urine": 60.0,
+    "change_amount": 5.0,
+    "iss_location": {
+      "latitude": 38.877837139927,
+      "longitude": 22.639361673025,
+      "timestamp": 1794525524,
+      "requested_timestamp": 1794525524,
+      "requested_time_utc": "2026-11-12T23:18:44+00:00",
+      "position_time_utc": "2026-11-12T23:18:44+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 423.34832369876,
+      "velocity": 27581.622673629,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Greece",
+      "region": "Country",
+      "country_id": "GRC",
+      "country_name": "Greece",
+      "country_topic": "country_GRC"
+    }
   }
 ]
