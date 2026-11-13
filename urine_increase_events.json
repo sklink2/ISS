@@ -4222,5 +4222,38 @@
       "country_name": "Greece",
       "country_topic": "country_GRC"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-13T00:35:11.086657+00:00",
+    "source_time_gmt": "317/0:35:7",
+    "source_time_utc": "2026-11-13T00:35:07+00:00",
+    "telemetry_age_seconds": 4,
+    "sample_gap_seconds": 322,
+    "location_uncertain": false,
+    "previous_urine": 53.0,
+    "current_urine": 54.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 44.491180050905,
+      "longitude": -86.710755244636,
+      "timestamp": 1794530107,
+      "requested_timestamp": 1794530107,
+      "requested_time_utc": "2026-11-13T00:35:07+00:00",
+      "position_time_utc": "2026-11-13T00:35:07+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 419.44860947885,
+      "velocity": 27602.037864676,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "United States of America",
+      "region": "Country",
+      "country_id": "USA",
+      "country_name": "United States of America",
+      "country_topic": "country_USA"
+    }
   }
 ]
