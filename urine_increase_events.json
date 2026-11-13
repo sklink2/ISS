@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-11-06T17:45:10.512955+00:00",
-    "source_time_gmt": "310/17:44:32",
-    "source_time_utc": "2026-11-06T17:44:32+00:00",
-    "telemetry_age_seconds": 39,
-    "sample_gap_seconds": 5940,
-    "location_uncertain": true,
-    "previous_urine": 15.0,
-    "current_urine": 16.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -51.50532626261,
-      "longitude": -95.563136097246,
-      "timestamp": 1793987072,
-      "requested_timestamp": 1793987072,
-      "requested_time_utc": "2026-11-06T17:44:32+00:00",
-      "position_time_utc": "2026-11-06T17:44:32+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 436.78889216991,
-      "velocity": 27538.239037324,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-11-06T17:50:10.774607+00:00",
     "source_time_gmt": "310/17:47:8",
     "source_time_utc": "2026-11-06T17:47:08+00:00",
