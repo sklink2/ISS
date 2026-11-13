@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-11-06T20:05:11.363764+00:00",
-    "source_time_gmt": "310/20:3:5",
-    "source_time_utc": "2026-11-06T20:03:05+00:00",
-    "telemetry_age_seconds": 126,
-    "sample_gap_seconds": 179,
-    "location_uncertain": false,
-    "previous_urine": 28.0,
-    "current_urine": 31.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": 51.095179170247,
-      "longitude": 44.660073184705,
-      "timestamp": 1793995385,
-      "requested_timestamp": 1793995385,
-      "requested_time_utc": "2026-11-06T20:03:05+00:00",
-      "position_time_utc": "2026-11-06T20:03:05+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 424.58143850188,
-      "velocity": 27587.410187596,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Russia",
-      "region": "Country",
-      "country_id": "RUS",
-      "country_name": "Russia",
-      "country_topic": "country_RUS"
-    }
-  },
-  {
     "captured_at_utc": "2026-11-06T21:05:10.939472+00:00",
     "source_time_gmt": "310/21:1:36",
     "source_time_utc": "2026-11-06T21:01:36+00:00",
