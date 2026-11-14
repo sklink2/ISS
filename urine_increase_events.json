@@ -4420,5 +4420,38 @@
       "country_name": "Libya",
       "country_topic": "country_LBY"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-14T23:35:10.095624+00:00",
+    "source_time_gmt": "318/23:32:31",
+    "source_time_utc": "2026-11-14T23:32:31+00:00",
+    "telemetry_age_seconds": 159,
+    "sample_gap_seconds": 642,
+    "location_uncertain": false,
+    "previous_urine": 42.0,
+    "current_urine": 43.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -2.5905614288161,
+      "longitude": 48.707017399224,
+      "timestamp": 1794699151,
+      "requested_timestamp": 1794699151,
+      "requested_time_utc": "2026-11-14T23:32:31+00:00",
+      "position_time_utc": "2026-11-14T23:32:31+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 424.25955765203,
+      "velocity": 27559.199833029,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
