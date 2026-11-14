@@ -4387,5 +4387,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-11-14T11:55:11.658509+00:00",
+    "source_time_gmt": "318/11:52:14",
+    "source_time_utc": "2026-11-14T11:52:14+00:00",
+    "telemetry_age_seconds": 178,
+    "sample_gap_seconds": 2773,
+    "location_uncertain": true,
+    "previous_urine": 16.0,
+    "current_urine": 18.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -8.8943751892542,
+      "longitude": 37.545245359895,
+      "timestamp": 1794657134,
+      "requested_timestamp": 1794657134,
+      "requested_time_utc": "2026-11-14T11:52:14+00:00",
+      "position_time_utc": "2026-11-14T11:52:14+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 416.87808141827,
+      "velocity": 27590.24078395,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "United Republic of Tanzania",
+      "region": "Country",
+      "country_id": "TZA",
+      "country_name": "United Republic of Tanzania",
+      "country_topic": "country_TZA"
+    }
   }
 ]
