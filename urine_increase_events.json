@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-11-07T00:30:10.751214+00:00",
-    "source_time_gmt": "311/0:28:14",
-    "source_time_utc": "2026-11-07T00:28:14+00:00",
-    "telemetry_age_seconds": 117,
-    "sample_gap_seconds": 3454,
-    "location_uncertain": true,
-    "previous_urine": 40.0,
-    "current_urine": 42.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 22.855199617144,
-      "longitude": -80.628870305126,
-      "timestamp": 1794011294,
-      "requested_timestamp": 1794011294,
-      "requested_time_utc": "2026-11-07T00:28:14+00:00",
-      "position_time_utc": "2026-11-07T00:28:14+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 415.49544194084,
-      "velocity": 27602.769590468,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Cuba",
-      "region": "Country",
-      "country_id": "CUB",
-      "country_name": "Cuba",
-      "country_topic": "country_CUB"
-    }
-  },
-  {
     "captured_at_utc": "2026-11-07T00:35:10.226330+00:00",
     "source_time_gmt": "311/0:32:10",
     "source_time_utc": "2026-11-07T00:32:10+00:00",
