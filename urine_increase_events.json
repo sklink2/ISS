@@ -4387,5 +4387,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-11-14T17:10:10.051775+00:00",
+    "source_time_gmt": "318/17:7:30",
+    "source_time_utc": "2026-11-14T17:07:30+00:00",
+    "telemetry_age_seconds": 160,
+    "sample_gap_seconds": 3349,
+    "location_uncertain": true,
+    "previous_urine": 29.0,
+    "current_urine": 31.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 36.460122823102,
+      "longitude": 108.93771344418,
+      "timestamp": 1794676050,
+      "requested_timestamp": 1794676050,
+      "requested_time_utc": "2026-11-14T17:07:30+00:00",
+      "position_time_utc": "2026-11-14T17:07:30+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 422.57744407249,
+      "velocity": 27582.624454832,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "China",
+      "region": "Country",
+      "country_id": "CHN",
+      "country_name": "China",
+      "country_topic": "country_CHN"
+    }
   }
 ]
