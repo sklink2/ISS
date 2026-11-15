@@ -4783,5 +4783,38 @@
       "country_name": "Indonesia",
       "country_topic": "country_IDN"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-15T21:00:11.136968+00:00",
+    "source_time_gmt": "319/20:57:18",
+    "source_time_utc": "2026-11-15T20:57:18+00:00",
+    "telemetry_age_seconds": 173,
+    "sample_gap_seconds": 141,
+    "location_uncertain": false,
+    "previous_urine": 24.0,
+    "current_urine": 27.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 41.183463178813,
+      "longitude": 36.639289017468,
+      "timestamp": 1794776238,
+      "requested_timestamp": 1794776238,
+      "requested_time_utc": "2026-11-15T20:57:18+00:00",
+      "position_time_utc": "2026-11-15T20:57:18+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 422.43145630314,
+      "velocity": 27586.86163758,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Turkey",
+      "region": "Country",
+      "country_id": "TUR",
+      "country_name": "Turkey",
+      "country_topic": "country_TUR"
+    }
   }
 ]
