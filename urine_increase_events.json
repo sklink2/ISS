@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-11-10T21:40:10.585880+00:00",
-    "source_time_gmt": "314/21:36:7",
-    "source_time_utc": "2026-11-10T21:36:07+00:00",
-    "telemetry_age_seconds": 244,
-    "sample_gap_seconds": 8653,
-    "location_uncertain": true,
-    "previous_urine": 64.0,
-    "current_urine": 66.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 51.674121617182,
-      "longitude": 4.8168259714817,
-      "timestamp": 1794346567,
-      "requested_timestamp": 1794346567,
-      "requested_time_utc": "2026-11-10T21:36:07+00:00",
-      "position_time_utc": "2026-11-10T21:36:07+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 423.54305303871,
-      "velocity": 27591.547784943,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Netherlands",
-      "region": "Country",
-      "country_id": "NLD",
-      "country_name": "Netherlands",
-      "country_topic": "country_NLD"
-    }
-  },
-  {
     "captured_at_utc": "2026-11-10T23:30:10.495547+00:00",
     "source_time_gmt": "314/23:27:31",
     "source_time_utc": "2026-11-10T23:27:31+00:00",
