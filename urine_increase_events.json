@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-11-10T10:20:10.654257+00:00",
-    "source_time_gmt": "314/10:17:12",
-    "source_time_utc": "2026-11-10T10:17:12+00:00",
-    "telemetry_age_seconds": 179,
-    "sample_gap_seconds": 1828,
-    "location_uncertain": true,
-    "previous_urine": 26.0,
-    "current_urine": 29.0,
-    "change_amount": 3.0,
-    "iss_location": {
-      "latitude": -19.290878072273,
-      "longitude": 76.522089335301,
-      "timestamp": 1794305832,
-      "requested_timestamp": 1794305832,
-      "requested_time_utc": "2026-11-10T10:17:12+00:00",
-      "position_time_utc": "2026-11-10T10:17:12+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 419.8763133865,
-      "velocity": 27582.53111895,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Indian Ocean",
-      "region": "Indian Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-11-10T11:00:11.063595+00:00",
     "source_time_gmt": "314/10:56:49",
     "source_time_utc": "2026-11-10T10:56:49+00:00",
@@ -5574,6 +5541,39 @@
       "country_id": "CHN",
       "country_name": "China",
       "country_topic": "country_CHN"
+    }
+  },
+  {
+    "captured_at_utc": "2026-11-17T10:20:09.961641+00:00",
+    "source_time_gmt": "321/10:18:8",
+    "source_time_utc": "2026-11-17T10:18:08+00:00",
+    "telemetry_age_seconds": 122,
+    "sample_gap_seconds": 1512,
+    "location_uncertain": true,
+    "previous_urine": 13.0,
+    "current_urine": 15.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 8.7372324838504,
+      "longitude": -136.22047596957,
+      "timestamp": 1794910688,
+      "requested_timestamp": 1794910688,
+      "requested_time_utc": "2026-11-17T10:18:08+00:00",
+      "position_time_utc": "2026-11-17T10:18:08+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 421.84233215766,
+      "velocity": 27569.684209788,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
     }
   }
 ]
