@@ -4783,5 +4783,38 @@
       "country_name": "Brazil",
       "country_topic": "country_BRA"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-19T15:55:10.953956+00:00",
+    "source_time_gmt": "323/15:52:48",
+    "source_time_utc": "2026-11-19T15:52:48+00:00",
+    "telemetry_age_seconds": 143,
+    "sample_gap_seconds": 611,
+    "location_uncertain": false,
+    "previous_urine": 50.0,
+    "current_urine": 53.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 22.736314687228,
+      "longitude": -26.927660064991,
+      "timestamp": 1795103568,
+      "requested_timestamp": 1795103568,
+      "requested_time_utc": "2026-11-19T15:52:48+00:00",
+      "position_time_utc": "2026-11-19T15:52:48+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 413.9049688285,
+      "velocity": 27607.500905579,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Atlantic Ocean",
+      "region": "Atlantic Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
