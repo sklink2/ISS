@@ -4684,5 +4684,38 @@
       "country_name": "Indonesia",
       "country_topic": "country_IDN"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-19T18:15:11.263726+00:00",
+    "source_time_gmt": "323/18:13:45",
+    "source_time_utc": "2026-11-19T18:13:45+00:00",
+    "telemetry_age_seconds": 86,
+    "sample_gap_seconds": 488,
+    "location_uncertain": false,
+    "previous_urine": 41.0,
+    "current_urine": 42.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -27.533464888999,
+      "longitude": 122.22143672743,
+      "timestamp": 1795112025,
+      "requested_timestamp": 1795112025,
+      "requested_time_utc": "2026-11-19T18:13:45+00:00",
+      "position_time_utc": "2026-11-19T18:13:45+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 431.21703839257,
+      "velocity": 27540.282810495,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Australia",
+      "region": "Country",
+      "country_id": "AUS",
+      "country_name": "Australia",
+      "country_topic": "country_AUS"
+    }
   }
 ]
