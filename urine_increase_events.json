@@ -4684,5 +4684,38 @@
       "country_name": "Central African Republic",
       "country_topic": "country_CAF"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-20T02:50:10.402513+00:00",
+    "source_time_gmt": "324/2:49:38",
+    "source_time_utc": "2026-11-20T02:49:38+00:00",
+    "telemetry_age_seconds": 32,
+    "sample_gap_seconds": 424,
+    "location_uncertain": false,
+    "previous_urine": 6.0,
+    "current_urine": 7.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 40.429961239816,
+      "longitude": -170.98442232461,
+      "timestamp": 1795142978,
+      "requested_timestamp": 1795142978,
+      "requested_time_utc": "2026-11-20T02:49:38+00:00",
+      "position_time_utc": "2026-11-20T02:49:38+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 416.73779440113,
+      "velocity": 27608.748617796,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
