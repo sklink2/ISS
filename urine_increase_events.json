@@ -4618,5 +4618,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-11-20T22:05:10.969688+00:00",
+    "source_time_gmt": "324/22:1:29",
+    "source_time_utc": "2026-11-20T22:01:29+00:00",
+    "telemetry_age_seconds": 222,
+    "sample_gap_seconds": 2546,
+    "location_uncertain": true,
+    "previous_urine": 40.0,
+    "current_urine": 41.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": -16.151100581754,
+      "longitude": 47.359746135048,
+      "timestamp": 1795212089,
+      "requested_timestamp": 1795212089,
+      "requested_time_utc": "2026-11-20T22:01:29+00:00",
+      "position_time_utc": "2026-11-20T22:01:29+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 426.79835719719,
+      "velocity": 27551.601968349,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Madagascar",
+      "region": "Country",
+      "country_id": "MDG",
+      "country_name": "Madagascar",
+      "country_topic": "country_MDG"
+    }
   }
 ]
