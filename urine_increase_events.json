@@ -4717,5 +4717,38 @@
       "country_name": "Kazakhstan",
       "country_topic": "country_KAZ"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-21T11:35:10.854318+00:00",
+    "source_time_gmt": "325/11:31:53",
+    "source_time_utc": "2026-11-21T11:31:53+00:00",
+    "telemetry_age_seconds": 198,
+    "sample_gap_seconds": 499,
+    "location_uncertain": false,
+    "previous_urine": 58.0,
+    "current_urine": 60.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 50.226800515577,
+      "longitude": 117.18509699125,
+      "timestamp": 1795260713,
+      "requested_timestamp": 1795260713,
+      "requested_time_utc": "2026-11-21T11:31:53+00:00",
+      "position_time_utc": "2026-11-21T11:31:53+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 420.66123021762,
+      "velocity": 27600.683003579,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Russia",
+      "region": "Country",
+      "country_id": "RUS",
+      "country_name": "Russia",
+      "country_topic": "country_RUS"
+    }
   }
 ]
