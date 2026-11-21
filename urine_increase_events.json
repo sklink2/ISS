@@ -4618,5 +4618,38 @@
       "country_name": "Madagascar",
       "country_topic": "country_MDG"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-21T00:00:11.697928+00:00",
+    "source_time_gmt": "325/0:0:9",
+    "source_time_utc": "2026-11-21T00:00:09+00:00",
+    "telemetry_age_seconds": 3,
+    "sample_gap_seconds": 7120,
+    "location_uncertain": true,
+    "previous_urine": 41.0,
+    "current_urine": 45.0,
+    "change_amount": 4.0,
+    "iss_location": {
+      "latitude": -42.722561241186,
+      "longitude": 137.38377210614,
+      "timestamp": 1795219209,
+      "requested_timestamp": 1795219209,
+      "requested_time_utc": "2026-11-21T00:00:09+00:00",
+      "position_time_utc": "2026-11-21T00:00:09+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 433.79280171072,
+      "velocity": 27541.293017113,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Pacific Ocean",
+      "region": "Pacific Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
