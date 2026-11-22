@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-11-15T12:20:10.192883+00:00",
-    "source_time_gmt": "319/12:17:11",
-    "source_time_utc": "2026-11-15T12:17:11+00:00",
-    "telemetry_age_seconds": 179,
-    "sample_gap_seconds": 3373,
-    "location_uncertain": true,
-    "previous_urine": 60.0,
-    "current_urine": 61.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -51.685390576513,
-      "longitude": -62.558730631184,
-      "timestamp": 1794745031,
-      "requested_timestamp": 1794745031,
-      "requested_time_utc": "2026-11-15T12:17:11+00:00",
-      "position_time_utc": "2026-11-15T12:17:11+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 438.87155083624,
-      "velocity": 27528.863760796,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Atlantic Ocean",
-      "region": "Atlantic Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-11-15T12:35:10.462301+00:00",
     "source_time_gmt": "319/12:32:58",
     "source_time_utc": "2026-11-15T12:32:58+00:00",
@@ -4683,6 +4650,39 @@
       "country_id": "LBY",
       "country_name": "Libya",
       "country_topic": "country_LBY"
+    }
+  },
+  {
+    "captured_at_utc": "2026-11-22T12:20:10.461012+00:00",
+    "source_time_gmt": "326/12:16:32",
+    "source_time_utc": "2026-11-22T12:16:32+00:00",
+    "telemetry_age_seconds": 218,
+    "sample_gap_seconds": 976,
+    "location_uncertain": true,
+    "previous_urine": 29.0,
+    "current_urine": 32.0,
+    "change_amount": 3.0,
+    "iss_location": {
+      "latitude": 51.233472046532,
+      "longitude": 92.332763786256,
+      "timestamp": 1795349792,
+      "requested_timestamp": 1795349792,
+      "requested_time_utc": "2026-11-22T12:16:32+00:00",
+      "position_time_utc": "2026-11-22T12:16:32+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 420.29515352659,
+      "velocity": 27602.890936479,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Russia",
+      "region": "Country",
+      "country_id": "RUS",
+      "country_name": "Russia",
+      "country_topic": "country_RUS"
     }
   }
 ]
