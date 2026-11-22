@@ -4783,5 +4783,38 @@
       "country_name": "Democratic Republic of the Congo",
       "country_topic": "country_COD"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-22T22:15:10.834734+00:00",
+    "source_time_gmt": "326/22:13:45",
+    "source_time_utc": "2026-11-22T22:13:45+00:00",
+    "telemetry_age_seconds": 86,
+    "sample_gap_seconds": 1027,
+    "location_uncertain": true,
+    "previous_urine": 57.0,
+    "current_urine": 59.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -48.434774191606,
+      "longitude": 81.78949422859,
+      "timestamp": 1795385625,
+      "requested_timestamp": 1795385625,
+      "requested_time_utc": "2026-11-22T22:13:45+00:00",
+      "position_time_utc": "2026-11-22T22:13:45+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 439.25555550951,
+      "velocity": 27523.633704556,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
