@@ -4486,5 +4486,38 @@
       "country_name": "United States of America",
       "country_topic": "country_USA"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-24T21:50:11.362095+00:00",
+    "source_time_gmt": "328/21:45:26",
+    "source_time_utc": "2026-11-24T21:45:26+00:00",
+    "telemetry_age_seconds": 285,
+    "sample_gap_seconds": 1474,
+    "location_uncertain": true,
+    "previous_urine": 65.0,
+    "current_urine": 67.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 25.558030185014,
+      "longitude": -7.6058641941572,
+      "timestamp": 1795556726,
+      "requested_timestamp": 1795556726,
+      "requested_time_utc": "2026-11-24T21:45:26+00:00",
+      "position_time_utc": "2026-11-24T21:45:26+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 418.3552074977,
+      "velocity": 27590.645960673,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Mauritania",
+      "region": "Country",
+      "country_id": "MRT",
+      "country_name": "Mauritania",
+      "country_topic": "country_MRT"
+    }
   }
 ]
