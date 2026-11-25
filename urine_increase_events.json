@@ -4882,5 +4882,38 @@
       "country_name": "",
       "country_topic": ""
     }
+  },
+  {
+    "captured_at_utc": "2026-11-25T14:55:09.723385+00:00",
+    "source_time_gmt": "329/14:54:52",
+    "source_time_utc": "2026-11-25T14:54:52+00:00",
+    "telemetry_age_seconds": 18,
+    "sample_gap_seconds": 4538,
+    "location_uncertain": true,
+    "previous_urine": 34.0,
+    "current_urine": 36.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 2.0378636351126,
+      "longitude": 111.30292007839,
+      "timestamp": 1795618492,
+      "requested_timestamp": 1795618492,
+      "requested_time_utc": "2026-11-25T14:54:52+00:00",
+      "position_time_utc": "2026-11-25T14:54:52+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 420.38413341583,
+      "velocity": 27573.658783321,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Malaysia",
+      "region": "Country",
+      "country_id": "MYS",
+      "country_name": "Malaysia",
+      "country_topic": "country_MYS"
+    }
   }
 ]
