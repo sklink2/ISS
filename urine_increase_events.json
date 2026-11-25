@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-11-18T21:15:10.839920+00:00",
-    "source_time_gmt": "322/21:14:42",
-    "source_time_utc": "2026-11-18T21:14:42+00:00",
-    "telemetry_age_seconds": 29,
-    "sample_gap_seconds": 323,
-    "location_uncertain": false,
-    "previous_urine": 6.0,
-    "current_urine": 8.0,
-    "change_amount": 2.0,
-    "iss_location": {
-      "latitude": 11.998554470818,
-      "longitude": -112.42505230685,
-      "timestamp": 1795036482,
-      "requested_timestamp": 1795036482,
-      "requested_time_utc": "2026-11-18T21:14:42+00:00",
-      "position_time_utc": "2026-11-18T21:14:42+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 413.75994848617,
-      "velocity": 27603.225875218,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-11-18T21:30:11.457017+00:00",
     "source_time_gmt": "322/21:29:35",
     "source_time_utc": "2026-11-18T21:29:35+00:00",
@@ -5013,6 +4980,39 @@
       "country_id": "",
       "country_name": "",
       "country_topic": ""
+    }
+  },
+  {
+    "captured_at_utc": "2026-11-25T21:15:10.549441+00:00",
+    "source_time_gmt": "329/21:12:57",
+    "source_time_utc": "2026-11-25T21:12:57+00:00",
+    "telemetry_age_seconds": 134,
+    "sample_gap_seconds": 10157,
+    "location_uncertain": true,
+    "previous_urine": 46.0,
+    "current_urine": 48.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": -17.971209630833,
+      "longitude": 31.623030568018,
+      "timestamp": 1795641177,
+      "requested_timestamp": 1795641177,
+      "requested_time_utc": "2026-11-25T21:12:57+00:00",
+      "position_time_utc": "2026-11-25T21:12:57+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 426.39677094412,
+      "velocity": 27553.679856032,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Zimbabwe",
+      "region": "Country",
+      "country_id": "ZWE",
+      "country_name": "Zimbabwe",
+      "country_topic": "country_ZWE"
     }
   }
 ]
