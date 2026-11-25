@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-11-18T00:10:10.656078+00:00",
-    "source_time_gmt": "322/0:6:19",
-    "source_time_utc": "2026-11-18T00:06:19+00:00",
-    "telemetry_age_seconds": 232,
-    "sample_gap_seconds": 4907,
-    "location_uncertain": true,
-    "previous_urine": 52.0,
-    "current_urine": 57.0,
-    "change_amount": 5.0,
-    "iss_location": {
-      "latitude": 31.066130447678,
-      "longitude": -8.0447183570098,
-      "timestamp": 1794960379,
-      "requested_timestamp": 1794960379,
-      "requested_time_utc": "2026-11-18T00:06:19+00:00",
-      "position_time_utc": "2026-11-18T00:06:19+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 421.03075589993,
-      "velocity": 27584.391888686,
-      "visibility": "eclipsed",
-      "units": "kilometers",
-      "area": "Morocco",
-      "region": "Country",
-      "country_id": "MAR",
-      "country_name": "Morocco",
-      "country_topic": "country_MAR"
-    }
-  },
-  {
     "captured_at_utc": "2026-11-18T18:45:10.914013+00:00",
     "source_time_gmt": "322/18:43:56",
     "source_time_utc": "2026-11-18T18:43:56+00:00",
