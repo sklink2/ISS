@@ -4915,5 +4915,38 @@
       "country_name": "Iran",
       "country_topic": "country_IRN"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-26T09:05:15.167619+00:00",
+    "source_time_gmt": "330/9:1:15",
+    "source_time_utc": "2026-11-26T09:01:15+00:00",
+    "telemetry_age_seconds": 240,
+    "sample_gap_seconds": 319,
+    "location_uncertain": false,
+    "previous_urine": 61.0,
+    "current_urine": 63.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 47.05253900101,
+      "longitude": 74.588904571826,
+      "timestamp": 1795683675,
+      "requested_timestamp": 1795683675,
+      "requested_time_utc": "2026-11-26T09:01:15+00:00",
+      "position_time_utc": "2026-11-26T09:01:15+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 417.84408061476,
+      "velocity": 27609.187023,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Kazakhstan",
+      "region": "Country",
+      "country_id": "KAZ",
+      "country_name": "Kazakhstan",
+      "country_topic": "country_KAZ"
+    }
   }
 ]
