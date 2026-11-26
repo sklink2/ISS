@@ -4948,5 +4948,38 @@
       "country_name": "Kazakhstan",
       "country_topic": "country_KAZ"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-26T10:25:14.581232+00:00",
+    "source_time_gmt": "330/10:23:9",
+    "source_time_utc": "2026-11-26T10:23:09+00:00",
+    "telemetry_age_seconds": 126,
+    "sample_gap_seconds": 4914,
+    "location_uncertain": true,
+    "previous_urine": 63.0,
+    "current_urine": 64.0,
+    "change_amount": 1.0,
+    "iss_location": {
+      "latitude": 20.204788937499,
+      "longitude": 12.860365927245,
+      "timestamp": 1795688589,
+      "requested_timestamp": 1795688589,
+      "requested_time_utc": "2026-11-26T10:23:09+00:00",
+      "position_time_utc": "2026-11-26T10:23:09+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 414.4587982794,
+      "velocity": 27603.229313614,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "Niger",
+      "region": "Country",
+      "country_id": "NER",
+      "country_name": "Niger",
+      "country_topic": "country_NER"
+    }
   }
 ]
