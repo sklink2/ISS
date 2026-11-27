@@ -1,38 +1,5 @@
 [
   {
-    "captured_at_utc": "2026-11-20T17:45:10.961852+00:00",
-    "source_time_gmt": "324/17:43:13",
-    "source_time_utc": "2026-11-20T17:43:13+00:00",
-    "telemetry_age_seconds": 118,
-    "sample_gap_seconds": 1212,
-    "location_uncertain": true,
-    "previous_urine": 32.0,
-    "current_urine": 33.0,
-    "change_amount": 1.0,
-    "iss_location": {
-      "latitude": -50.846017165773,
-      "longitude": -155.40428451118,
-      "timestamp": 1795196593,
-      "requested_timestamp": 1795196593,
-      "requested_time_utc": "2026-11-20T17:43:13+00:00",
-      "position_time_utc": "2026-11-20T17:43:13+00:00",
-      "position_time_difference_seconds": 0,
-      "location_source": "WhereTheISS historical",
-      "used_backup": false,
-      "tle_epoch_utc": null,
-      "tle_age_days": null,
-      "altitude": 438.66007160193,
-      "velocity": 27528.274176041,
-      "visibility": "daylight",
-      "units": "kilometers",
-      "area": "Pacific Ocean",
-      "region": "Pacific Ocean",
-      "country_id": "",
-      "country_name": "",
-      "country_topic": ""
-    }
-  },
-  {
     "captured_at_utc": "2026-11-20T19:15:11.411856+00:00",
     "source_time_gmt": "324/19:13:51",
     "source_time_utc": "2026-11-20T19:13:51+00:00",
@@ -4782,6 +4749,39 @@
       "country_id": "ROU",
       "country_name": "Romania",
       "country_topic": "country_ROU"
+    }
+  },
+  {
+    "captured_at_utc": "2026-11-27T17:45:10.518899+00:00",
+    "source_time_gmt": "331/17:43:14",
+    "source_time_utc": "2026-11-27T17:43:14+00:00",
+    "telemetry_age_seconds": 117,
+    "sample_gap_seconds": 191,
+    "location_uncertain": false,
+    "previous_urine": 24.0,
+    "current_urine": 26.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 45.617581173662,
+      "longitude": 4.6900843311173,
+      "timestamp": 1795801394,
+      "requested_timestamp": 1795801394,
+      "requested_time_utc": "2026-11-27T17:43:14+00:00",
+      "position_time_utc": "2026-11-27T17:43:14+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 418.70185385336,
+      "velocity": 27604.198632097,
+      "visibility": "daylight",
+      "units": "kilometers",
+      "area": "France",
+      "region": "Country",
+      "country_id": "FRA",
+      "country_name": "France",
+      "country_topic": "country_FRA"
     }
   }
 ]
