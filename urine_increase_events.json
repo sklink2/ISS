@@ -4783,5 +4783,38 @@
       "country_name": "France",
       "country_topic": "country_FRA"
     }
+  },
+  {
+    "captured_at_utc": "2026-11-27T17:55:11.088042+00:00",
+    "source_time_gmt": "331/17:54:13",
+    "source_time_utc": "2026-11-27T17:54:13+00:00",
+    "telemetry_age_seconds": 58,
+    "sample_gap_seconds": 337,
+    "location_uncertain": false,
+    "previous_urine": 25.0,
+    "current_urine": 27.0,
+    "change_amount": 2.0,
+    "iss_location": {
+      "latitude": 17.717812496506,
+      "longitude": 40.887392625222,
+      "timestamp": 1795802053,
+      "requested_timestamp": 1795802053,
+      "requested_time_utc": "2026-11-27T17:54:13+00:00",
+      "position_time_utc": "2026-11-27T17:54:13+00:00",
+      "position_time_difference_seconds": 0,
+      "location_source": "WhereTheISS historical",
+      "used_backup": false,
+      "tle_epoch_utc": null,
+      "tle_age_days": null,
+      "altitude": 417.42898893687,
+      "velocity": 27589.594954603,
+      "visibility": "eclipsed",
+      "units": "kilometers",
+      "area": "Indian Ocean",
+      "region": "Indian Ocean",
+      "country_id": "",
+      "country_name": "",
+      "country_topic": ""
+    }
   }
 ]
